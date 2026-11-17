@@ -1,4 +1,4 @@
-const CACHE='kartlik-shell-v16';
+const CACHE='kartlik-shell-v17';
 const FILES=['./','./index.html','./app.js?v=15','./manifest.webmanifest','./decks/manifest.json','./icon.svg','./icon-180.png','./icon-192.png','./icon-512.png','./libs/fflate.js','./libs/fzstd.js','./libs/sql-wasm.js','./libs/sql-wasm.wasm'];
 self.addEventListener('install',e=>e.waitUntil(caches.open(CACHE).then(c=>c.addAll(FILES)).then(()=>self.skipWaiting())));
 self.addEventListener('activate',e=>e.waitUntil(caches.keys().then(keys=>Promise.all(keys.filter(k=>k.startsWith('kartlik-shell-')&&k!==CACHE).map(k=>caches.delete(k)))).then(()=>self.clients.claim())));

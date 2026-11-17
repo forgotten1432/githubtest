@@ -1,3 +1,16 @@
 [
-  {"file":"almanca-temel-2000.apkg","deck":"Almanca – Temel 2000 Sözcük","title":"Almanca – Temel 2000 Sözcük","desc":"A1–B1 temel kelimeler · artikel, çoğul, fiil çekimleri, örnek cümle · iki yönlü","notes":2002}
+  {
+    "file": "almanca-temel-2000.apkg",
+    "deck": "Almanca – Temel 2000 Sözcük",
+    "title": "Almanca – Temel 2000 Sözcük",
+    "desc": "A1–B1 temel kelimeler · artikel, çoğul, fiil çekimleri, örnek cümle · iki yönlü",
+    "notes": 2002
+  },
+  {
+    "file": "english-b1-b2.apkg",
+    "deck": "English Vocabulary B1-B2",
+    "title": "English Vocabulary B1-B2",
+    "desc": "711 kelime · IPA, İngilizce anlam, örnek cümle, Uygurca karşılık",
+    "notes": 711
+  }
 ]
