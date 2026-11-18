@@ -1,0 +1,59 @@
+adj:gemütlich|Almancaya özgü bir kelime: hem rahat hem sıcak, samimi, huzurlu ortam. "Das Café ist gemütlich." Tek kelimeyle tam karşılığı yok; "sıcacık, keyifli, rahat" karışımı.|نېمىسچىغا خاس سۆز: ھەم راھەت ھەم ئىللىق، سەمىمىي، ئازادە مۇھىت. «Das Café ist gemütlich.» بىر سۆزلۈك تولۇق تەڭدىشى يوق.
+adj:bequem|Fiziksel rahatlık: "Das Sofa ist bequem.", "bequeme Schuhe". Ortamın sıcaklığı için "gemütlich". Kişi için "rahatına düşkün, tembel" anlamı da olabilir.|جىسمانىي راھەت: «Das Sofa ist bequem.»، «bequeme Schuhe». مۇھىتنىڭ ئىللىقلىقى ئۈچۈن «gemütlich».
+adj:nett|"Sevimli, iyi kalpli, kibar" (kişi için). Şeyler için de "hoş": "ein netter Abend". Ama "Das ist nett gemeint." bazen "iyi niyetli ama yetersiz" demektir.|«ياخشى، مۇلايىم» (كىشى ئۈچۈن). نەرسە ئۈچۈنمۇ «ياقىملىق»: «ein netter Abend».
+adj:freundlich|"Güler yüzlü, nazik". Arkadaş (Freund) kelimesinden gelir ama "arkadaşça" değil, genel nezaket anlamındadır.|«خۇش چىراي، مۇلايىم». «Freund» دىن كەلگەن، لېكىن ئومۇمىي سىپايىلىق مەنىسىدە.
+adj:sympathisch|"Kanı sıcak, sempatik": "Er ist mir sympathisch." (Onu sevdim, kanım ısındı.) "Anlayışlı" anlamı yoktur.|«يېقىملىق، ئىللىق»: «Er ist mir sympathisch.» (ئۇنى ياقتۇردۇم.)
+adj:sauer|1) Ekşi (tat): "Die Zitrone ist sauer." 2) Konuşma dilinde "kızgın, bozuk": "Ich bin sauer auf dich." (Sana kızgınım.)|1) نوردان (تەم): «Die Zitrone ist sauer.» 2) سۆزلىشىش تىلىدا «ئاچچىقى كەلگەن»: «Ich bin sauer auf dich.»
+adj:scharf|1) Acı (biber): "Das Essen ist scharf." 2) Keskin: "ein scharfes Messer". 3) Net (görüntü). Tatlı-acı "bitter" ise başka bir tattır (kahve, ilaç).|1) ئاچچىق (قىزىلمۇچ): «Das Essen ist scharf.» 2) ئۆتكۈر: «ein scharfes Messer». 3) ئېنىق (رەسىم). «bitter» باشقا تەم (قەھۋە، دورا).
+adj:bitter|Acı (kahve, ilaç, çikolata tadı). Biber acısı için "scharf".|ئاچچىق (قەھۋە، دورا تەمى). قىزىلمۇچ ئاچچىقى ئۈچۈن «scharf».
+adj:schwer|1) Ağır: "Der Koffer ist schwer." 2) Zor: "Die Aufgabe ist schwer." Bağlamdan anlaşılır. "schwierig" sadece "zor".|1) ئېغىر: «Der Koffer ist schwer.» 2) قىيىن: «Die Aufgabe ist schwer.» «schwierig» پەقەت «قىيىن».
+adj:leicht|1) Hafif. 2) Kolay. Bağlamdan anlaşılır: "ein leichter Koffer" / "eine leichte Aufgabe".|1) يېنىك. 2) ئاسان. مەزمۇندىن ئايرىلىدۇ.
+adj:fertig|1) Bitmiş, hazır: "Ich bin fertig." (Bitirdim.) 2) Konuşma dilinde "bitkin, perişan": "Ich bin total fertig." 3) "fertig machen" = bitirmek.|1) تۈگىگەن، تەييار: «Ich bin fertig.» (تۈگەتتىم.) 2) سۆزلىشىشتە «ھالسىز»: «Ich bin total fertig.»
+adj:frei|1) Boş: "Ist der Platz frei?" 2) Serbest, özgür. 3) Ücretsiz: "Eintritt frei". 4) İzinli: "Ich habe morgen frei." (Yarın işim yok.)|1) بوش: «Ist der Platz frei?» 2) ئەركىن. 3) ھەقسىز: «Eintritt frei». 4) دەم ئالىدىغان: «Ich habe morgen frei.»
+adj:offen|1) Açık (kapı, dükkân). 2) Açık sözlü: "Ich bin offen zu dir." 3) Belirsiz: "Die Frage ist noch offen."|1) ئوچۇق (ئىشىك، دۇكان). 2) ئوچۇق-يورۇق: «Ich bin offen zu dir.» 3) ھەل بولمىغان: «Die Frage ist noch offen.»
+adj:sicher|1) Güvenli: "ein sicherer Ort". 2) Emin: "Bist du sicher?" 3) Zarf: "kesinlikle". Bağlamdan anlaşılır.|1) بىخەتەر: «ein sicherer Ort». 2) جەزملىك: «Bist du sicher?» 3) رەۋىش: «چوقۇم».
+adj:arm|1) Fakir. 2) Zavallı (acıma): "Der Arme!" (Zavallıcık!) "der Arm" (kol) ile karıştırma.|1) نامرات. 2) بىچارە: «Der Arme!» «der Arm» (بىلەك) بىلەن ئارىلاشتۇرماڭ.
+adj:böse|1) Kötü: "ein böser Mann". 2) Kızgın: "Bist du böse auf mich?" (Bana kızgın mısın?)|1) يامان: «ein böser Mann». 2) ئاچچىقلانغان: «Bist du böse auf mich?»
+adj:faul|1) Tembel (kişi). 2) Çürük, bozuk (yiyecek): "ein fauler Apfel".|1) ھورۇن (كىشى). 2) چىرىگەن (يېمەكلىك): «ein fauler Apfel».
+adj:billig|"Ucuz" ama bazen "kalitesiz" çağrışımı yapar. Olumlu ucuzluk için "günstig" daha iyidir.|«ئەرزان»، لېكىن بەزىدە «سۈپەتسىز» مەنىسىنى بېرىدۇ. ئىجابىي مەنىدە «günstig» ياخشى.
+adj:günstig|1) Uygun fiyatlı (olumlu). 2) Elverişli: "ein günstiger Moment".|1) ئەرزان (ئىجابىي). 2) قولايلىق: «ein günstiger Moment».
+adj:groß|1) Büyük. 2) Uzun boylu (kişi): "Er ist groß." 3) Yaşça büyük: "mein großer Bruder" (ağabeyim).|1) چوڭ. 2) ئېگىز (كىشى): «Er ist groß.» 3) ياشتا چوڭ: «mein großer Bruder» (ئاكام).
+adj:klein|1) Küçük. 2) Kısa boylu. 3) Yaşça küçük: "meine kleine Schwester" (kız kardeşim).|1) كىچىك. 2) پاكار. 3) ياشتا كىچىك: «meine kleine Schwester» (سىڭلىم).
+adj:alt|1) Yaşlı (kişi). 2) Eski (eşya). Yaş sorarken: "Wie alt bist du?" Türkçede "kaç yaşındasın" ama Almancada "ne kadar yaşlısın" diye sorulur.|1) قېرى (كىشى). 2) كونا (نەرسە). ياش سوراشتا: «Wie alt bist du?»
+adj:kaputt|Konuşma dilinde "bozuk, kırık, çalışmıyor": "Das Handy ist kaputt." Kişi için "çok yorgun": "Ich bin kaputt."|سۆزلىشىش تىلىدا «بۇزۇق»: «Das Handy ist kaputt.» كىشى ئۈچۈن «بەك ھېرىپ كەتكەن»: «Ich bin kaputt.»
+adj:toll|"Harika, süper" (konuşma dili). Eskiden "çılgın" demekti; bugün olumlu kullanılır.|«ئاجايىپ، ناھايىتى ياخشى» (سۆزلىشىش تىلى).
+adj:satt|"Tok": "Ich bin satt." Türkçedeki "doydum". "etwas satt haben" = bıkmak: "Ich habe es satt!" (Bıktım!)|«توق»: «Ich bin satt.» «etwas satt haben» = بىزار بولماق: «Ich habe es satt!»
+adj:schlimm|"Kötü, ciddi" (durum): "Das ist nicht so schlimm." (O kadar da kötü değil, önemli değil.) Kişi için "schlecht" ya da "böse".|«ناچار، ئېغىر» (ئەھۋال): «Das ist nicht so schlimm.» (ئانچە چاتاق يوق.)
+adj:schlecht|1) Kötü (kalite). 2) "Mir ist schlecht." = Midem bulanıyor, kendimi kötü hissediyorum.|1) ناچار (سۈپەت). 2) «Mir ist schlecht.» = كۆڭلۈم ئېلىشىۋاتىدۇ، ئۆزۈمنى ياخشى ھېس قىلمايۋاتىمەن.
+adj:warm|1) Ilık, sıcak. "Mir ist warm." = Sıcakladım (Ich bin warm demek yanlış anlaşılır). 2) Yemek için "warmes Essen" = sıcak yemek.|1) ئىللىق. «Mir ist warm.» = ئىسسىپ كەتتىم. 2) «warmes Essen» = ئىسسىق تاماق.
+adj:kalt|Soğuk. "Mir ist kalt." = Üşüyorum. "Ich bin kalt" demek "soğuk birisiyim" anlamına gelir.|سوغۇق. «Mir ist kalt.» = توڭلاۋاتىمەن.
+adj:heiß|Çok sıcak (kaynar). Hava için de: "Heute ist es heiß." Kişi için kullanma; "Mir ist heiß." denir.|بەك ئىسسىق. ھاۋا ئۈچۈنمۇ: «Heute ist es heiß.» «Mir ist heiß.» = بەك ئىسسىپ كەتتىم.
+adj:ledig|Bekâr (resmî formlarda). Günlük dilde "Single". Formlarda: ledig / verheiratet / geschieden / verwitwet (dul).|بويتاق (رەسمىي جەدۋەللەردە). جەدۋەلدە: ledig / verheiratet / geschieden / verwitwet (تۇل).
+adj:fremd|1) Yabancı, tanıdık olmayan: "Ich bin fremd hier." (Buranın yabancısıyım.) 2) Başkasına ait: "fremdes Eigentum".|1) ناتونۇش: «Ich bin fremd hier.» (بۇ يەرگە ناتونۇشمەن.) 2) باشقىلارنىڭ: «fremdes Eigentum».
+adj:eigen|"Kendi (öz)": "eine eigene Wohnung" (kendine ait ev). "Eigentum" = mülk.|«ئۆزىنىڭ»: «eine eigene Wohnung» (ئۆز ئۆيى).
+adj:letzt|1) Son: "das letzte Mal". 2) Geçen: "letzte Woche" (geçen hafta), "letztes Jahr".|1) ئاخىرقى: «das letzte Mal». 2) ئۆتكەن: «letzte Woche» (ئۆتكەن ھەپتە).
+adj:nächst|1) Sonraki, gelecek: "nächste Woche" (gelecek hafta). 2) En yakın: "Wo ist die nächste Apotheke?"|1) كېلەر: «nächste Woche» (كېلەر ھەپتە). 2) ئەڭ يېقىن: «Wo ist die nächste Apotheke?»
+adj:erst|1) Birinci, ilk. 2) Zarf olarak "ancak, daha yeni": "Er kommt erst morgen." (Ancak yarın geliyor.) "Ich bin erst 18." (Daha 18'im.)|1) بىرىنچى. 2) رەۋىش: «تېخى، ئاندىن»: «Er kommt erst morgen.» (ئۇ ئەتىلا كېلىدۇ.)
+adj:besetzt|1) Dolu (koltuk). 2) Meşgul (telefon, tuvalet): "Die Toilette ist besetzt."|1) بەند (ئورۇن). 2) ئالدىراش (تېلېفون، ھاجەتخانا).
+adj:pünktlich|Dakik, tam zamanında. Almanya'da randevulara dakik gitmek çok önemlidir; 5 dakika geç kalmak bile kabalık sayılabilir.|ۋاقتىدا. گېرمانىيىدە ۋاقتىدا كېلىش ناھايىتى مۇھىم.
+adj:geschlossen|Kapalı (dükkân, kapı). Konuşma dilinde "zu". Almanya'da pazar günleri çoğu dükkân "geschlossen".|يېپىق (دۇكان، ئىشىك). سۆزلىشىشتە «zu». يەكشەنبە كۈنى كۆپ دۇكانلار تاقاق.
+adj:gerade|1) Düz: "eine gerade Linie". 2) Zarf: "şu anda, tam şimdi": "Ich esse gerade." (Şu an yemek yiyorum.) 3) Çift (sayı).|1) تۈز: «eine gerade Linie». 2) رەۋىش: «دەل ھازىر»: «Ich esse gerade.» (ھازىر تاماق يەۋاتىمەن.) 3) جۈپ (سان).
+adj:echt|1) Gerçek, hakiki: "echtes Leder". 2) Konuşma dilinde "gerçekten": "Das ist echt gut!" "Echt?" = Sahi mi?|1) ھەقىقىي: «echtes Leder». 2) سۆزلىشىشتە «راستتىنلا»: «Das ist echt gut!» «Echt?» = راستمۇ؟
+adj:verrückt|"Deli, çılgın"; konuşma dilinde "çok istekli": "verrückt nach Fußball" (futbol delisi).|«ساراڭ، تەلۋە»؛ «verrückt nach Fußball» (پۇتبولغا ئامراق).
+Guten Appetit|Yemekten önce söylenir. Cevabı: "Danke, gleichfalls!" (Teşekkürler, size de!)|تاماقتىن بۇرۇن ئېيتىلىدۇ. جاۋابى: «Danke, gleichfalls!»
+Es tut mir leid|Özür ve üzüntü bildirir: "Es tut mir leid, ich bin zu spät." Taziye için de: "Das tut mir leid." Hafif durumlarda "Entschuldigung" yeterli.|كەچۈرۈم ۋە ئەپسۇسلىنىش: «Es tut mir leid, ich bin zu spät.» تەزىيىدىمۇ: «Das tut mir leid.» يېنىك ئەھۋالدا «Entschuldigung».
+Entschuldigung|1) Pardon (dikkat çekmek, yol sormak): "Entschuldigung, wo ist…?" 2) Özür dilerim (küçük hata). Büyük hatada "Es tut mir leid".|1) كەچۈرۈڭ (دىققەت تارتىش، يول سوراش): «Entschuldigung, wo ist…?» 2) كىچىك خاتالىق ئۈچۈن ئەپۇ سوراش.
+bitte|Çok yönlü: 1) Lütfen: "Ein Wasser, bitte." 2) Buyurun (verirken). 3) Rica ederim ("Danke!" – "Bitte!"). 4) "Wie bitte?" = Efendim? Anlamadım.|كۆپ ئىشلىتىلىدۇ: 1) «Ein Wasser, bitte.» 2) مەرھەمەت (بەرگەندە). 3) ئەرزىمەيدۇ («Danke!» – «Bitte!»). 4) «Wie bitte?» = نېمە دېدىڭىز؟
+Wie geht's?|Samimi "Nasılsın?". Resmî: "Wie geht es Ihnen?" Almanlar bu soruya kısa cevap verir: "Gut, danke. Und dir?"|سەمىمىي «قانداق ئەھۋالىڭ؟». رەسمىي: «Wie geht es Ihnen?» قىسقا جاۋاب: «Gut, danke. Und dir?»
+Mir geht es gut|"İyiyim." Almancada "Ich bin gut" denmez; "Mir geht es gut" (bana iyi gidiyor) yapısı kullanılır.|«ياخشى». نېمىسچىدا «Ich bin gut» دېيىلمەيدۇ؛ «Mir geht es gut» قۇرۇلمىسى ئىشلىتىلىدۇ.
+tschüss|Samimi "hoşça kal". Resmî ortamda "Auf Wiedersehen". Telefonda: "Auf Wiederhören".|سەمىمىي «خوش». رەسمىي: «Auf Wiedersehen». تېلېفوندا: «Auf Wiederhören».
+guten Tag|Gün içinde resmî selam. Güney Almanya ve Avusturya'da "Grüß Gott", İsviçre'de "Grüezi" de denir. Samimi: "Hallo".|كۈندۈزى رەسمىي سالام. جەنۇبىي گېرمانىيە ۋە ئاۋسترىيىدە «Grüß Gott». سەمىمىي: «Hallo».
+Prost|İçki kadehlerini kaldırırken söylenir. Alkolsüz içecekle de kullanılabilir. Yemek için "Guten Appetit".|ئىستاكان كۆتۈرگەندە ئېيتىلىدۇ. تاماق ئۈچۈن «Guten Appetit».
+Gute Besserung|Hastaya söylenir: "Geçmiş olsun, şifalar olsun."|كېسەل ئادەمگە ئېيتىلىدۇ: «تېز ساقىيىپ كېتىڭ».
+Schade|"Yazık, ne yazık ki": "Schade, dass du nicht kommst." Hafif hayal kırıklığı bildirir.|«ئەپسۇس»: «Schade, dass du nicht kommst.» يېنىك ئۈمىدسىزلىكنى بىلدۈرىدۇ.
+Klar|"Tabii, elbette" (samimi): "Kommst du mit?" – "Klar!" Sıfat olarak "açık, berrak": "klares Wasser", "Ist das klar?" (Anlaşıldı mı?)|«ئەلۋەتتە» (سەمىمىي): «Kommst du mit?» – «Klar!» سۈپەت: «سۈزۈك، ئېنىق»: «Ist das klar?» (چۈشەندىڭمۇ؟)
+genau|"Aynen, tam olarak": karşıdakini onaylarken çok kullanılır. Sıfat olarak "kesin, dakik".|«دەل شۇنداق»: پىكىرگە قوشۇلغاندا كۆپ ئىشلىتىلىدۇ.
+Herzlichen Glückwunsch|Her türlü tebrik: doğum günü, sınav, düğün. "zum Geburtstag" eklenir: "Herzlichen Glückwunsch zum Geburtstag!"|ھەر خىل تەبرىك: تۇغۇلغان كۈن، ئىمتىھان، توي. «Herzlichen Glückwunsch zum Geburtstag!»
+Ich heiße …|"Benim adım …". Alternatif: "Mein Name ist …" (daha resmî), "Ich bin …" (samimi).|«مېنىڭ ئىسمىم …». باشقا شەكلى: «Mein Name ist …» (رەسمىي)، «Ich bin …» (سەمىمىي).
+Wie bitte?|Anlamadığında kibarca tekrar istemek: "Efendim?" Sadece "Was?" demek kabadır.|چۈشەنمىگەندە سىپايە قايتا سوراش: «نېمە دېدىڭىز؟» پەقەت «Was?» دېيىش قوپال.
+kein Problem|"Sorun değil": teşekküre veya özre cevap. Daha kibar: "Gern geschehen", "Keine Ursache".|«مەسىلە يوق»: رەھمەت ياكى ئەپۇغا جاۋاب. سىپايىراق: «Gern geschehen»، «Keine Ursache».

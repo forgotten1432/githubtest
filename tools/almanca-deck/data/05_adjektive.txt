@@ -1,0 +1,188 @@
+#Adjektive Grundlagen
+adj||gut|besser · am besten|iyi|Das Essen ist gut.
+adj||schlecht|schlechter · am schlechtesten|kötü|Das Wetter ist schlecht.
+adj||schön|schöner · am schönsten|güzel|Das ist ein schöner Tag.
+adj||hässlich|hässlicher · am hässlichsten|çirkin|Das Haus ist hässlich.
+adj||groß|größer · am größten|büyük; uzun boylu|Mein Bruder ist groß.
+adj||klein|kleiner · am kleinsten|küçük|Die Wohnung ist klein.
+adj||lang|länger · am längsten|uzun|Die Straße ist lang.
+adj||kurz|kürzer · am kürzesten|kısa|Der Film ist kurz.
+adj||hoch|höher · am höchsten|yüksek|Der Berg ist hoch.
+adj||niedrig|niedriger · am niedrigsten|alçak; düşük|Der Preis ist niedrig.
+adj||breit|breiter · am breitesten|geniş|Die Straße ist breit.
+adj||eng|enger · am engsten|dar|Die Hose ist zu eng.
+adj||dick|dicker · am dicksten|kalın; şişman|Das Buch ist dick.
+adj||dünn|dünner · am dünnsten|ince; zayıf|Das Papier ist dünn.
+adj||schwer|schwerer · am schwersten|ağır; zor|Der Koffer ist schwer.
+adj||leicht|leichter · am leichtesten|hafif; kolay|Die Aufgabe ist leicht.
+adj||einfach|einfacher · am einfachsten|kolay; basit|Das ist einfach.
+adj||schwierig|schwieriger · am schwierigsten|zor; güç|Die Prüfung ist schwierig.
+adj||neu|neuer · am neuesten|yeni|Mein Handy ist neu.
+adj||alt|älter · am ältesten|eski; yaşlı|Mein Opa ist alt.
+adj||jung|jünger · am jüngsten|genç|Meine Schwester ist jung.
+adj||schnell|schneller · am schnellsten|hızlı|Der Zug ist schnell.
+adj||langsam|langsamer · am langsamsten|yavaş|Sprich bitte langsam.
+adj||früh|früher · am frühesten|erken|Ich stehe früh auf.
+adj||spät|später · am spätesten|geç|Es ist schon spät.
+adj||heiß|heißer · am heißesten|sıcak (çok)|Der Tee ist heiß.
+adj||warm|wärmer · am wärmsten|ılık; sıcak|Heute ist es warm.
+adj||kalt|kälter · am kältesten|soğuk|Im Winter ist es kalt.
+adj||kühl|kühler · am kühlsten|serin|Der Abend ist kühl.
+adj||nass|nasser · am nassesten|ıslak|Meine Jacke ist nass.
+adj||trocken|trockener · am trockensten|kuru|Die Wäsche ist trocken.
+adj||sauber|sauberer · am saubersten|temiz|Das Zimmer ist sauber.
+adj||schmutzig|schmutziger · am schmutzigsten|kirli|Meine Schuhe sind schmutzig.
+adj||voll|voller · am vollsten|dolu|Der Bus ist voll.
+adj||leer|leerer · am leersten|boş|Die Flasche ist leer.
+adj||offen|offener · am offensten|açık|Das Fenster ist offen.
+adj||geschlossen|–|kapalı|Das Geschäft ist geschlossen.
+adj||hell|heller · am hellsten|aydınlık; açık (renk)|Das Zimmer ist hell.
+adj||dunkel|dunkler · am dunkelsten|karanlık; koyu|Draußen ist es dunkel.
+adj||laut|lauter · am lautesten|gürültülü; yüksek sesli|Die Musik ist zu laut.
+adj||leise|leiser · am leisesten|sessiz; alçak sesli|Sei bitte leise.
+adj||ruhig|ruhiger · am ruhigsten|sakin; sessiz|Die Gegend ist ruhig.
+adj||teuer|teurer · am teuersten|pahalı|Das Auto ist teuer.
+adj||billig|billiger · am billigsten|ucuz|Das Brot ist billig.
+adj||günstig|günstiger · am günstigsten|uygun fiyatlı; elverişli|Der Preis ist günstig.
+adj||reich|reicher · am reichsten|zengin|Er ist sehr reich.
+adj||arm|ärmer · am ärmsten|fakir; yoksul|Die Familie ist arm.
+adj||stark|stärker · am stärksten|güçlü|Er ist stark.
+adj||schwach|schwächer · am schwächsten|zayıf (güçsüz)|Der Kaffee ist schwach.
+adj||richtig|richtiger · am richtigsten|doğru|Die Antwort ist richtig.
+adj||falsch|falscher · am falschesten|yanlış|Das ist falsch.
+adj||wichtig|wichtiger · am wichtigsten|önemli|Das ist wichtig.
+adj||interessant|interessanter · am interessantesten|ilginç|Der Film ist interessant.
+adj||langweilig|langweiliger · am langweiligsten|sıkıcı|Der Unterricht ist langweilig.
+adj||spannend|spannender · am spannendsten|heyecanlı; sürükleyici|Das Buch ist spannend.
+adj||möglich|möglicher · am möglichsten|mümkün|Ist das möglich?
+adj||unmöglich|–|imkânsız|Das ist unmöglich.
+adj||normal|normaler · am normalsten|normal|Das ist ganz normal.
+adj||besonders|–|özel; olağanüstü|Das ist ein besonderer Tag.
+adj||gleich|–|aynı; eşit|Wir haben das gleiche Handy.
+adj||anders|–|farklı|Das ist ganz anders.
+adj||ähnlich|ähnlicher · am ähnlichsten|benzer|Die Brüder sind sich ähnlich.
+adj||fertig|–|hazır; bitmiş|Das Essen ist fertig.
+adj||bereit|–|hazır (istekli)|Ich bin bereit.
+adj||frei|freier · am freisten|boş; özgür|Ist der Platz frei?
+adj||besetzt|–|dolu (meşgul)|Der Platz ist besetzt.
+adj||pünktlich|pünktlicher · am pünktlichsten|dakik; zamanında|Der Zug ist pünktlich.
+adj||sicher|sicherer · am sichersten|güvenli; emin|Das ist sicher.
+adj||gefährlich|gefährlicher · am gefährlichsten|tehlikeli|Das ist gefährlich.
+adj||nützlich|nützlicher · am nützlichsten|yararlı|Das Wörterbuch ist nützlich.
+adj||wirklich|–|gerçek|Das ist eine wirkliche Chance.
+adj||echt|echter · am echtesten|gerçek; hakiki|Das Leder ist echt.
+adj||ganz|–|bütün; tam|Ich habe den ganzen Tag gearbeitet.
+adj||halb|–|yarım|Eine halbe Stunde.
+adj||viel|mehr · am meisten|çok|Ich habe viel Arbeit.
+adj||wenig|weniger · am wenigsten|az|Ich habe wenig Zeit.
+adj||mehrere|–|birkaç; çeşitli|Mehrere Leute warten.
+adj||letzt|–|son; geçen|Das ist das letzte Mal.
+adj||nächst|–|sonraki; en yakın|Der nächste Bus kommt in zehn Minuten.
+adj||erst|–|ilk; daha ancak|Das ist mein erster Tag.
+adj||ander|–|başka; diğer|Ich nehme das andere Buch.
+adj||eigen|–|kendi; öz|Ich habe ein eigenes Zimmer.
+adj||bekannt|bekannter · am bekanntesten|tanınmış; bilinen|Er ist ein bekannter Sänger.
+adj||fremd|fremder · am fremdesten|yabancı; tanımadık|Die Stadt ist mir fremd.
+adj||international|–|uluslararası|Das ist ein internationaler Flughafen.
+adj||modern|moderner · am modernsten|modern|Die Wohnung ist modern.
+adj||typisch|typischer · am typischsten|tipik|Das ist typisch deutsch.
+adj||kaputt|–|bozuk; kırık|Mein Handy ist kaputt.
+adj||bunt|bunter · am buntesten|rengârenk|Das Bild ist bunt.
+#Farben
+adj||rot|roter · am rotesten|kırmızı|Das Auto ist rot.
+adj||blau|blauer · am blauesten|mavi|Der Himmel ist blau.
+adj||grün|grüner · am grünsten|yeşil|Das Gras ist grün.
+adj||gelb|gelber · am gelbsten|sarı|Die Banane ist gelb.
+adj||schwarz|schwärzer · am schwärzesten|siyah|Die Katze ist schwarz.
+adj||weiß|weißer · am weißesten|beyaz|Der Schnee ist weiß.
+adj||grau|grauer · am grauesten|gri|Der Himmel ist grau.
+adj||braun|brauner · am braunsten|kahverengi|Die Tür ist braun.
+adj||orange|–|turuncu|Die Orange ist orange.
+adj||rosa|–|pembe|Das Kleid ist rosa.
+adj||lila|–|mor|Die Blume ist lila.
+adj||golden|–|altın renkli|Der Ring ist golden.
+adj||silbern|–|gümüş renkli|Die Uhr ist silbern.
+#Gefühle und Eigenschaften
+adj||glücklich|glücklicher · am glücklichsten|mutlu|Ich bin glücklich.
+adj||traurig|trauriger · am traurigsten|üzgün|Er ist traurig.
+adj||froh|froher · am frohesten|memnun; sevinçli|Ich bin froh, dich zu sehen.
+adj||müde|müder · am müdesten|yorgun|Ich bin müde.
+adj||wach|wacher · am wachsten|uyanık|Ich bin schon wach.
+adj||gesund|gesünder · am gesündesten|sağlıklı|Obst ist gesund.
+adj||krank|kränker · am kränksten|hasta|Ich bin krank.
+adj||hungrig|hungriger · am hungrigsten|aç|Ich bin hungrig.
+adj||satt|–|tok|Danke, ich bin satt.
+adj||durstig|durstiger · am durstigsten|susamış|Ich bin durstig.
+adj||nervös|nervöser · am nervösesten|gergin; sinirli|Ich bin vor der Prüfung nervös.
+adj||wütend|wütender · am wütendsten|öfkeli|Er ist wütend.
+adj||böse|böser · am bösesten|kızgın; kötü|Bist du böse auf mich?
+adj||ängstlich|ängstlicher · am ängstlichsten|korkak; endişeli|Das Kind ist ängstlich.
+adj||überrascht|–|şaşırmış|Ich bin überrascht.
+adj||allein|–|yalnız|Ich fühle mich allein.
+adj||einsam|einsamer · am einsamsten|yalnız; ıssız|Er fühlt sich einsam.
+adj||zufrieden|zufriedener · am zufriedensten|memnun|Ich bin mit dem Ergebnis zufrieden.
+adj||freundlich|freundlicher · am freundlichsten|nazik; güler yüzlü|Die Verkäuferin ist freundlich.
+adj||unfreundlich|–|nezaketsiz|Der Mann ist unfreundlich.
+adj||nett|netter · am nettesten|sevimli; hoş; kibar|Mein Nachbar ist nett.
+adj||höflich|höflicher · am höflichsten|nazik; saygılı|Sei bitte höflich.
+adj||lustig|lustiger · am lustigsten|komik; neşeli|Der Film ist lustig.
+adj||ernst|ernster · am ernstesten|ciddi|Das ist ein ernstes Problem.
+adj||klug|klüger · am klügsten|akıllı|Das Kind ist klug.
+adj||dumm|dümmer · am dümmsten|aptal|Das war dumm.
+adj||fleißig|fleißiger · am fleißigsten|çalışkan|Sie ist sehr fleißig.
+adj||faul|fauler · am faulsten|tembel; bozuk (yiyecek)|Er ist faul.
+adj||mutig|mutiger · am mutigsten|cesur|Das Mädchen ist mutig.
+adj||sympathisch|sympathischer · am sympathischsten|sempatik; sevimli|Er ist sehr sympathisch.
+adj||ehrlich|ehrlicher · am ehrlichsten|dürüst|Sei ehrlich zu mir!
+adj||verheiratet|–|evli|Er ist verheiratet.
+adj||ledig|–|bekâr|Ich bin ledig.
+adj||geschieden|–|boşanmış|Sie ist geschieden.
+adj||berühmt|berühmter · am berühmtesten|ünlü|Er ist ein berühmter Sänger.
+adj||beliebt|beliebter · am beliebtesten|sevilen; popüler|Das ist ein beliebtes Lied.
+adj||verschieden|–|farklı; çeşitli|Wir haben verschiedene Meinungen.
+adj||gemeinsam|–|ortak; birlikte|Wir haben gemeinsame Hobbys.
+adj||beschäftigt|–|meşgul|Ich bin heute beschäftigt.
+adj||verrückt|verrückter · am verrücktesten|çılgın; deli|Das ist eine verrückte Idee.
+adj||seltsam|seltsamer · am seltsamsten|garip; tuhaf|Das ist seltsam.
+adj||erstaunlich|erstaunlicher · am erstaunlichsten|şaşırtıcı|Das ist erstaunlich.
+adj||wunderbar|wunderbarer · am wunderbarsten|harika|Das Essen war wunderbar.
+adj||toll|toller · am tollsten|harika; süper|Das ist toll!
+adj||super|–|süper|Das ist super!
+adj||prima|–|müthiş; harika|Prima, das klappt!
+adj||lecker|leckerer · am leckersten|lezzetli|Der Kuchen ist lecker.
+adj||süß|süßer · am süßesten|tatlı|Der Tee ist süß.
+adj||sauer|saurer · am sauersten|ekşi|Die Zitrone ist sauer.
+adj||scharf|schärfer · am schärfsten|acı (baharat); keskin|Das Essen ist scharf.
+adj||salzig|salziger · am salzigsten|tuzlu|Die Suppe ist salzig.
+adj||bitter|bitterer · am bittersten|acı (tat)|Der Kaffee ist bitter.
+adj||frisch|frischer · am frischesten|taze|Das Brot ist frisch.
+adj||weich|weicher · am weichsten|yumuşak|Das Bett ist weich.
+adj||hart|härter · am härtesten|sert|Der Stein ist hart.
+adj||glatt|glatter · am glattesten|düz; kaygan|Die Straße ist glatt.
+adj||rund|runder · am rundesten|yuvarlak|Der Tisch ist rund.
+adj||gerade|–|düz; dümdüz|Die Linie ist gerade.
+adj||tief|tiefer · am tiefsten|derin|Der See ist tief.
+adj||flach|flacher · am flachsten|düz; sığ|Das Wasser ist flach.
+adj||stolz|stolzer · am stolzesten|gururlu|Ich bin stolz auf dich.
+adj||schüchtern|schüchterner · am schüchternsten|utangaç|Das Mädchen ist schüchtern.
+adj||neugierig|neugieriger · am neugierigsten|meraklı|Das Kind ist neugierig.
+adj||geduldig|geduldiger · am geduldigsten|sabırlı|Sei bitte geduldig.
+adj||eilig|–|acele; aceleci|Ich habe es eilig.
+adj||bequem|bequemer · am bequemsten|rahat|Das Sofa ist bequem.
+adj||gemütlich|gemütlicher · am gemütlichsten|rahat; sıcak (ortam)|Das Café ist gemütlich.
+adj||praktisch|praktischer · am praktischsten|pratik|Das ist sehr praktisch.
+adj||praktisch|–|pratik|Das ist praktisch.
+adj||kostenlos|–|ücretsiz|Der Eintritt ist kostenlos.
+adj||gratis|–|bedava|Der Kaffee ist gratis.
+adj||wahr|wahrer · am wahrsten|doğru; gerçek|Das ist wahr.
+adj||bestimmt|–|belirli|Ich suche ein bestimmtes Buch.
+adj||offiziell|–|resmi|Das ist ein offizieller Brief.
+adj||privat|–|özel|Das ist privat.
+adj||öffentlich|–|kamusal; halka açık|Das ist ein öffentlicher Platz.
+adj||politisch|–|siyasi|Das ist ein politisches Thema.
+adj||sozial|–|sosyal|Er arbeitet in einem sozialen Beruf.
+adj||wirtschaftlich|–|ekonomik|Die wirtschaftliche Lage ist schwierig.
+adj||deutsch|–|Alman; Almanca|Ich lerne die deutsche Sprache.
+adj||türkisch|–|Türk; Türkçe|Ich trinke türkischen Tee.
+adj||englisch|–|İngiliz; İngilizce|Er spricht Englisch.
+adj||europäisch|–|Avrupalı; Avrupa|Das ist ein europäisches Land.

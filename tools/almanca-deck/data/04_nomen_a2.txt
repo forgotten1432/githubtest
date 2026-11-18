@@ -1,0 +1,247 @@
+#Schule und Arbeit
+n|die|Schule|Schulen|okul|Die Schule beginnt um acht.
+n|die|Universität|Universitäten|üniversite|Er geht auf die Universität.
+n|der|Kurs|Kurse|kurs|Ich mache einen Deutschkurs.
+n|der|Unterricht|–|ders; eğitim|Der Unterricht beginnt um neun.
+n|die|Klasse|Klassen|sınıf; sınıf (öğrenciler)|Die Klasse hat 20 Schüler.
+n|die|Aufgabe|Aufgaben|ödev; görev; alıştırma|Ich mache die Aufgabe.
+n|die|Hausaufgabe|Hausaufgaben|ev ödevi|Hast du die Hausaufgaben gemacht?
+n|die|Prüfung|Prüfungen|sınav|Morgen habe ich eine Prüfung.
+n|der|Test|Tests|test; sınav|Wir schreiben morgen einen Test.
+n|die|Note|Noten|not (karne)|Ich habe eine gute Note.
+n|die|Frage|Fragen|soru|Ich habe eine Frage.
+n|die|Antwort|Antworten|cevap|Die Antwort ist richtig.
+n|das|Wort|Wörter|sözcük; söz|Das Wort ist neu.
+n|der|Satz|Sätze|cümle|Schreib einen Satz.
+n|der|Text|Texte|metin|Lies den Text.
+n|die|Sprache|Sprachen|dil|Ich spreche drei Sprachen.
+n|das|Buch|Bücher|kitap|Ich lese ein Buch.
+n|das|Heft|Hefte|defter|Schreib es ins Heft.
+n|das|Papier|Papiere|kâğıt|Ich brauche ein Blatt Papier.
+n|der|Stift|Stifte|kalem|Hast du einen Stift?
+n|der|Kugelschreiber|Kugelschreiber|tükenmez kalem|Ich schreibe mit dem Kugelschreiber.
+n|der|Bleistift|Bleistifte|kurşun kalem|Ich male mit dem Bleistift.
+n|das|Wörterbuch|Wörterbücher|sözlük|Ich suche das Wort im Wörterbuch.
+n|die|Tafel|Tafeln|tahta|Der Lehrer schreibt an die Tafel.
+n|der|Computer|Computer|bilgisayar|Mein Computer ist neu.
+n|das|Handy|Handys|cep telefonu|Mein Handy ist kaputt.
+n|das|Internet|–|internet|Ich suche im Internet.
+n|die|E-Mail|E-Mails|e-posta|Ich schreibe dir eine E-Mail.
+n|die|Nachricht|Nachrichten|mesaj; haber|Ich habe eine Nachricht bekommen.
+n|der|Brief|Briefe|mektup|Ich schreibe einen Brief.
+n|die|Arbeit|Arbeiten|iş; çalışma|Ich habe viel Arbeit.
+n|der|Beruf|Berufe|meslek|Was ist Ihr Beruf?
+n|die|Firma|Firmen|şirket; firma|Er arbeitet bei einer Firma.
+n|das|Büro|Büros|ofis|Ich bin im Büro.
+n|die|Stelle|Stellen|iş (kadro); yer|Ich suche eine neue Stelle.
+n|der|Job|Jobs|iş (günlük)|Ich suche einen Job.
+n|das|Gehalt|Gehälter|maaş|Das Gehalt ist gut.
+n|der|Lohn|Löhne|ücret|Der Lohn ist niedrig.
+n|die|Besprechung|Besprechungen|toplantı|Die Besprechung beginnt um zehn.
+n|das|Formular|Formulare|form|Bitte füllen Sie das Formular aus.
+n|die|Unterschrift|Unterschriften|imza|Hier brauche ich Ihre Unterschrift.
+n|die|Information|Informationen|bilgi|Ich brauche mehr Informationen.
+n|das|Beispiel|Beispiele|örnek|Gib mir ein Beispiel.
+n|das|Problem|Probleme|sorun|Das ist kein Problem.
+n|die|Lösung|Lösungen|çözüm|Wir finden eine Lösung.
+n|die|Idee|Ideen|fikir|Das ist eine gute Idee.
+n|der|Grund|Gründe|neden; sebep|Was ist der Grund?
+n|das|Thema|Themen|konu|Das Thema ist interessant.
+n|die|Geschichte|Geschichten|hikâye; tarih|Ich lese eine Geschichte.
+n|die|Zahl|Zahlen|sayı|Schreib die Zahl auf.
+n|die|Nummer|Nummern|numara|Wie ist deine Nummer?
+n|die|Adresse|Adressen|adres|Wie ist Ihre Adresse?
+n|die|Telefonnummer|Telefonnummern|telefon numarası|Wie ist deine Telefonnummer?
+#Stadt und Orte
+n|die|Stadt|Städte|şehir|Istanbul ist eine große Stadt.
+n|das|Dorf|Dörfer|köy|Ich wohne in einem Dorf.
+n|das|Land|Länder|ülke; kır|Die Türkei ist ein schönes Land.
+n|die|Straße|Straßen|cadde; sokak|Die Straße ist lang.
+n|der|Weg|Wege|yol; patika|Ich kenne den Weg.
+n|der|Platz|Plätze|meydan; yer|Der Platz ist groß.
+n|die|Ecke|Ecken|köşe|An der Ecke ist eine Bäckerei.
+n|die|Kreuzung|Kreuzungen|kavşak|An der Kreuzung gehen Sie links.
+n|die|Brücke|Brücken|köprü|Die Brücke ist lang.
+n|der|Park|Parks|park|Wir gehen im Park spazieren.
+n|das|Zentrum|Zentren|merkez|Das Zentrum ist weit.
+n|die|Gegend|Gegenden|bölge; çevre|Die Gegend ist ruhig.
+n|der|Bahnhof|Bahnhöfe|tren istasyonu|Der Bahnhof ist hier in der Nähe.
+n|die|Haltestelle|Haltestellen|durak|Die Haltestelle ist da vorne.
+n|der|Flughafen|Flughäfen|havalimanı|Der Flughafen ist groß.
+n|die|Post|–|postane; posta|Ich gehe zur Post.
+n|die|Bank|Banken|banka|Ich gehe zur Bank.
+n|die|Bank|Bänke|bank (oturak)|Wir sitzen auf der Bank.
+n|die|Apotheke|Apotheken|eczane|Die Apotheke ist neben dem Arzt.
+n|das|Krankenhaus|Krankenhäuser|hastane|Er liegt im Krankenhaus.
+n|die|Bäckerei|Bäckereien|fırın; ekmek dükkânı|Die Bäckerei öffnet um sechs.
+n|der|Supermarkt|Supermärkte|süpermarket|Ich kaufe im Supermarkt ein.
+n|der|Markt|Märkte|pazar|Ich kaufe Obst auf dem Markt.
+n|das|Geschäft|Geschäfte|dükkân; iş|Das Geschäft ist zu.
+n|der|Laden|Läden|dükkân|Der Laden öffnet um neun.
+n|das|Kino|Kinos|sinema|Wir gehen ins Kino.
+n|das|Theater|Theater|tiyatro|Wir gehen ins Theater.
+n|das|Museum|Museen|müze|Das Museum ist heute offen.
+n|die|Bibliothek|Bibliotheken|kütüphane|Ich lerne in der Bibliothek.
+n|das|Hotel|Hotels|otel|Wir wohnen im Hotel.
+n|die|Kirche|Kirchen|kilise|Die Kirche ist sehr alt.
+n|die|Moschee|Moscheen|cami|Die Moschee ist groß.
+n|das|Schwimmbad|Schwimmbäder|yüzme havuzu|Wir gehen ins Schwimmbad.
+n|der|Spielplatz|Spielplätze|çocuk parkı|Die Kinder sind auf dem Spielplatz.
+n|der|Eingang|Eingänge|giriş|Der Eingang ist rechts.
+n|der|Ausgang|Ausgänge|çıkış|Der Ausgang ist links.
+n|die|Mitte|–|orta; merkez|Das Haus steht in der Mitte.
+n|die|Nähe|–|yakınlık|Ist hier in der Nähe ein Café?
+n|die|Seite|Seiten|yan; sayfa; taraf|Er steht auf der rechten Seite.
+n|der|Ort|Orte|yer; mekân|Das ist ein schöner Ort.
+n|die|Richtung|Richtungen|yön|In welche Richtung gehst du?
+n|die|Karte|Karten|harita; kart; bilet|Hast du eine Karte von der Stadt?
+n|der|Stadtplan|Stadtpläne|şehir haritası|Ich schaue auf den Stadtplan.
+#Verkehr und Reisen
+n|das|Auto|Autos|araba|Mein Auto ist rot.
+n|der|Bus|Busse|otobüs|Der Bus kommt gleich.
+n|die|Straßenbahn|Straßenbahnen|tramvay|Ich fahre mit der Straßenbahn.
+n|die|U-Bahn|U-Bahnen|metro|Ich fahre mit der U-Bahn.
+n|der|Zug|Züge|tren|Der Zug ist pünktlich.
+n|das|Flugzeug|Flugzeuge|uçak|Das Flugzeug landet gleich.
+n|das|Schiff|Schiffe|gemi|Das Schiff fährt nach Izmir.
+n|das|Fahrrad|Fahrräder|bisiklet|Ich fahre mit dem Fahrrad.
+n|das|Motorrad|Motorräder|motosiklet|Er fährt Motorrad.
+n|das|Taxi|Taxis|taksi|Wir nehmen ein Taxi.
+n|die|Fahrkarte|Fahrkarten|bilet (ulaşım)|Ich kaufe eine Fahrkarte.
+n|das|Ticket|Tickets|bilet|Ich habe ein Ticket gebucht.
+n|der|Fahrplan|Fahrpläne|tarife; sefer saatleri|Ich schaue in den Fahrplan.
+n|das|Gleis|Gleise|peron; ray|Der Zug fährt auf Gleis fünf ab.
+n|die|Verspätung|Verspätungen|gecikme|Der Zug hat Verspätung.
+n|die|Reise|Reisen|seyahat|Die Reise war lang.
+n|der|Koffer|Koffer|bavul|Mein Koffer ist schwer.
+n|der|Ausweis|Ausweise|kimlik|Haben Sie Ihren Ausweis dabei?
+n|der|Pass|Pässe|pasaport|Mein Pass ist abgelaufen.
+n|das|Visum|Visa|vize|Ich brauche ein Visum.
+n|der|Urlauber|Urlauber|tatilci|Viele Urlauber sind hier.
+n|der|Strand|Strände|plaj|Wir liegen am Strand.
+n|das|Meer|Meere|deniz|Das Meer ist blau.
+n|die|Ampel|Ampeln|trafik lambası|Die Ampel ist rot.
+n|die|Autobahn|Autobahnen|otoyol|Wir fahren auf der Autobahn.
+n|der|Unfall|Unfälle|kaza|Es gab einen Unfall.
+n|der|Stau|Staus|trafik sıkışıklığı|Auf der Autobahn ist ein Stau.
+n|das|Benzin|–|benzin|Das Benzin ist teuer.
+n|die|Tankstelle|Tankstellen|benzin istasyonu|Ich fahre zur Tankstelle.
+n|der|Führerschein|Führerscheine|ehliyet|Ich habe keinen Führerschein.
+#Einkaufen und Geld
+n|das|Geld|–|para|Ich habe kein Geld.
+n|der|Euro|Euro|avro|Das kostet zehn Euro.
+n|der|Cent|Cent|sent|Es kostet fünfzig Cent.
+n|der|Preis|Preise|fiyat|Der Preis ist hoch.
+n|das|Angebot|Angebote|teklif; indirim; arz|Das ist ein gutes Angebot.
+n|die|Kasse|Kassen|kasa|Bitte zahlen Sie an der Kasse.
+n|die|Karte|Karten|(banka) kartı|Ich zahle mit Karte.
+n|die|Kreditkarte|Kreditkarten|kredi kartı|Ich zahle mit Kreditkarte.
+n|das|Konto|Konten|hesap (banka)|Ich habe ein Konto bei der Bank.
+n|das|Bargeld|–|nakit|Ich habe kein Bargeld dabei.
+n|die|Tüte|Tüten|poşet|Brauchen Sie eine Tüte?
+n|der|Einkauf|Einkäufe|alışveriş|Ich mache den Einkauf.
+n|das|Geschenk|Geschenke|hediye|Das ist ein Geschenk für dich.
+n|die|Größe|Größen|beden; boyut|Welche Größe haben Sie?
+n|die|Farbe|Farben|renk|Welche Farbe magst du?
+n|das|Gewicht|Gewichte|ağırlık|Wie ist das Gewicht?
+n|das|Kilo|Kilos|kilo|Ein Kilo Äpfel, bitte.
+n|der|Liter|Liter|litre|Ein Liter Milch, bitte.
+n|der|Meter|Meter|metre|Das Zimmer ist vier Meter lang.
+n|der|Kilometer|Kilometer|kilometre|Es sind zehn Kilometer.
+n|das|Stück|Stücke|parça; adet|Ein Stück Kuchen, bitte.
+n|die|Packung|Packungen|paket; kutu|Eine Packung Milch, bitte.
+n|die|Dose|Dosen|kutu; konserve|Eine Dose Tomaten, bitte.
+n|das|Kilogramm|Kilogramm|kilogram|Fünf Kilogramm Kartoffeln.
+#Natur und Tiere
+n|die|Natur|–|doğa|Ich liebe die Natur.
+n|der|Baum|Bäume|ağaç|Der Baum ist hoch.
+n|die|Blume|Blumen|çiçek|Die Blume ist rot.
+n|das|Gras|Gräser|çimen; ot|Das Gras ist grün.
+n|der|Wald|Wälder|orman|Wir gehen im Wald spazieren.
+n|der|Berg|Berge|dağ|Der Berg ist hoch.
+n|der|See|Seen|göl|Wir schwimmen im See.
+n|der|Fluss|Flüsse|nehir|Der Fluss ist lang.
+n|das|Feld|Felder|tarla|Auf dem Feld wächst Weizen.
+n|die|Insel|Inseln|ada|Wir fahren auf eine Insel.
+n|die|Erde|–|dünya; toprak|Die Erde ist rund.
+n|die|Luft|Lüfte|hava|Die Luft ist frisch.
+n|das|Feuer|Feuer|ateş; yangın|Das Feuer ist heiß.
+n|der|Stein|Steine|taş|Der Stein ist schwer.
+n|das|Tier|Tiere|hayvan|Ich liebe Tiere.
+n|der|Hund|Hunde|köpek|Der Hund bellt.
+n|die|Katze|Katzen|kedi|Die Katze schläft.
+n|der|Vogel|Vögel|kuş|Der Vogel singt.
+n|das|Pferd|Pferde|at|Das Pferd ist schnell.
+n|die|Kuh|Kühe|inek|Die Kuh gibt Milch.
+n|das|Schaf|Schafe|koyun|Das Schaf ist weiß.
+n|die|Ziege|Ziegen|keçi|Die Ziege frisst Gras.
+n|das|Schwein|Schweine|domuz|Das Schwein ist rosa.
+n|die|Maus|Mäuse|fare|Die Maus ist klein.
+n|der|Löwe|Löwen|aslan|Der Löwe ist stark.
+n|der|Bär|Bären|ayı|Der Bär schläft im Winter.
+n|der|Affe|Affen|maymun|Der Affe isst eine Banane.
+n|die|Biene|Bienen|arı|Die Biene macht Honig.
+n|die|Fliege|Fliegen|sinek|Eine Fliege sitzt am Fenster.
+n|die|Ameise|Ameisen|karınca|Die Ameise ist klein.
+#Gesundheit
+n|die|Gesundheit|–|sağlık|Gesundheit ist wichtig.
+n|die|Krankheit|Krankheiten|hastalık|Eine Krankheit ist nicht schön.
+n|der|Schmerz|Schmerzen|ağrı|Ich habe Schmerzen im Rücken.
+n|die|Kopfschmerzen|–|baş ağrısı|Ich habe Kopfschmerzen.
+n|die|Bauchschmerzen|–|karın ağrısı|Ich habe Bauchschmerzen.
+n|der|Husten|–|öksürük|Ich habe Husten.
+n|der|Schnupfen|–|nezle|Ich habe Schnupfen.
+n|das|Fieber|–|ateş (hastalık)|Ich habe Fieber.
+n|die|Grippe|Grippen|grip|Er hat die Grippe.
+n|die|Erkältung|Erkältungen|soğuk algınlığı|Ich habe eine Erkältung.
+n|das|Medikament|Medikamente|ilaç|Ich nehme ein Medikament.
+n|die|Tablette|Tabletten|hap|Nehmen Sie zwei Tabletten.
+n|das|Rezept|Rezepte|reçete; tarif|Ich brauche ein Rezept.
+n|der|Termin|Termine|randevu|Ich habe einen Termin beim Arzt.
+n|die|Praxis|Praxen|muayenehane|Die Praxis ist geschlossen.
+n|der|Notfall|Notfälle|acil durum|Das ist ein Notfall.
+n|der|Krankenwagen|Krankenwagen|ambulans|Rufen Sie einen Krankenwagen!
+n|die|Hilfe|–|yardım|Ich brauche Hilfe.
+n|der|Sport|–|spor|Ich mache viel Sport.
+n|die|Bewegung|Bewegungen|hareket|Bewegung ist gesund.
+#Freizeit und Medien
+n|die|Freizeit|–|boş zaman|In meiner Freizeit lese ich.
+n|das|Hobby|Hobbys|hobi|Mein Hobby ist Fußball.
+n|die|Musik|–|müzik|Ich höre gern Musik.
+n|das|Lied|Lieder|şarkı|Das Lied ist schön.
+n|der|Film|Filme|film|Der Film beginnt um acht.
+n|das|Spiel|Spiele|oyun; maç|Das Spiel ist spannend.
+n|der|Fußball|–|futbol|Ich spiele gern Fußball.
+n|das|Foto|Fotos|fotoğraf|Ich mache ein Foto.
+n|das|Fernsehen|–|televizyon (yayın)|Ich sehe abends Fernsehen.
+n|der|Fernseher|Fernseher|televizyon (cihaz)|Der Fernseher ist an.
+n|das|Radio|Radios|radyo|Ich höre Radio.
+n|die|Zeitung|Zeitungen|gazete|Ich lese die Zeitung.
+n|die|Zeitschrift|Zeitschriften|dergi|Ich lese eine Zeitschrift.
+n|das|Konzert|Konzerte|konser|Wir gehen ins Konzert.
+n|die|Party|Partys|parti|Wir machen eine Party.
+n|das|Picknick|Picknicks|piknik|Wir machen ein Picknick.
+n|der|Ausflug|Ausflüge|gezi|Wir machen einen Ausflug.
+n|das|Abenteuer|Abenteuer|macera|Die Reise war ein Abenteuer.
+n|der|Spaß|–|eğlence; zevk|Das macht Spaß!
+n|die|Lust|–|istek; hevesli olma|Ich habe keine Lust.
+n|das|Glück|–|şans; mutluluk|Ich habe Glück gehabt.
+n|der|Traum|Träume|rüya; hayal|Ich hatte einen schönen Traum.
+n|der|Freund|Freunde|dost|Er ist ein guter Freund.
+n|der|Verein|Vereine|kulüp; dernek|Er ist in einem Sportverein.
+n|die|Mannschaft|Mannschaften|takım (spor)|Die Mannschaft hat gewonnen.
+#Länder und Sprachen
+n||Deutschland|–|Almanya|Ich lerne Deutsch für Deutschland.
+n|die|Türkei|–|Türkiye|Ich komme aus der Türkei.
+n|das|Ausland|–|yurt dışı|Er wohnt im Ausland.
+n|der|Ausländer|Ausländer|yabancı (uyruk)|Er ist Ausländer.
+n|das|Deutsch|–|Almanca|Ich lerne Deutsch.
+n|das|Englisch|–|İngilizce|Ich spreche Englisch.
+n|das|Türkisch|–|Türkçe|Ich spreche Türkisch.
+n|die|Welt|Welten|dünya|Die Welt ist groß.
+n|die|Heimat|–|vatan; memleket|Meine Heimat ist die Türkei.
+n|die|Grenze|Grenzen|sınır|Wir fahren über die Grenze.
+n|der|Norden|–|kuzey|Hamburg liegt im Norden.
+n|der|Süden|–|güney|Antalya liegt im Süden.
+n|der|Osten|–|doğu|Van liegt im Osten.
+n|der|Westen|–|batı|Izmir liegt im Westen.

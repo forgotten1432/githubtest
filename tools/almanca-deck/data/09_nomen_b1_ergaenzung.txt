@@ -1,0 +1,164 @@
+#Alltag und Reisen (Ergänzung)
+n|das|Haustier|Haustiere|evcil hayvan|Wir haben ein Haustier.
+n|das|Spielzeug|Spielzeuge|oyuncak|Das Kind hat viel Spielzeug.
+n|das|Lebensmittel|Lebensmittel|gıda maddesi|Lebensmittel sind teuer.
+n|die|Vorspeise|Vorspeisen|başlangıç yemeği|Als Vorspeise nehme ich eine Suppe.
+n|der|Nachtisch|Nachtische|tatlı (yemek sonrası)|Zum Nachtisch gibt es Eis.
+n|der|Eintritt|Eintritte|giriş (ücreti)|Der Eintritt kostet fünf Euro.
+n|die|Eintrittskarte|Eintrittskarten|giriş bileti|Ich kaufe zwei Eintrittskarten.
+n|das|Gepäck|–|bagaj|Ihr Gepäck ist schwer.
+n|der|Abflug|Abflüge|(uçak) kalkış|Der Abflug ist um zehn.
+n|die|Ankunft|Ankünfte|varış|Die Ankunft ist um acht.
+n|die|Abfahrt|Abfahrten|hareket; kalkış|Die Abfahrt ist um neun.
+n|der|Flug|Flüge|uçuş|Der Flug dauert zwei Stunden.
+n|der|Passagier|Passagiere|yolcu|Die Passagiere steigen ein.
+n|der|Zoll|Zölle|gümrük|Wir müssen zum Zoll.
+n|der|Hafen|Häfen|liman|Das Schiff liegt im Hafen.
+n|der|Wohnort|Wohnorte|ikamet yeri|Wie ist Ihr Wohnort?
+n|die|Hauptstadt|Hauptstädte|başkent|Berlin ist die Hauptstadt.
+n|die|Fläche|Flächen|alan; yüzey|Die Fläche ist groß.
+n|die|Region|Regionen|bölge|Das ist eine schöne Region.
+n|die|Landschaft|Landschaften|manzara; peyzaj|Die Landschaft ist wunderschön.
+n|die|Umgebung|Umgebungen|çevre|Die Umgebung ist ruhig.
+n|die|Umwelt|–|çevre (doğa)|Wir müssen die Umwelt schützen.
+n|das|Klima|Klimas|iklim|Das Klima ist mild.
+n|der|Alltag|–|gündelik hayat|Im Alltag habe ich wenig Zeit.
+n|das|Gebäude|Gebäude|bina|Das Gebäude ist alt.
+n|die|Halle|Hallen|salon; salon (spor)|Die Halle ist groß.
+n|das|Stadion|Stadien|stadyum|Das Stadion ist voll.
+n|die|Station|Stationen|istasyon; durak; servis|Die nächste Station ist der Bahnhof.
+n|das|Fahrzeug|Fahrzeuge|araç|Das Fahrzeug ist neu.
+n|die|Maschine|Maschinen|makine|Die Maschine läuft.
+n|der|Motor|Motoren|motor|Der Motor ist laut.
+n|das|Gerät|Geräte|cihaz|Das Gerät ist kaputt.
+n|die|Geschwindigkeit|Geschwindigkeiten|hız|Die Geschwindigkeit ist hoch.
+n|der|Kanal|Kanäle|kanal|Das ist ein guter Kanal.
+n|das|Magazin|Magazine|dergi|Ich lese ein Magazin.
+n|das|Album|Alben|albüm|Das Album ist neu.
+n|die|Show|Shows|gösteri; şov|Die Show beginnt gleich.
+n|die|Bühne|Bühnen|sahne|Der Sänger steht auf der Bühne.
+n|die|Szene|Szenen|sahne (film); çevre|Das ist eine gute Szene.
+n|der|Roman|Romane|roman|Ich lese einen Roman.
+n|die|Serie|Serien|dizi; seri|Ich sehe eine Serie.
+n|der|Witz|Witze|fıkra; espri|Er erzählt einen Witz.
+n|der|Tipp|Tipps|ipucu; tavsiye|Hast du einen Tipp?
+n|das|Team|Teams|takım|Unser Team ist gut.
+n|der|Club|Clubs|kulüp|Er ist in einem Club.
+n|das|Training|Trainings|antrenman|Das Training beginnt um sechs.
+n|der|Sport|–|spor|Sport macht Spaß.
+n|die|Niederlage|Niederlagen|yenilgi|Die Niederlage war hart.
+n|der|Sieg|Siege|zafer|Der Sieg war knapp.
+n|der|Chat|Chats|sohbet (çevrimiçi)|Wir schreiben im Chat.
+n|der|Service|–|servis; hizmet|Der Service ist gut.
+n|der|Dienst|Dienste|hizmet; görev|Er hat Dienst.
+n|die|Sitzung|Sitzungen|oturum; toplantı|Die Sitzung dauert zwei Stunden.
+n|die|Tabelle|Tabellen|tablo|Die Tabelle zeigt die Preise.
+n|die|Kategorie|Kategorien|kategori|Das ist eine neue Kategorie.
+n|die|Einheit|Einheiten|birim; birlik|Die Einheit ist Meter.
+n|die|Sammlung|Sammlungen|koleksiyon|Er hat eine große Sammlung.
+#Gesellschaft und Beruf (Ergänzung)
+n|der|Flüchtling|Flüchtlinge|mülteci|Der Flüchtling sucht Arbeit.
+n|das|Parlament|Parlamente|parlamento|Das Parlament entscheidet.
+n|der|Minister|Minister|bakan|Der Minister spricht.
+n|der|Professor|Professoren|profesör|Der Professor erklärt.
+n|der|Experte|Experten|uzman|Er ist ein Experte.
+n|der|Journalist|Journalisten|gazeteci|Der Journalist schreibt einen Bericht.
+n|der|Musiker|Musiker|müzisyen|Der Musiker spielt Gitarre.
+n|der|Star|Stars|yıldız (ünlü)|Er ist ein Star.
+n|der|Leser|Leser|okuyucu|Der Leser versteht den Text.
+n|der|Besucher|Besucher|ziyaretçi|Die Besucher warten.
+n|der|Bewohner|Bewohner|sakin|Die Bewohner sind freundlich.
+n|der|Einwohner|Einwohner|nüfus; sakin|Die Stadt hat zwei Millionen Einwohner.
+n|der|Arbeitgeber|Arbeitgeber|işveren|Mein Arbeitgeber ist nett.
+n|der|Besitzer|Besitzer|sahip|Der Besitzer ist nicht da.
+n|der|Arbeiter|Arbeiter|işçi|Die Arbeiter bauen ein Haus.
+n|die|Hochschule|Hochschulen|yüksekokul|Er besucht eine Hochschule.
+n|das|Gymnasium|Gymnasien|lise (Almanya)|Sie geht aufs Gymnasium.
+n|die|Botschaft|Botschaften|elçilik; mesaj|Die Botschaft ist in Berlin.
+n|die|Klinik|Kliniken|klinik|Die Klinik ist modern.
+n|die|Chemie|–|kimya|Chemie ist schwer.
+n|die|Medizin|–|tıp; ilaç|Er studiert Medizin.
+n|die|Droge|Drogen|uyuşturucu|Drogen sind gefährlich.
+n|der|Alkohol|–|alkol|Ich trinke keinen Alkohol.
+n|die|Ernährung|–|beslenme|Gesunde Ernährung ist wichtig.
+n|die|Behandlung|Behandlungen|tedavi|Die Behandlung dauert lange.
+n|die|Geburt|Geburten|doğum|Die Geburt war am Montag.
+n|das|Geschlecht|Geschlechter|cinsiyet|Das Geschlecht ist männlich.
+n|die|Gemeinschaft|Gemeinschaften|topluluk|Die Gemeinschaft hilft.
+n|die|Menschheit|–|insanlık|Die Menschheit braucht Frieden.
+n|die|Generation|Generationen|nesil|Die junge Generation lernt schnell.
+n|die|Führung|Führungen|yönetim; rehberli tur|Die Führung beginnt um zehn.
+n|der|Auftrag|Aufträge|sipariş; görev|Er hat einen neuen Auftrag.
+n|der|Antrag|Anträge|başvuru; dilekçe|Ich stelle einen Antrag.
+n|die|Bedingung|Bedingungen|şart; koşul|Das ist meine Bedingung.
+n|die|Voraussetzung|Voraussetzungen|ön koşul|Das ist eine wichtige Voraussetzung.
+n|die|Ausnahme|Ausnahmen|istisna|Heute machen wir eine Ausnahme.
+n|der|Zugang|Zugänge|erişim; giriş|Der Zugang ist frei.
+n|die|Planung|Planungen|planlama|Die Planung ist fertig.
+n|die|Änderung|Änderungen|değişiklik|Es gibt eine Änderung.
+n|die|Absicht|Absichten|niyet|Das war keine Absicht.
+n|die|Strategie|Strategien|strateji|Wir brauchen eine Strategie.
+n|die|Struktur|Strukturen|yapı|Die Struktur ist klar.
+n|die|Methode|Methoden|yöntem|Das ist eine gute Methode.
+n|die|Funktion|Funktionen|işlev|Das Gerät hat viele Funktionen.
+n|die|Anwendung|Anwendungen|uygulama; kullanım|Die Anwendung ist einfach.
+n|die|Aktion|Aktionen|eylem; kampanya|Das ist eine tolle Aktion.
+n|die|Aktivität|Aktivitäten|etkinlik; faaliyet|Es gibt viele Aktivitäten.
+n|die|Phase|Phasen|evre|Das ist eine neue Phase.
+n|der|Vortrag|Vorträge|konferans; sunum|Der Vortrag ist interessant.
+n|die|Verhandlung|Verhandlungen|müzakere|Die Verhandlung dauert lange.
+n|der|Streit|Streite|kavga; tartışma|Wir haben einen Streit.
+n|das|Gefängnis|Gefängnisse|hapishane|Er sitzt im Gefängnis.
+n|die|Krise|Krisen|kriz|Das Land ist in einer Krise.
+n|die|Niederlage|–|yenilgi|Wir haben eine Niederlage erlebt.
+n|der|Kampf|Kämpfe|mücadele; savaş|Das war ein harter Kampf.
+n|der|Einsatz|Einsätze|kullanım; görev; çaba|Der Einsatz hat sich gelohnt.
+n|der|Anteil|Anteile|pay; hisse|Mein Anteil ist klein.
+n|das|Verhältnis|Verhältnisse|ilişki; oran|Wir haben ein gutes Verhältnis.
+n|der|Gegensatz|Gegensätze|karşıtlık|Das ist ein großer Gegensatz.
+n|das|Gegenteil|Gegenteile|zıt|Das Gegenteil von groß ist klein.
+#Denken und Sprache (Ergänzung)
+n|der|Eindruck|Eindrücke|izlenim|Ich habe einen guten Eindruck.
+n|die|Erinnerung|Erinnerungen|anı; hatıra|Das ist eine schöne Erinnerung.
+n|der|Hinweis|Hinweise|ipucu; uyarı|Hier ist ein Hinweis.
+n|die|Reaktion|Reaktionen|tepki|Die Reaktion war positiv.
+n|der|Stil|Stile|tarz; üslup|Das ist ein schöner Stil.
+n|die|Stimmung|Stimmungen|ruh hali; atmosfer|Die Stimmung ist gut.
+n|die|Atmosphäre|Atmosphären|atmosfer|Die Atmosphäre ist angenehm.
+n|die|Tatsache|Tatsachen|gerçek (olgu)|Das ist eine Tatsache.
+n|die|Vorstellung|Vorstellungen|gösteri; hayal|Die Vorstellung beginnt um acht.
+n|die|Theorie|Theorien|teori|Das ist nur eine Theorie.
+n|die|Realität|Realitäten|gerçeklik|Die Realität ist anders.
+n|der|Zweifel|Zweifel|şüphe|Ich habe Zweifel.
+n|der|Respekt|–|saygı|Ich habe Respekt vor ihm.
+n|das|Verständnis|–|anlayış|Ich habe Verständnis dafür.
+n|der|Umgang|–|ilişki; davranış|Der Umgang mit Kindern ist schön.
+n|die|Beschreibung|Beschreibungen|tarif; betimleme|Die Beschreibung ist genau.
+n|der|Ausdruck|Ausdrücke|ifade; deyim|Das ist ein schöner Ausdruck.
+n|die|Ansicht|Ansichten|görüş; manzara|Das ist meine Ansicht.
+n|die|Einstellung|Einstellungen|tutum; ayar; işe alma|Seine Einstellung ist gut.
+n|die|Haltung|Haltungen|tutum; duruş|Er hat eine klare Haltung.
+n|die|Debatte|Debatten|tartışma; münazara|Die Debatte war lang.
+n|die|Schwierigkeit|Schwierigkeiten|zorluk|Ich habe Schwierigkeiten.
+n|der|Vorschlag|Vorschläge|öneri|Das ist ein guter Vorschlag.
+n|das|Detail|Details|ayrıntı|Ich kenne die Details nicht.
+n|der|Hintergrund|Hintergründe|arka plan|Der Hintergrund ist blau.
+n|die|Figur|Figuren|figür; vücut|Sie hat eine gute Figur.
+n|der|Zufall|Zufälle|tesadüf|Das ist kein Zufall.
+n|die|Überraschung|Überraschungen|sürpriz|Das ist eine Überraschung!
+n|die|Unterhaltung|Unterhaltungen|sohbet; eğlence|Die Unterhaltung war nett.
+n|die|Schönheit|Schönheiten|güzellik|Die Schönheit der Stadt ist bekannt.
+n|die|Mischung|Mischungen|karışım|Das ist eine gute Mischung.
+n|das|Wachstum|–|büyüme|Das Wachstum ist schnell.
+n|die|Basis|Basen|temel|Das ist die Basis.
+n|die|Version|Versionen|sürüm|Das ist die neue Version.
+n|die|Statistik|Statistiken|istatistik|Die Statistik zeigt das.
+n|die|Herkunft|–|köken|Seine Herkunft ist unbekannt.
+n|der|Humor|–|mizah|Er hat viel Humor.
+n|das|Wunder|–|mucize|Das ist ein Wunder.
+n|der|Kontakt|Kontakte|temas; iletişim|Wir haben Kontakt.
+n|die|Kontrolle|Kontrollen|kontrol|Die Kontrolle ist streng.
+n|die|Zusammenarbeit|–|iş birliği|Die Zusammenarbeit ist gut.
+n|der|Anspruch|Ansprüche|talep; hak|Er hat Anspruch auf Urlaub.
+n|die|Handlung|Handlungen|eylem; olay örgüsü|Die Handlung des Films ist spannend.
+n|die|Jugend|–|gençlik|Die Jugend ist die Zukunft.

@@ -1,0 +1,235 @@
+die Schule|مەكتەپ
+die Universität|ئۇنىۋېرسىتېت
+der Kurs|كۇرس
+der Unterricht|دەرس
+die Klasse|سىنىپ
+die Aufgabe|تاپشۇرۇق؛ ۋەزىپە
+die Hausaufgabe|ئۆي تاپشۇرۇقى
+die Prüfung|ئىمتىھان
+der Test|سىناق
+die Note|نومۇر
+die Frage|سوئال
+die Antwort|جاۋاب
+das Wort|سۆز
+der Satz|جۈملە
+der Text|تېكىست
+die Sprache|تىل
+das Buch|كىتاب
+das Heft|دەپتەر
+das Papier|قەغەز
+der Stift|قەلەم
+der Kugelschreiber|شارىكلىق قەلەم
+der Bleistift|قېرىنداش
+das Wörterbuch|لۇغەت
+die Tafel|دوسكا
+der Computer|كومپيۇتېر
+das Handy|يانفون
+das Internet|ئىنتېرنېت
+die E-Mail|ئېلخەت
+die Nachricht|ئۇچۇر؛ خەۋەر
+der Brief|خەت
+die Arbeit|ئىش؛ خىزمەت
+der Beruf|كەسىپ
+die Firma|شىركەت
+das Büro|ئىشخانا
+die Stelle|ئورۇن (خىزمەت)؛ جاي
+der Job|ئىش
+das Gehalt|مائاش
+der Lohn|ئىش ھەققى
+die Besprechung|يىغىن
+das Formular|جەدۋەل
+die Unterschrift|ئىمزا
+die Information|ئۇچۇر
+das Beispiel|مىسال
+das Problem|مەسىلە
+die Lösung|ھەل قىلىش چارىسى
+die Idee|ئىدىيە؛ پىكىر
+der Grund|سەۋەب
+das Thema|تېما
+die Geschichte|ھېكايە؛ تارىخ
+die Zahl|سان
+die Nummer|نومۇر
+die Adresse|ئادرېس
+die Telefonnummer|تېلېفون نومۇرى
+die Stadt|شەھەر
+das Dorf|كەنت
+das Land|دۆلەت؛ يېزا
+die Straße|كوچا
+der Weg|يول
+der Platz|مەيدان؛ ئورۇن
+die Ecke|بۇلۇڭ
+die Kreuzung|دوقمۇش
+die Brücke|كۆۋرۈك
+der Park|باغچە
+das Zentrum|مەركەز
+die Gegend|رايون؛ ئەتراپ
+der Bahnhof|پويىز ئىستانسىسى
+die Haltestelle|بېكەت
+der Flughafen|ئايرودروم
+die Post|پوچتىخانا؛ پوچتا
+die Bank|بانكا
+die Apotheke|دورىخانا
+das Krankenhaus|دوختۇرخانا
+die Bäckerei|ناۋايخانا
+der Supermarkt|تاللا بازار
+der Markt|بازار
+das Geschäft|دۇكان؛ سودا
+der Laden|دۇكان
+das Kino|كىنوخانا
+das Theater|تىياتىرخانا
+das Museum|مۇزېي
+die Bibliothek|كۇتۇپخانا
+das Hotel|مېھمانخانا
+die Kirche|چېركاۋ
+die Moschee|مەسچىت
+das Schwimmbad|سۇ ئۈزۈش كۆلى
+der Spielplatz|بالىلار ئويۇن مەيدانى
+der Eingang|كىرىش ئېغىزى
+der Ausgang|چىقىش ئېغىزى
+die Mitte|ئوتتۇرا
+die Nähe|يېقىن ئەتراپ
+die Seite|يان؛ بەت؛ تەرەپ
+der Ort|جاي
+die Richtung|يۆنىلىش
+die Karte|خەرىتە؛ كارتا؛ بېلەت
+der Stadtplan|شەھەر خەرىتىسى
+das Auto|ماشىنا
+der Bus|ئاپتوبۇس
+die Straßenbahn|تراموي
+die U-Bahn|يەر ئاستى تۆمۈر يولى
+der Zug|پويىز
+das Flugzeug|ئايروپىلان
+das Schiff|پاراخوت
+das Fahrrad|ۋېلىسىپىت
+das Motorrad|موتسىكلىت
+das Taxi|تاكسى
+die Fahrkarte|بېلەت (قاتناش)
+das Ticket|بېلەت
+der Fahrplan|قاتناش ۋاقىت جەدۋىلى
+das Gleis|سۇپا (پويىز)
+die Verspätung|كېچىكىش
+die Reise|ساياھەت
+der Koffer|چامادان
+der Ausweis|كىملىك
+der Pass|پاسپورت
+das Visum|ۋىزا
+der Urlauber|ساياھەتچى
+der Strand|دېڭىز قىرغىقى
+das Meer|دېڭىز
+die Ampel|قاتناش چىرىغى
+die Autobahn|تېز سۈرئەتلىك يول
+der Unfall|ھادىسە
+der Stau|قاتناش توسۇلۇشى
+das Benzin|بېنزىن
+die Tankstelle|ماي قاچىلاش پونكىتى
+der Führerschein|ماشىنا ھەيدەش گۇۋاھنامىسى
+das Geld|پۇل
+der Euro|ياۋرو
+der Cent|سېنت
+der Preis|باھا
+das Angebot|تەكلىپ؛ ئېتىبار
+die Kasse|كاسسا
+die Kreditkarte|ئىناۋەتلىك كارتا
+das Konto|ھېسابات (بانكا)
+das Bargeld|نەق پۇل
+die Tüte|خالتا
+der Einkauf|سودا-سېتىق
+das Geschenk|سوۋغا
+die Größe|چوڭلۇق؛ رازمېر
+die Farbe|رەڭ
+das Gewicht|ئېغىرلىق
+das Kilo|كىلو
+der Liter|لىتىر
+der Meter|مېتىر
+der Kilometer|كىلومېتىر
+das Stück|پارچە؛ دانە
+die Packung|قاپ؛ قۇتا
+die Dose|قۇتا؛ كونسېرۋا
+das Kilogramm|كىلوگرام
+die Natur|تەبىئەت
+der Baum|دەرەخ
+die Blume|گۈل
+das Gras|ئوت-چۆپ
+der Wald|ئورمان
+der Berg|تاغ
+der See|كۆل
+der Fluss|دەريا
+das Feld|ئېتىز
+die Insel|ئارال
+die Erde|يەر شارى؛ تۇپراق
+die Luft|ھاۋا
+das Feuer|ئوت
+der Stein|تاش
+das Tier|ھايۋان
+der Hund|ئىت
+die Katze|مۈشۈك
+der Vogel|قۇش
+das Pferd|ئات
+die Kuh|كالا
+das Schaf|قوي
+die Ziege|ئۆچكە
+das Schwein|توڭگۇز
+die Maus|چاشقان
+der Löwe|شىر
+der Bär|ئېيىق
+der Affe|مايمۇن
+die Biene|ھەرە
+die Fliege|چىۋىن
+die Ameise|چۈمۈلە
+die Gesundheit|ساغلاملىق
+die Krankheit|كېسەل
+der Schmerz|ئاغرىق
+die Kopfschmerzen|باش ئاغرىقى
+die Bauchschmerzen|قورساق ئاغرىقى
+der Husten|يۆتەل
+der Schnupfen|زۇكام
+das Fieber|قىزىتما
+die Grippe|زۇكام (گرىپ)
+die Erkältung|شامالداش
+das Medikament|دورا
+die Tablette|تابلېتكا
+das Rezept|رېتسېپ؛ تاماق رېتسېپى
+die Praxis|دوختۇرنىڭ كۆرۈش ئورنى
+der Notfall|جىددىي ئەھۋال
+der Krankenwagen|قۇتقۇزۇش ماشىنىسى
+die Hilfe|ياردەم
+der Sport|تەنتەربىيە
+die Bewegung|ھەرىكەت
+die Freizeit|بوش ۋاقىت
+das Hobby|ھەۋەس
+die Musik|مۇزىكا
+das Lied|ناخشا
+der Film|فىلىم
+das Spiel|ئويۇن؛ مۇسابىقە
+der Fußball|پۇتبول
+das Foto|سۈرەت
+das Fernsehen|تېلېۋىزىيە
+der Fernseher|تېلېۋىزور
+das Radio|رادىيو
+die Zeitung|گېزىت
+die Zeitschrift|ژۇرنال
+das Konzert|كونسېرت
+die Party|كېچىلىك
+das Picknick|سەيلە (پىكنىك)
+der Ausflug|ساياھەت (بىر كۈنلۈك)
+das Abenteuer|ۋەقە-سەرگۈزەشت
+der Spaß|كۆڭۈل ئېچىش
+die Lust|ھەۋەس؛ خاھىش
+das Glück|بەخت؛ تەلەي
+der Traum|چۈش؛ ئارزۇ
+der Verein|جەمئىيەت؛ كۇلۇب
+die Mannschaft|كوماندا
+Deutschland|گېرمانىيە
+die Türkei|تۈركىيە
+das Ausland|چەت ئەل
+der Ausländer|چەت ئەللىك
+das Deutsch|نېمىسچە
+das Englisch|ئىنگلىزچە
+das Türkisch|تۈركچە
+die Welt|دۇنيا
+die Heimat|ۋەتەن؛ يۇرت
+die Grenze|چېگرا
+der Norden|شىمال
+der Süden|جەنۇب
+der Osten|شەرق
+der Westen|غەرب

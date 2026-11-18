@@ -1,0 +1,185 @@
+#Verben wichtige Grundverben
+v||lassen|lässt · ließ · hat gelassen|bırakmak; izin vermek; yaptırmak|Lass mich in Ruhe!
+v||führen|führt · führte · hat geführt|götürmek; yönetmek|Der Weg führt zum Bahnhof.
+v||bestehen|besteht · bestand · hat bestanden|(sınavı) geçmek; var olmak|Ich habe die Prüfung bestanden.
+v||erreichen|erreicht · erreichte · hat erreicht|ulaşmak; başarmak|Wir erreichen den Zug gerade noch.
+v||nutzen|nutzt · nutzte · hat genutzt|faydalanmak; kullanmak|Ich nutze die Zeit.
+v||vergleichen|vergleicht · verglich · hat verglichen|karşılaştırmak|Vergleiche die Preise.
+v||bieten|bietet · bot · hat geboten|sunmak; teklif etmek|Das Hotel bietet viel Komfort.
+v||erwarten|erwartet · erwartete · hat erwartet|beklemek; ummak|Ich erwarte einen Anruf.
+v||verlassen|verlässt · verließ · hat verlassen|terk etmek; ayrılmak|Er verlässt das Haus um acht.
+v||nennen|nennt · nannte · hat genannt|adlandırmak; söylemek (ad)|Nennen Sie bitte Ihren Namen.
+v||klingen|klingt · klang · hat geklungen|(ses) gibi gelmek|Das klingt gut.
+v||teilen|teilt · teilte · hat geteilt|paylaşmak; bölmek|Wir teilen das Essen.
+v||bezeichnen|bezeichnet · bezeichnete · hat bezeichnet|adlandırmak; nitelemek|Man bezeichnet ihn als Experten.
+v||entwickeln|entwickelt · entwickelte · hat entwickelt|geliştirmek|Die Firma entwickelt neue Produkte.
+v||veröffentlichen|veröffentlicht · veröffentlichte · hat veröffentlicht|yayımlamak|Er veröffentlicht ein Buch.
+v||erkennen|erkennt · erkannte · hat erkannt|tanımak; fark etmek|Ich erkenne dich kaum.
+v||erfahren|erfährt · erfuhr · hat erfahren|öğrenmek (haber)|Ich habe es gestern erfahren.
+v||gründen|gründet · gründete · hat gegründet|kurmak|Sie gründen eine Firma.
+v||starten|startet · startete · ist gestartet|başlamak; çalıştırmak|Das Flugzeug startet pünktlich.
+v||berichten|berichtet · berichtete · hat berichtet|haber vermek; anlatmak|Die Zeitung berichtet darüber.
+v||sich befinden|befindet sich · befand sich · hat sich befunden|bulunmak|Das Hotel befindet sich im Zentrum.
+v||unterstützen|unterstützt · unterstützte · hat unterstützt|desteklemek|Wir unterstützen dich.
+v||unterscheiden|unterscheidet · unterschied · hat unterschieden|ayırt etmek|Ich kann die beiden nicht unterscheiden.
+v||betreiben|betreibt · betrieb · hat betrieben|işletmek; yürütmek|Er betreibt ein Restaurant.
+v||verbinden|verbindet · verband · hat verbunden|bağlamak; birleştirmek|Die Brücke verbindet beide Ufer.
+v||sterben|stirbt · starb · ist gestorben|ölmek|Sein Opa ist gestorben.
+v||aufnehmen|nimmt auf · nahm auf · hat aufgenommen|kabul etmek; kaydetmek|Ich nehme das Gespräch auf.
+v||schaden|schadet · schadete · hat geschadet|zarar vermek|Rauchen schadet der Gesundheit.
+v||aufgeben|gibt auf · gab auf · hat aufgegeben|vazgeçmek; (ilan) vermek|Gib nicht auf!
+v||wirken|wirkt · wirkte · hat gewirkt|etki etmek; görünmek|Das Medikament wirkt schnell.
+v||aussehen|sieht aus · sah aus · hat ausgesehen|… gibi görünmek|Du siehst müde aus.
+v||vertreten|vertritt · vertrat · hat vertreten|temsil etmek; savunmak|Er vertritt die Firma.
+v||dienen|dient · diente · hat gedient|hizmet etmek; yaramak|Das dient dem Zweck.
+v||enthalten|enthält · enthielt · hat enthalten|içermek|Das Getränk enthält Zucker.
+v||entstehen|entsteht · entstand · ist entstanden|ortaya çıkmak; oluşmak|Hier entsteht ein neues Haus.
+v||verhindern|verhindert · verhinderte · hat verhindert|engellemek|Wir wollen das verhindern.
+v||entdecken|entdeckt · entdeckte · hat entdeckt|keşfetmek|Ich entdecke eine neue Stadt.
+v||schützen|schützt · schützte · hat geschützt|korumak|Die Mütze schützt vor Kälte.
+v||treten|tritt · trat · ist getreten|adım atmak; tekmelemek|Er tritt ins Zimmer.
+v||bestätigen|bestätigt · bestätigte · hat bestätigt|onaylamak|Bitte bestätigen Sie den Termin.
+v||erscheinen|erscheint · erschien · ist erschienen|görünmek; yayımlanmak|Das Buch erscheint im Herbst.
+v||kämpfen|kämpft · kämpfte · hat gekämpft|savaşmak; mücadele etmek|Wir kämpfen für unser Recht.
+v||raten|rät · riet · hat geraten|tavsiye etmek; tahmin etmek|Ich rate dir, zum Arzt zu gehen.
+v||testen|testet · testete · hat getestet|test etmek|Wir testen das neue Gerät.
+v||behandeln|behandelt · behandelte · hat behandelt|tedavi etmek; muamele etmek|Der Arzt behandelt den Patienten.
+v||verändern|verändert · veränderte · hat verändert|değiştirmek|Die Stadt hat sich verändert.
+v||übernehmen|übernimmt · übernahm · hat übernommen|devralmak; üstlenmek|Ich übernehme die Kosten.
+v||angreifen|greift an · griff an · hat angegriffen|saldırmak|Der Hund greift an.
+v||abschließen|schließt ab · schloss ab · hat abgeschlossen|bitirmek; kilitlemek|Er schließt die Tür ab.
+v||anbieten|bietet an · bot an · hat angeboten|teklif etmek; ikram etmek|Ich biete dir einen Tee an.
+v||leiden|leidet · litt · hat gelitten|acı çekmek; muzdarip olmak|Er leidet an Kopfschmerzen.
+v||funktionieren|funktioniert · funktionierte · hat funktioniert|çalışmak; işlemek|Der Computer funktioniert nicht.
+v||stattfinden|findet statt · fand statt · hat stattgefunden|gerçekleşmek; yapılmak|Das Konzert findet heute statt.
+v||vorkommen|kommt vor · kam vor · ist vorgekommen|meydana gelmek; bulunmak|Das kommt oft vor.
+v||gelingen|gelingt · gelang · ist gelungen|başarılı olmak|Der Kuchen ist gelungen.
+v||geschehen|geschieht · geschah · ist geschehen|olmak; meydana gelmek|Was ist geschehen?
+v||handeln|handelt · handelte · hat gehandelt|davranmak; ticaret yapmak|Es handelt sich um ein Problem.
+v||sorgen|sorgt · sorgte · hat gesorgt|bakmak; sağlamak|Ich sorge für die Kinder.
+v||beschreiben|beschreibt · beschrieb · hat beschrieben|tarif etmek; betimlemek|Beschreibe das Bild.
+v||erwähnen|erwähnt · erwähnte · hat erwähnt|anmak; değinmek|Das habe ich nicht erwähnt.
+v||behaupten|behauptet · behauptete · hat behauptet|iddia etmek|Er behauptet, er war da.
+v||vorschlagen|schlägt vor · schlug vor · hat vorgeschlagen|önermek|Ich schlage ein Treffen vor.
+v||annehmen|nimmt an · nahm an · hat angenommen|kabul etmek; varsaymak|Ich nehme das Angebot an.
+v||ablehnen|lehnt ab · lehnte ab · hat abgelehnt|reddetmek|Er lehnt das Angebot ab.
+v||zustimmen|stimmt zu · stimmte zu · hat zugestimmt|aynı fikirde olmak; onaylamak|Ich stimme dir zu.
+v||widersprechen|widerspricht · widersprach · hat widersprochen|karşı çıkmak|Ich muss dir widersprechen.
+v||bemerken|bemerkt · bemerkte · hat bemerkt|fark etmek|Ich habe den Fehler bemerkt.
+v||beobachten|beobachtet · beobachtete · hat beobachtet|gözlemlemek|Ich beobachte die Vögel.
+v||beweisen|beweist · bewies · hat bewiesen|kanıtlamak|Das beweist nichts.
+v||bewegen|bewegt · bewegte · hat bewegt|hareket ettirmek; etkilemek|Bewegen Sie Ihre Arme.
+v||brechen|bricht · brach · hat gebrochen|kırmak|Er hat sich das Bein gebrochen.
+v||brennen|brennt · brannte · hat gebrannt|yanmak|Das Feuer brennt.
+v||fressen|frisst · fraß · hat gefressen|(hayvan) yemek|Die Katze frisst Fisch.
+v||gebrauchen|gebraucht · gebrauchte · hat gebraucht|kullanmak|Ich kann das gut gebrauchen.
+v||gratulieren|gratuliert · gratulierte · hat gratuliert|tebrik etmek|Ich gratuliere dir zum Geburtstag.
+v||herstellen|stellt her · stellte her · hat hergestellt|üretmek|Die Firma stellt Autos her.
+v||hinweisen|weist hin · wies hin · hat hingewiesen|dikkat çekmek|Ich weise auf den Fehler hin.
+v||klappen|klappt · klappte · hat geklappt|yolunda gitmek|Das hat gut geklappt.
+v||klingeln|klingelt · klingelte · hat geklingelt|(zil/telefon) çalmak|Das Telefon klingelt.
+v||klopfen|klopft · klopfte · hat geklopft|kapıyı çalmak|Jemand klopft an die Tür.
+v||kontrollieren|kontrolliert · kontrollierte · hat kontrolliert|kontrol etmek|Der Beamte kontrolliert die Pässe.
+v||kritisieren|kritisiert · kritisierte · hat kritisiert|eleştirmek|Er kritisiert die Regierung.
+v||küssen|küsst · küsste · hat geküsst|öpmek|Er küsst sie.
+v||lehren|lehrt · lehrte · hat gelehrt|öğretmek|Er lehrt Mathematik.
+v||löschen|löscht · löschte · hat gelöscht|silmek; söndürmek|Ich lösche die Datei.
+v||lösen|löst · löste · hat gelöst|çözmek|Ich löse das Problem.
+v||malen|malt · malte · hat gemalt|boyamak; resim yapmak|Das Kind malt ein Bild.
+v||merken|merkt · merkte · hat gemerkt|fark etmek|Hast du das nicht gemerkt?
+v||sich merken|merkt sich · merkte sich · hat sich gemerkt|aklında tutmak|Ich merke mir den Namen.
+v||nähen|näht · nähte · hat genäht|dikmek|Sie näht ein Kleid.
+v||packen|packt · packte · hat gepackt|paketlemek; valiz hazırlamak|Ich packe meinen Koffer.
+v||pflanzen|pflanzt · pflanzte · hat gepflanzt|dikmek (bitki)|Wir pflanzen einen Baum.
+v||pflegen|pflegt · pflegte · hat gepflegt|bakmak (hasta/bitki)|Er pflegt seine Mutter.
+v||reichen|reicht · reichte · hat gereicht|yetmek; uzatmak|Das Geld reicht nicht.
+v||retten|rettet · rettete · hat gerettet|kurtarmak|Er rettet das Kind.
+v||sammeln|sammelt · sammelte · hat gesammelt|toplamak; biriktirmek|Ich sammle Briefmarken.
+v||scheitern|scheitert · scheiterte · ist gescheitert|başarısız olmak|Der Plan ist gescheitert.
+v||schießen|schießt · schoss · hat geschossen|ateş etmek; (gol) atmak|Er schießt ein Tor.
+v||schlagen|schlägt · schlug · hat geschlagen|vurmak; yenmek|Er schlägt den Ball.
+v||schneiden|schneidet · schnitt · hat geschnitten|kesmek|Ich schneide das Brot.
+v||schreien|schreit · schrie · hat geschrien|bağırmak|Das Baby schreit.
+v||schweigen|schweigt · schwieg · hat geschwiegen|susmak|Er schweigt.
+v||sinken|sinkt · sank · ist gesunken|batmak; düşmek|Die Preise sinken.
+v||spüren|spürt · spürte · hat gespürt|hissetmek|Ich spüre die Kälte.
+v||stehlen|stiehlt · stahl · hat gestohlen|çalmak (hırsızlık)|Jemand hat mein Fahrrad gestohlen.
+v||tauschen|tauscht · tauschte · hat getauscht|takas etmek; değiştirmek|Wir tauschen die Plätze.
+v||teilnehmen|nimmt teil · nahm teil · hat teilgenommen|katılmak|Ich nehme am Kurs teil.
+v||träumen|träumt · träumte · hat geträumt|rüya görmek; hayal etmek|Ich träume von einem Haus.
+v||trennen|trennt · trennte · hat getrennt|ayırmak|Wir trennen den Müll.
+v||trösten|tröstet · tröstete · hat getröstet|teselli etmek|Sie tröstet das Kind.
+v||überlegen|überlegt · überlegte · hat überlegt|düşünmek; tartmak|Ich überlege noch.
+v||überraschen|überrascht · überraschte · hat überrascht|şaşırtmak|Das überrascht mich.
+v||überweisen|überweist · überwies · hat überwiesen|havale etmek|Ich überweise das Geld.
+v||umtauschen|tauscht um · tauschte um · hat umgetauscht|değiştirmek (ürün/para)|Ich möchte die Hose umtauschen.
+v||verbessern|verbessert · verbesserte · hat verbessert|geliştirmek; düzeltmek|Ich verbessere mein Deutsch.
+v||verbrauchen|verbraucht · verbrauchte · hat verbraucht|tüketmek|Das Auto verbraucht viel Benzin.
+v||vereinbaren|vereinbart · vereinbarte · hat vereinbart|kararlaştırmak; randevulaşmak|Wir vereinbaren einen Termin.
+v||verletzen|verletzt · verletzte · hat verletzt|yaralamak; incitmek|Er hat sich verletzt.
+v||vermissen|vermisst · vermisste · hat vermisst|özlemek; eksikliğini hissetmek|Ich vermisse dich.
+v||verreisen|verreist · verreiste · ist verreist|seyahate çıkmak|Wir verreisen im Sommer.
+v||verschwinden|verschwindet · verschwand · ist verschwunden|kaybolmak|Mein Portemonnaie ist verschwunden.
+v||versprechen|verspricht · versprach · hat versprochen|söz vermek|Ich verspreche es dir.
+v||verwenden|verwendet · verwendete · hat verwendet|kullanmak|Ich verwende ein Wörterbuch.
+v||verzichten|verzichtet · verzichtete · hat verzichtet|vazgeçmek|Ich verzichte auf Zucker.
+v||vorbereiten|bereitet vor · bereitete vor · hat vorbereitet|hazırlamak|Ich bereite die Prüfung vor.
+v||vorhaben|hat vor · hatte vor · hat vorgehabt|niyetinde olmak; planlamak|Was hast du heute vor?
+v||wachsen|wächst · wuchs · ist gewachsen|büyümek; yetişmek|Die Kinder wachsen schnell.
+v||wecken|weckt · weckte · hat geweckt|uyandırmak|Weck mich um sieben.
+v||wechseln|wechselt · wechselte · hat gewechselt|değiştirmek; bozdurmak|Ich wechsle Geld.
+v||wiegen|wiegt · wog · hat gewogen|tartmak; ağırlığında olmak|Das Paket wiegt zwei Kilo.
+v||zerstören|zerstört · zerstörte · hat zerstört|yıkmak; tahrip etmek|Der Sturm zerstört das Haus.
+v||zunehmen|nimmt zu · nahm zu · hat zugenommen|artmak; kilo almak|Ich habe zugenommen.
+v||abnehmen|nimmt ab · nahm ab · hat abgenommen|azalmak; kilo vermek|Ich möchte abnehmen.
+v||zurückgeben|gibt zurück · gab zurück · hat zurückgegeben|geri vermek|Gib mir das Buch zurück.
+v||zusammenarbeiten|arbeitet zusammen · arbeitete zusammen · hat zusammengearbeitet|birlikte çalışmak|Wir arbeiten gut zusammen.
+v||zweifeln|zweifelt · zweifelte · hat gezweifelt|şüphe etmek|Ich zweifle daran.
+v||messen|misst · maß · hat gemessen|ölçmek|Ich messe die Temperatur.
+v||verpassen|verpasst · verpasste · hat verpasst|kaçırmak|Ich habe den Bus verpasst.
+v||erledigen|erledigt · erledigte · hat erledigt|halletmek; bitirmek|Ich erledige die Arbeit.
+v||organisieren|organisiert · organisierte · hat organisiert|düzenlemek|Wir organisieren ein Fest.
+v||kündigen|kündigt · kündigte · hat gekündigt|(iş/sözleşme) feshetmek|Er hat seinen Job gekündigt.
+v||mieten|mietet · mietete · hat gemietet|kiralamak (kiracı)|Ich miete eine Wohnung.
+v||vermieten|vermietet · vermietete · hat vermietet|kiraya vermek|Er vermietet sein Haus.
+v||verlängern|verlängert · verlängerte · hat verlängert|uzatmak|Ich verlängere meinen Vertrag.
+v||anmelden|meldet an · meldete an · hat angemeldet|kaydettirmek; bildirmek|Ich melde mich zum Kurs an.
+v||abmelden|meldet ab · meldete ab · hat abgemeldet|kaydını silmek|Ich melde mich ab.
+v||beantragen|beantragt · beantragte · hat beantragt|başvurmak (resmî)|Ich beantrage ein Visum.
+v||ändern|ändert · änderte · hat geändert|değiştirmek|Ich ändere meine Adresse.
+v||bedienen|bedient · bediente · hat bedient|hizmet etmek; kullanmak (cihaz)|Der Kellner bedient die Gäste.
+v||betreten|betritt · betrat · hat betreten|içeri girmek|Betreten verboten!
+v||beenden|beendet · beendete · hat beendet|bitirmek|Ich beende die Arbeit.
+v||entfernen|entfernt · entfernte · hat entfernt|çıkarmak; kaldırmak|Er entfernt den Fleck.
+v||erhalten|erhält · erhielt · hat erhalten|almak; korumak|Ich erhalte eine E-Mail.
+v||erfinden|erfindet · erfand · hat erfunden|icat etmek|Er hat die Maschine erfunden.
+v||erleben|erlebt · erlebte · hat erlebt|yaşamak (deneyimlemek)|Wir erleben viel.
+v||erzeugen|erzeugt · erzeugte · hat erzeugt|üretmek|Das Kraftwerk erzeugt Strom.
+v||feststellen|stellt fest · stellte fest · hat festgestellt|tespit etmek|Ich stelle fest, dass er fehlt.
+v||gestalten|gestaltet · gestaltete · hat gestaltet|biçimlendirmek; tasarlamak|Sie gestaltet das Zimmer.
+v||hinzufügen|fügt hinzu · fügte hinzu · hat hinzugefügt|eklemek|Füge etwas Salz hinzu.
+v||hinweisen|–|dikkat çekmek (bkz.)|Ich weise darauf hin.
+v||kennenlernen|lernt kennen · lernte kennen · hat kennengelernt|tanışmak|Ich lerne neue Leute kennen.
+v||lieben|–|sevmek (aşk)|Ich liebe meine Familie.
+v||mitteilen|teilt mit · teilte mit · hat mitgeteilt|bildirmek|Ich teile dir das Ergebnis mit.
+v||nachdenken|denkt nach · dachte nach · hat nachgedacht|düşünmek (derinlemesine)|Ich denke darüber nach.
+v||nachsehen|sieht nach · sah nach · hat nachgesehen|bakmak; kontrol etmek|Sieh bitte nach, ob er da ist.
+v||sich beschweren|beschwert sich · beschwerte sich · hat sich beschwert|şikâyet etmek|Ich beschwere mich über den Lärm.
+v||sich bedanken|bedankt sich · bedankte sich · hat sich bedankt|teşekkür etmek|Ich bedanke mich bei dir.
+v||sich bemühen|bemüht sich · bemühte sich · hat sich bemüht|çaba göstermek|Ich bemühe mich sehr.
+v||sich ereignen|ereignet sich · ereignete sich · hat sich ereignet|meydana gelmek|Ein Unfall hat sich ereignet.
+v||sich gewöhnen|gewöhnt sich · gewöhnte sich · hat sich gewöhnt|alışmak|Ich gewöhne mich an das Wetter.
+v||sich verlaufen|verläuft sich · verlief sich · hat sich verlaufen|yolunu kaybetmek|Ich habe mich verlaufen.
+v||sich vorbereiten|bereitet sich vor · bereitete sich vor · hat sich vorbereitet|hazırlanmak|Ich bereite mich auf die Prüfung vor.
+v||sich wundern|wundert sich · wunderte sich · hat sich gewundert|şaşırmak|Ich wundere mich darüber.
+v||sich zeigen|zeigt sich · zeigte sich · hat sich gezeigt|görünmek; ortaya çıkmak|Das Problem zeigt sich bald.
+v||sich handeln um|handelt sich um · handelte sich um · hat sich gehandelt um|söz konusu olmak|Es handelt sich um ein Missverständnis.
+v||sich lohnen|lohnt sich · lohnte sich · hat sich gelohnt|değmek|Das lohnt sich.
+v||sich leisten|leistet sich · leistete sich · hat sich geleistet|(parasal) göze alabilmek|Ich kann mir das nicht leisten.
+v||sich ernähren|ernährt sich · ernährte sich · hat sich ernährt|beslenmek|Ich ernähre mich gesund.
+v||sich bewegen|bewegt sich · bewegte sich · hat sich bewegt|hareket etmek|Ich bewege mich zu wenig.
+v||sich verstehen|versteht sich · verstand sich · hat sich verstanden|anlaşmak|Wir verstehen uns gut.
+v||sich verabreden|verabredet sich · verabredete sich · hat sich verabredet|sözleşmek; buluşmak|Wir verabreden uns für Samstag.
+v||sich trauen|traut sich · traute sich · hat sich getraut|cesaret etmek|Ich traue mich nicht.
+v||sich vorstellen|–|hayal etmek; kendini tanıtmak|Das kann ich mir nicht vorstellen.
+v||sich bewerben|–|başvurmak|Ich bewerbe mich bei einer Firma.

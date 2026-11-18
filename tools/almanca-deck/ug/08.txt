@@ -1,0 +1,227 @@
+weiter|داۋاملىق؛ ئالدىغا
+wohl|ئېھتىمال
+dazu|بۇنىڭغا
+dafür|بۇنىڭ ئۈچۈن
+bereits|ئاللىقاچان
+jedoch|لېكىن
+darauf|ئۇنىڭغا؛ ئۈستىگە
+allerdings|ئەمما؛ ھەقىقەتەن
+sonst|بولمىسا
+eben|ھېلىلا؛ دەل
+kaum|ئاران
+daran|ئۇنىڭغا
+halt|ئىشقىلىپ
+direkt|بىۋاسىتە
+überhaupt|زادىلا؛ ئومۇمەن
+eher|تېخىمۇ؛ بالدۇرراق
+deutlich|ئېنىق
+damals|ئۇ چاغدا
+egal|پەرقى يوق
+bisher|ھازىرغىچە
+los|باشلا؛ نېمە بولدى
+meist|كۆپىنچە
+zunächst|ئالدى بىلەن
+bisschen|ئازراق
+früher|بۇرۇن
+darum|شۇڭا
+raus|سىرتقا
+rein|ئىچكىرى
+vorbei|ئۆتۈپ كەتتى
+dagegen|بۇنىڭغا قارشى
+ebenso|شۇنىڭدەك
+tatsächlich|ھەقىقەتەن
+nämlich|چۈنكى
+gleichzeitig|بىرلا ۋاقىتتا
+zumindest|ھېچ بولمىغاندا
+übrigens|دېگەندەك
+mindestens|كەم دېگەندە
+höchstens|ئەڭ كۆپ بولغاندا
+selber|ئۆزى
+weiterhin|داۋاملىق
+dennoch|شۇنداقتىمۇ
+somit|شۇنىڭ بىلەن
+jeweils|ھەر بىرىگە
+häufig|دائىم
+nochmal|يەنە بىر قېتىم
+beispielsweise|مەسىلەن
+zum Beispiel|مەسىلەن
+mittlerweile|ئەمدى
+teilweise|قىسمەن
+unbedingt|چوقۇم
+unterwegs|يولدا
+genauso|دەل شۇنداق
+durchaus|پۈتۈنلەي
+komplett|تولۇق
+niemals|ھەرگىز
+erneut|قايتىدىن
+knapp|ئاران
+vermutlich|بەلكىم
+total|پۈتۈنلەي
+nahe|يېقىن
+offenbar|ئېنىقكى
+zuletzt|ئەڭ ئاخىرىدا
+absolut|مۇتلەق
+derzeit|ھازىر
+regelmäßig|قەرەللىك
+erstmals|تۇنجى قېتىم
+entsprechend|شۇنىڭغا ماس
+erstmal|ئالدى بىلەن
+immerhin|ھېچ بولمىسا
+solange|-غانلا بولسا
+ständig|توختىماي
+zusätzlich|قوشۇمچە
+anschließend|ئاندىن
+persönlich|شەخسەن
+relativ|نىسبەتەن
+stets|ھەمىشە
+weltweit|دۇنيا مىقياسىدا
+grundsätzlich|پرىنسىپ جەھەتتىن
+zuhause|ئۆيدە
+wiederum|ئۆز نۆۋىتىدە
+zugleich|شۇنىڭ بىلەن بىللە
+allgemein|ئومۇمەن
+außen|سىرتىدا
+innen|ئىچىدە
+möglicherweise|بەلكىم
+hauptsächlich|ئاساسەن
+selbstverständlich|ئەلۋەتتە
+sicherlich|شەكسىزكى
+völlig|پۈتۈنلەي
+vollkommen|پۈتۈنلەي
+zudem|ئۇنىڭ ئۈستىگە
+irgendwie|قانداقتۇر
+irgendwann|بىر كۈنى
+irgendwas|بىرەر نەرسە
+irgendwer|بىرەرسى
+miteinander|بىر-بىرى بىلەن
+füreinander|بىر-بىرى ئۈچۈن
+hinein|ئىچىگە
+heraus|سىرتقا
+hinaus|سىرتقا (ئۇ يەرگە)
+hinauf|يۇقىرىغا
+hinunter|تۆۋەنگە
+herein|ئىچكىرى كىرىڭ
+darin|ئۇنىڭ ئىچىدە
+dabei|يېنىدا؛ بۇ جەرياندا
+dadurch|بۇنىڭ بىلەن
+darüber|ئۇ ھەقتە
+davon|بۇنىڭدىن
+dahin|ئۇ يەرگە
+daher|شۇنىڭ ئۈچۈن
+womit|نېمە بىلەن
+wofür|نېمە ئۈچۈن
+worüber|نېمە ھەققىدە
+woran|نېمىگە
+worauf|نېمىنى؛ نېمىگە
+neulich|يېقىندا
+vorhin|ھېلى
+kürzlich|يېقىندىن بۇيان
+zurzeit|ھازىرچە
+ab und zu|ئانچە-مۇنچە
+nachher|كېيىن
+mittags|چۈشتە
+stundenlang|سائەتلەپ
+umsonst|بىكارغا؛ بىكار
+sowieso|ئىشقىلىپ؛ قانداقلا بولمىسۇن
+jedes Mal|ھەر قېتىم
+nirgendwo|ھېچ يەردە
+überallhin|ھەممە يەرگە
+entweder|يا … ياكى
+nun|ئەمدى
+na|قېنى؛ ھە
+ach|ئاھ
+oh|ئوھ
+ok|بولىدۇ
+okay|بولىدۇ
+tja|ئەمدى نېمە قىلىمىز
+na ja|ھە، ئەمدى
+ganz bestimmt|جەزمەن
+adj:ausreichend|يېتەرلىك
+adj:deutlich|ئېنىق
+adj:gerecht|ئادىل
+adj:gewöhnlich|ئادەتتىكى
+adj:gültig|كۈچكە ئىگە
+adj:häufig|كۆپ ئۇچرايدىغان
+adj:hilfreich|پايدىلىق
+adj:kritisch|تەنقىدىي؛ ھالقىلىق
+adj:künstlich|سۈنئىي
+adj:ordentlich|رەتلىك
+adj:peinlich|خىجالەتلىك
+adj:rechtzeitig|ۋاقتىدا
+adj:schädlich|زىيانلىق
+adj:sonnig|كۈن ئوچۇق
+adj:regnerisch|يامغۇرلۇق
+adj:windig|شامال چىققان
+adj:neblig|تۇمانلىق
+adj:bewölkt|بۇلۇتلۇق
+adj:sorgfältig|ئەستايىدىل
+adj:streng|قاتتىق
+adj:traditionell|ئەنئەنىۋى
+adj:überflüssig|ئارتۇقچە
+adj:unabhängig|مۇستەقىل
+adj:unglücklich|بەختسىز
+adj:unterschiedlich|ھەر خىل
+adj:verboten|چەكلەنگەن
+adj:erlaubt|رۇخسەت قىلىنغان
+adj:vergangen|ئۆتكەن
+adj:verständlich|چۈشىنىشلىك
+adj:verfügbar|بار؛ ئىشلەتكىلى بولىدىغان
+adj:vorsichtig|ئېھتىياتچان
+adj:wahrscheinlich|ئېھتىمالى بار
+adj:wertvoll|قىممەتلىك
+adj:zukünftig|كەلگۈسىدىكى
+adj:zuständig|مەسئۇل
+adj:zufällig|تاسادىپىي
+adj:zweifellos|شەكسىز
+adj:aktuell|نۆۋەتتىكى
+adj:aktiv|ئاكتىپ
+adj:erfolgreich|مۇۋەپپەقىيەتلىك
+adj:perfekt|مۇكەممەل
+adj:nötig|زۆرۈر
+adj:notwendig|زۆرۈر
+adj:cool|ئېسىل
+adj:bewusst|ئاڭلىق
+adj:schlimm|ناچار؛ ئېغىر
+adj:verantwortlich|مەسئۇل
+adj:vorhanden|مەۋجۇت
+adj:allgemein|ئومۇمىي
+adj:extrem|ھەددىدىن زىيادە
+adj:positiv|ئىجابىي
+adj:negativ|سەلبىي
+adj:tot|ئۆلۈك
+adj:lebendig|جانلىق
+adj:näher|تېخىمۇ يېقىن
+adj:wesentlich|ئاساسلىق
+adj:ehemalig|سابىق
+adj:offensichtlich|ئېنىق
+adj:unglaublich|ئىشەنگۈسىز
+adj:gewiss|مۇقەررەر
+adj:entsprechend|ماس
+adj:folgend|تۆۋەندىكى
+adj:regelmäßig|قەرەللىك
+adj:heutig|بۈگۈنكى
+adj:gesamt|پۈتكۈل
+adj:zahlreich|نۇرغۇن
+adj:persönlich|شەخسىي
+adj:entfernt|يىراق
+adj:knapp|كەمچىل؛ تار
+adj:komplett|تولۇق
+adj:einzeln|يەككە
+adj:einzig|بىردىنبىر
+adj:nahe|يېقىن
+adj:sogenannt|ئاتالمىش
+adj:erschöpft|ھالسىزلانغان
+adj:enttäuscht|ئۈمىدسىزلەنگەن
+adj:begeistert|ھاياجانلانغان
+adj:interessiert|قىزىقىدىغان
+adj:gespannt|تەقەززا
+adj:anwesend|ھازىر بولغان
+adj:abwesend|يوق (كەلمىگەن)
+adj:berufstätig|ئىشلەيدىغان
+adj:arbeitslos|ئىشسىز
+adj:ausverkauft|سېتىلىپ تۈگىگەن
+adj:geöffnet|ئوچۇق
+adj:verspätet|كېچىككەن
+adj:direkt|بىۋاسىتە
+adj:eigentlich|ئەسلىي
+adj:ziemlich|خېلى

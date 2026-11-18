@@ -1,0 +1,279 @@
+#Familie und Beziehungen
+n|die|Mama|Mamas|anne (sevgi sözcüğü)|Mama kocht heute.
+n|der|Papa|Papas|baba (sevgi sözcüğü)|Papa kommt gleich.
+n|die|Oma|Omas|nine; babaanne/anneanne|Oma backt Kuchen.
+n|der|Opa|Opas|dede|Opa liest Zeitung.
+n|die|Verwandten|–|akrabalar|Meine Verwandten wohnen in Ankara.
+n|die|Freundschaft|Freundschaften|arkadaşlık|Freundschaft ist wichtig.
+n|die|Hochzeit|Hochzeiten|düğün|Wir gehen auf eine Hochzeit.
+n|die|Ehe|Ehen|evlilik|Sie führen eine glückliche Ehe.
+n|die|Beziehung|Beziehungen|ilişki|Wir haben eine gute Beziehung.
+n|das|Paar|Paare|çift (sevgili/evli)|Das Paar wohnt in Köln.
+n|die|Dame|Damen|hanım; bayan|Meine Damen und Herren!
+n|der|Erwachsene|Erwachsenen|yetişkin|Erwachsene zahlen mehr.
+n|der|Jugendliche|Jugendlichen|genç (ergen)|Die Jugendlichen treffen sich.
+n|die|Jugend|–|gençlik|In meiner Jugend war ich in Ankara.
+n|der|Partner|Partner|partner; eş|Mein Partner arbeitet viel.
+n|der|Bürger|Bürger|vatandaş|Jeder Bürger hat Rechte.
+n|der|Kunde|Kunden|müşteri|Der Kunde wartet.
+n|der|Patient|Patienten|hasta (kişi)|Der Patient ist im Zimmer.
+n|der|Gegner|Gegner|rakip; karşıt|Er ist ein starker Gegner.
+n|der|Künstler|Künstler|sanatçı|Der Künstler malt ein Bild.
+n|der|Autor|Autoren|yazar|Der Autor schreibt ein Buch.
+n|der|Präsident|Präsidenten|başkan; cumhurbaşkanı|Der Präsident spricht.
+n|der|Bürgermeister|Bürgermeister|belediye başkanı|Der Bürgermeister eröffnet das Fest.
+n|der|Soldat|Soldaten|asker|Der Soldat steht vor dem Tor.
+n|der|Richter|Richter|hâkim|Der Richter entscheidet.
+n|der|Anwalt|Anwälte|avukat|Ich rufe meinen Anwalt an.
+n|der|Spieler|Spieler|oyuncu|Der Spieler schießt ein Tor.
+n|der|Trainer|Trainer|antrenör|Der Trainer ist zufrieden.
+n|der|Teilnehmer|Teilnehmer|katılımcı|Alle Teilnehmer sind da.
+n|das|Mitglied|Mitglieder|üye|Ich bin Mitglied im Verein.
+#Gesellschaft und Staat
+n|die|Gesellschaft|Gesellschaften|toplum; şirket|Die Gesellschaft verändert sich.
+n|der|Staat|Staaten|devlet|Der Staat hilft den Menschen.
+n|die|Regierung|Regierungen|hükûmet|Die Regierung plant ein Gesetz.
+n|die|Politik|–|siyaset|Ich interessiere mich für Politik.
+n|die|Partei|Parteien|parti (siyasi)|Er ist in einer Partei.
+n|die|Wahl|Wahlen|seçim; seçme|Die Wahl ist im September.
+n|das|Gesetz|Gesetze|yasa|Das Gesetz gilt seit Januar.
+n|das|Recht|Rechte|hak; hukuk|Jeder hat das Recht auf Bildung.
+n|die|Polizei|–|polis|Die Polizei kommt sofort.
+n|das|Gericht|Gerichte|mahkeme; yemek (öğün)|Der Fall ist vor Gericht.
+n|die|Demokratie|Demokratien|demokrasi|Wir leben in einer Demokratie.
+n|die|Freiheit|Freiheiten|özgürlük|Freiheit ist wichtig.
+n|der|Frieden|–|barış|Wir wollen Frieden.
+n|der|Krieg|Kriege|savaş|Der Krieg ist vorbei.
+n|die|Gewalt|–|şiddet|Gewalt ist keine Lösung.
+n|die|Waffe|Waffen|silah|Waffen sind verboten.
+n|die|Armee|Armeen|ordu|Die Armee schützt das Land.
+n|die|Mehrheit|Mehrheiten|çoğunluk|Die Mehrheit stimmt zu.
+n|das|Volk|Völker|halk; millet|Das Volk wählt die Regierung.
+n|die|Bevölkerung|Bevölkerungen|nüfus|Die Bevölkerung wächst.
+n|die|Religion|Religionen|din|Religion ist ein wichtiges Thema.
+n|die|Kultur|Kulturen|kültür|Ich mag die deutsche Kultur.
+n|die|Tradition|Traditionen|gelenek|Das ist eine alte Tradition.
+n|die|Wirtschaft|Wirtschaften|ekonomi|Die Wirtschaft wächst.
+n|die|Industrie|Industrien|sanayi|Die Industrie braucht Energie.
+n|die|Energie|Energien|enerji|Wir brauchen mehr Energie.
+n|der|Strom|Ströme|elektrik; akım; ırmak|Der Strom ist ausgefallen.
+n|die|Steuer|Steuern|vergi|Wir zahlen Steuern.
+n|das|Amt|Ämter|daire; makam|Ich muss zum Amt.
+n|die|Behörde|Behörden|resmî kurum|Die Behörde ist geschlossen.
+n|die|Verwaltung|Verwaltungen|idare|Die Verwaltung ist in der Stadt.
+n|die|Organisation|Organisationen|örgüt; kuruluş|Das ist eine große Organisation.
+n|die|Gemeinde|Gemeinden|belediye; cemaat|Die Gemeinde baut eine Schule.
+n|der|Verein|Vereine|dernek; kulüp|Er ist in einem Verein.
+n|die|Öffentlichkeit|–|kamuoyu|Die Öffentlichkeit weiß es.
+n|das|Ausland|–|yurt dışı|Ich studiere im Ausland.
+n|die|Europäische Union|–|Avrupa Birliği|Deutschland ist in der Europäischen Union.
+n|das|Europa|–|Avrupa|Europa ist ein Kontinent.
+n|die|Welt|–|dünya|Ich reise um die Welt.
+#Abstrakte Begriffe
+n|die|Sache|Sachen|şey; mesele|Das ist eine wichtige Sache.
+n|das|Ding|Dinge|nesne; şey|Was ist das für ein Ding?
+n|die|Art|Arten|tür; biçim|Das ist eine besondere Art.
+n|der|Teil|Teile|bölüm; kısım|Ein Teil des Textes ist schwer.
+n|das|Ende|Enden|son|Am Ende war alles gut.
+n|der|Anfang|Anfänge|başlangıç|Am Anfang war es schwer.
+n|der|Schluss|Schlüsse|son; sonuç|Zum Schluss sage ich danke.
+n|das|Ziel|Ziele|hedef; varış noktası|Mein Ziel ist ein Studium.
+n|der|Plan|Pläne|plan|Ich habe einen Plan.
+n|die|Möglichkeit|Möglichkeiten|olanak|Es gibt viele Möglichkeiten.
+n|die|Chance|Chancen|şans; fırsat|Das ist deine Chance.
+n|die|Gelegenheit|Gelegenheiten|fırsat; vesile|Ich habe keine Gelegenheit.
+n|die|Situation|Situationen|durum|Die Situation ist schwierig.
+n|die|Lage|Lagen|durum; konum|Die Lage ist ernst.
+n|der|Fall|Fälle|durum; vaka|In diesem Fall bleibe ich.
+n|die|Frage|Fragen|mesele; soru|Das ist eine gute Frage.
+n|die|Meinung|Meinungen|fikir; görüş|Das ist meine Meinung.
+n|der|Gedanke|Gedanken|düşünce|Das ist ein guter Gedanke.
+n|das|Gefühl|Gefühle|his; duygu|Ich habe ein gutes Gefühl.
+n|die|Angst|Ängste|korku|Ich habe Angst.
+n|die|Freude|Freuden|sevinç|Ich habe viel Freude daran.
+n|die|Hoffnung|Hoffnungen|umut|Ich habe Hoffnung.
+n|der|Wunsch|Wünsche|dilek; arzu|Ich habe einen Wunsch.
+n|das|Interesse|Interessen|ilgi|Ich habe Interesse an Musik.
+n|die|Erfahrung|Erfahrungen|deneyim|Ich habe viel Erfahrung.
+n|die|Ahnung|Ahnungen|fikir; haber|Ich habe keine Ahnung.
+n|die|Wahrheit|Wahrheiten|gerçek; doğruluk|Sag die Wahrheit.
+n|die|Lüge|Lügen|yalan|Das ist eine Lüge.
+n|der|Fehler|Fehler|hata|Ich habe einen Fehler gemacht.
+n|die|Gefahr|Gefahren|tehlike|Achtung, Gefahr!
+n|die|Sicherheit|–|güvenlik|Sicherheit ist wichtig.
+n|der|Schutz|–|koruma|Wir brauchen Schutz.
+n|die|Hilfe|Hilfen|yardım|Danke für deine Hilfe.
+n|die|Unterstützung|Unterstützungen|destek|Ich brauche Unterstützung.
+n|die|Ordnung|–|düzen; tertip|In meinem Zimmer ist Ordnung.
+n|die|Regel|Regeln|kural|Das ist eine einfache Regel.
+n|der|Unterschied|Unterschiede|fark|Was ist der Unterschied?
+n|der|Vergleich|Vergleiche|karşılaştırma|Im Vergleich ist es billig.
+n|der|Vorteil|Vorteile|avantaj|Das hat viele Vorteile.
+n|der|Nachteil|Nachteile|dezavantaj|Das hat auch Nachteile.
+n|der|Erfolg|Erfolge|başarı|Ich wünsche dir Erfolg.
+n|das|Ergebnis|Ergebnisse|sonuç|Das Ergebnis ist gut.
+n|die|Folge|Folgen|sonuç; bölüm|Das hat keine Folgen.
+n|die|Ursache|Ursachen|sebep; neden|Was ist die Ursache?
+n|die|Wirkung|Wirkungen|etki|Das Medikament hat eine gute Wirkung.
+n|der|Einfluss|Einflüsse|etki; nüfuz|Das hat großen Einfluss.
+n|die|Bedeutung|Bedeutungen|anlam; önem|Was ist die Bedeutung?
+n|der|Sinn|Sinne|anlam; duyu|Das hat keinen Sinn.
+n|die|Entscheidung|Entscheidungen|karar|Das ist eine schwere Entscheidung.
+n|der|Beschluss|Beschlüsse|karar (resmî)|Der Beschluss gilt ab morgen.
+n|das|Verhalten|–|davranış|Sein Verhalten ist nicht gut.
+n|die|Verbindung|Verbindungen|bağlantı|Die Verbindung ist schlecht.
+n|der|Zusammenhang|Zusammenhänge|bağlantı; ilişki|Das steht im Zusammenhang mit der Arbeit.
+n|die|Entwicklung|Entwicklungen|gelişme|Die Entwicklung ist positiv.
+n|der|Fortschritt|Fortschritte|ilerleme|Du machst Fortschritte.
+n|die|Veränderung|Veränderungen|değişiklik|Das ist eine große Veränderung.
+n|die|Zukunft|–|gelecek|Ich plane meine Zukunft.
+n|die|Vergangenheit|–|geçmiş|Das ist Vergangenheit.
+n|die|Gegenwart|–|şimdiki zaman; hazır bulunma|In der Gegenwart ist vieles anders.
+n|das|Leben|Leben|hayat|Das Leben ist schön.
+n|der|Tod|Tode|ölüm|Der Tod ist traurig.
+n|die|Liebe|–|aşk; sevgi|Liebe ist wichtig.
+n|die|Seele|Seelen|ruh|Sie hat eine gute Seele.
+n|der|Geist|Geister|zihin; ruh|Er hat einen wachen Geist.
+n|die|Kraft|Kräfte|güç; kuvvet|Ich habe keine Kraft mehr.
+n|die|Mühe|Mühen|çaba; zahmet|Gib dir Mühe!
+n|die|Geduld|–|sabır|Habe Geduld.
+n|der|Mut|–|cesaret|Du brauchst Mut.
+n|der|Stress|–|stres|Ich habe viel Stress.
+n|die|Ruhe|–|sükûnet; huzur|Ich brauche Ruhe.
+n|der|Lärm|–|gürültü|Der Lärm ist laut.
+n|der|Geruch|Gerüche|koku|Der Geruch ist stark.
+n|der|Geschmack|Geschmäcker|tat; zevk|Der Geschmack ist gut.
+n|die|Qualität|Qualitäten|kalite|Die Qualität ist gut.
+n|die|Menge|Mengen|miktar; kalabalık|Eine große Menge Leute ist da.
+n|die|Anzahl|–|sayı; adet|Die Anzahl ist klein.
+n|das|Prozent|Prozente|yüzde|Zehn Prozent sind weg.
+n|die|Hälfte|Hälften|yarı|Die Hälfte ist weg.
+n|das|Ganze|–|bütün|Das Ganze war ein Missverständnis.
+n|der|Rest|Reste|geri kalan|Der Rest ist für dich.
+n|die|Mitte|–|orta|In der Mitte steht ein Baum.
+n|die|Grenze|Grenzen|sınır|Die Grenze ist weit.
+n|der|Bereich|Bereiche|alan; bölge|In diesem Bereich arbeite ich.
+n|das|System|Systeme|sistem|Das System funktioniert.
+n|das|Modell|Modelle|model|Das ist ein neues Modell.
+n|das|Konzept|Konzepte|konsept; taslak|Das Konzept ist gut.
+n|das|Projekt|Projekte|proje|Das Projekt ist groß.
+n|das|Programm|Programme|program|Das Programm beginnt um acht.
+n|das|Produkt|Produkte|ürün|Das Produkt ist neu.
+n|die|Produktion|Produktionen|üretim|Die Produktion läuft.
+n|die|Technik|Techniken|teknik; teknoloji|Die Technik ist modern.
+n|die|Wissenschaft|Wissenschaften|bilim|Die Wissenschaft hilft uns.
+n|die|Forschung|Forschungen|araştırma|Die Forschung braucht Geld.
+n|die|Studie|Studien|çalışma; araştırma|Eine Studie zeigt das.
+n|die|Bildung|–|eğitim|Bildung ist wichtig.
+n|die|Ausbildung|Ausbildungen|meslek eğitimi|Ich mache eine Ausbildung.
+n|das|Studium|Studien|üniversite eğitimi|Mein Studium dauert vier Jahre.
+n|die|Karriere|Karrieren|kariyer|Sie macht Karriere.
+n|die|Erklärung|Erklärungen|açıklama|Ich brauche eine Erklärung.
+n|die|Diskussion|Diskussionen|tartışma|Die Diskussion ist lang.
+n|das|Gespräch|Gespräche|konuşma; görüşme|Wir führen ein Gespräch.
+n|die|Kritik|Kritiken|eleştiri|Die Kritik ist hart.
+n|der|Kommentar|Kommentare|yorum|Ich schreibe einen Kommentar.
+n|der|Beitrag|Beiträge|katkı; yazı; aidat|Das ist ein guter Beitrag.
+n|der|Artikel|Artikel|makale; ürün; (dilbilgisi) artikel|Ich lese einen Artikel.
+n|die|Quelle|Quellen|kaynak|Die Quelle ist sicher.
+n|die|Information|Informationen|bilgi|Ich suche Informationen.
+n|der|Inhalt|Inhalte|içerik|Der Inhalt ist interessant.
+n|der|Titel|Titel|başlık; unvan|Der Titel ist lang.
+n|die|Überschrift|Überschriften|başlık|Die Überschrift ist groß.
+n|das|Zeichen|Zeichen|işaret; karakter|Das ist ein Zeichen.
+n|die|Linie|Linien|çizgi; hat|Die Linie ist gerade.
+n|das|Bild|Bilder|resim; görüntü|Das Bild ist unscharf.
+n|das|Video|Videos|video|Ich sehe ein Video.
+n|die|App|Apps|uygulama|Ich lade eine App herunter.
+n|die|Website|Websites|web sitesi|Die Website ist neu.
+n|der|Link|Links|bağlantı (link)|Ich schicke dir den Link.
+n|das|Passwort|Passwörter|şifre|Ich habe mein Passwort vergessen.
+n|die|Kamera|Kameras|kamera|Die Kamera ist neu.
+n|das|Telefon|Telefone|telefon|Das Telefon klingelt.
+n|der|Anruf|Anrufe|telefon görüşmesi|Ich habe einen Anruf bekommen.
+n|die|Kunst|Künste|sanat|Ich mag Kunst.
+n|die|Literatur|Literaturen|edebiyat|Ich lese viel Literatur.
+n|das|Medium|Medien|medya; araç|Das Internet ist ein wichtiges Medium.
+n|die|Nachrichten|–|haberler|Ich sehe die Nachrichten.
+n|die|Veranstaltung|Veranstaltungen|etkinlik|Die Veranstaltung beginnt um acht.
+n|die|Ausstellung|Ausstellungen|sergi|Die Ausstellung ist im Museum.
+n|die|Sendung|Sendungen|yayın; program|Die Sendung läuft um acht.
+n|das|Ereignis|Ereignisse|olay|Das war ein großes Ereignis.
+n|der|Moment|Momente|an; anlık|Einen Moment, bitte.
+n|der|Augenblick|Augenblicke|an; lahza|Warte einen Augenblick.
+n|der|Zeitpunkt|Zeitpunkte|zaman noktası|Zu diesem Zeitpunkt war ich nicht da.
+n|der|Zeitraum|Zeiträume|zaman dilimi|In diesem Zeitraum war ich krank.
+n|das|Jahrhundert|Jahrhunderte|yüzyıl|Das Haus ist aus dem 18. Jahrhundert.
+n|das|Mal|Male|kez|Zum ersten Mal in Deutschland.
+n|die|Zeit|–|çağ; dönem|In dieser Zeit war alles anders.
+n|die|Saison|Saisons|sezon|Die Saison beginnt im Herbst.
+n|der|Anschluss|Anschlüsse|bağlantı (ulaşım/internet)|Ich habe den Anschluss verpasst.
+n|die|Abteilung|Abteilungen|bölüm; departman|Ich arbeite in der Abteilung für Verkauf.
+n|der|Vertrag|Verträge|sözleşme|Ich unterschreibe den Vertrag.
+n|die|Bewerbung|Bewerbungen|(iş) başvurusu|Ich schreibe eine Bewerbung.
+n|der|Lebenslauf|Lebensläufe|özgeçmiş|Ich brauche einen Lebenslauf.
+n|das|Zeugnis|Zeugnisse|karne; belge|Ich bekomme mein Zeugnis.
+n|die|Erlaubnis|Erlaubnisse|izin|Ich brauche eine Erlaubnis.
+n|die|Pflicht|Pflichten|görev; zorunluluk|Das ist meine Pflicht.
+n|die|Verantwortung|Verantwortungen|sorumluluk|Ich trage die Verantwortung.
+n|die|Leistung|Leistungen|başarı; performans; hizmet|Das ist eine große Leistung.
+n|die|Lösung|–|çözüm|Wir haben eine Lösung.
+n|das|Angebot|–|teklif|Ich habe ein Angebot bekommen.
+n|die|Auswahl|–|seçenek; seçim|Wir haben eine große Auswahl.
+n|die|Werbung|Werbungen|reklam|Im Fernsehen läuft Werbung.
+n|der|Dollar|Dollar|dolar|Der Dollar ist teuer.
+n|die|Milliarde|Milliarden|milyar|Eine Milliarde Menschen.
+n|die|Million|Millionen|milyon|Eine Million Euro.
+n|der|Gewinn|Gewinne|kazanç; ödül|Das ist ein großer Gewinn.
+n|der|Verlust|Verluste|kayıp|Der Verlust ist groß.
+n|die|Schuld|Schulden|suç; borç|Das ist nicht meine Schuld.
+n|die|Strafe|Strafen|ceza|Die Strafe ist hoch.
+n|die|Gefahr|–|risk|Es besteht keine Gefahr.
+n|das|Risiko|Risiken|risk|Das Risiko ist groß.
+n|das|Opfer|Opfer|kurban; mağdur|Er war ein Opfer.
+n|die|Wirklichkeit|–|gerçeklik|In Wirklichkeit ist es anders.
+n|das|Wunder|Wunder|mucize|Das ist ein Wunder.
+n|die|Hälfte|–|yarı|Ich esse die Hälfte.
+n|die|Mama|–|anne|Mama ist da.
+#Haushalt und Alltag (Ergänzung)
+n|der|Haushalt|Haushalte|ev işleri; hane|Ich mache den Haushalt.
+n|die|Möbel|–|mobilya|Wir kaufen neue Möbel.
+n|der|Stock|Stöcke|kat; sopa|Er wohnt im dritten Stock.
+n|das|Erdgeschoss|Erdgeschosse|zemin kat|Das Büro ist im Erdgeschoss.
+n|die|Etage|Etagen|kat|Ich wohne in der zweiten Etage.
+n|der|Hof|Höfe|avlu; çiftlik|Die Kinder spielen im Hof.
+n|die|Mauer|Mauern|(taş) duvar|Die Mauer ist hoch.
+n|der|Zaun|Zäune|çit|Der Zaun ist weiß.
+n|die|Steckdose|Steckdosen|priz|Wo ist die Steckdose?
+n|der|Schalter|Schalter|anahtar; gişe|Der Schalter ist rechts.
+n|der|Computer|–|bilgisayar|Mein Computer ist langsam.
+n|der|Drucker|Drucker|yazıcı|Der Drucker ist kaputt.
+n|die|Batterie|Batterien|pil|Die Batterie ist leer.
+n|das|Kabel|Kabel|kablo|Das Kabel ist zu kurz.
+n|das|Werkzeug|Werkzeuge|alet|Ich brauche Werkzeug.
+n|der|Eimer|Eimer|kova|Der Eimer ist voll.
+n|der|Besen|Besen|süpürge|Ich brauche einen Besen.
+n|der|Staubsauger|Staubsauger|elektrikli süpürge|Ich benutze den Staubsauger.
+n|der|Topf|Töpfe|tencere|Der Topf ist heiß.
+n|die|Pfanne|Pfannen|tava|Ich brate das Ei in der Pfanne.
+n|die|Schüssel|Schüsseln|kase|Die Schüssel ist voll.
+n|die|Kerze|Kerzen|mum|Die Kerze brennt.
+n|die|Zeitung|–|gazete|Die Zeitung liegt auf dem Tisch.
+n|die|Schere|Scheren|makas|Gib mir bitte die Schere.
+n|die|Nadel|Nadeln|iğne|Ich brauche eine Nadel.
+n|das|Seil|Seile|ip|Das Seil ist lang.
+n|der|Sack|Säcke|çuval|Der Sack ist schwer.
+n|die|Kiste|Kisten|sandık; kasa|Die Kiste ist voll.
+n|der|Karton|Kartons|karton kutu|Ich packe alles in einen Karton.
+n|das|Paket|Pakete|paket; koli|Ich habe ein Paket bekommen.
+n|die|Briefmarke|Briefmarken|pul|Ich brauche eine Briefmarke.
+n|der|Umschlag|Umschläge|zarf|Der Umschlag ist weiß.
+n|die|Mahlzeit|Mahlzeiten|öğün|Die Mahlzeit ist fertig.
+n|das|Rezept|–|yemek tarifi|Das Rezept ist einfach.
+n|die|Zutat|Zutaten|malzeme|Ich brauche mehr Zutaten.
+n|der|Hunger|–|aclık|Ich habe großen Hunger.
+n|die|Mama|–|anne|Meine Mama kocht.
+n|der|Spaziergang|Spaziergänge|gezinti|Wir machen einen Spaziergang.
+n|die|Fahrt|Fahrten|yolculuk|Die Fahrt dauert eine Stunde.
+n|die|Reise|–|seyahat|Gute Reise!
+n|der|Urlaubsort|Urlaubsorte|tatil yeri|Der Urlaubsort ist schön.

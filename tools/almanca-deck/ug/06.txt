@@ -1,0 +1,251 @@
+die Mama|ئانا (ئەركىلىتىپ)
+der Papa|دادا
+die Oma|موما
+der Opa|بوۋا
+die Verwandten|تۇغقانلار
+die Freundschaft|دوستلۇق
+die Hochzeit|توي
+die Ehe|نىكاھ
+die Beziehung|مۇناسىۋەت
+das Paar|جۈپ (ئەر-ئايال)
+die Dame|خانىم
+der Erwachsene|چوڭلار
+der Jugendliche|ياش ئۆسمۈر
+die Jugend|ياشلىق
+der Partner|ھەمراھ
+der Bürger|پۇقرا
+der Kunde|خېرىدار
+der Patient|بىمار
+der Gegner|رەقىب
+der Künstler|سەنئەتكار
+der Autor|يازغۇچى
+der Präsident|پرېزىدېنت
+der Bürgermeister|شەھەر باشلىقى
+der Soldat|ئەسكەر
+der Richter|سوتچى
+der Anwalt|ئادۋوكات
+der Spieler|توپچى؛ ئويۇنچى
+der Trainer|مەشقاۋۇل
+der Teilnehmer|قاتناشقۇچى
+das Mitglied|ئەزا
+die Gesellschaft|جەمئىيەت؛ شىركەت
+der Staat|دۆلەت
+die Regierung|ھۆكۈمەت
+die Politik|سىياسەت
+die Partei|پارتىيە
+die Wahl|سايلام؛ تاللاش
+das Gesetz|قانۇن
+das Recht|ھوقۇق؛ قانۇن
+die Polizei|ساقچى
+das Gericht|سوت؛ تاماق (بىر خىل)
+die Demokratie|دېموكراتىيە
+die Freiheit|ئەركىنلىك
+der Frieden|تىنچلىق
+der Krieg|ئۇرۇش
+die Gewalt|زوراۋانلىق
+die Waffe|قورال
+die Armee|ئارمىيە
+die Mehrheit|كۆپ سانلىق
+das Volk|خەلق
+die Bevölkerung|نوپۇس
+die Religion|دىن
+die Kultur|مەدەنىيەت
+die Tradition|ئەنئەنە
+die Wirtschaft|ئىقتىساد
+die Industrie|سانائەت
+die Energie|ئېنېرگىيە
+der Strom|توك؛ ئېقىن
+die Steuer|باج
+das Amt|ئىدارە
+die Behörde|ھۆكۈمەت ئورگىنى
+die Verwaltung|باشقۇرۇش
+die Organisation|تەشكىلات
+die Gemeinde|يېزا ھۆكۈمىتى؛ جامائەت
+die Öffentlichkeit|جامائەتچىلىك
+die Europäische Union|ياۋروپا ئىتتىپاقى
+das Europa|ياۋروپا
+die Sache|ئىش؛ نەرسە
+das Ding|نەرسە
+die Art|تۈر؛ خىل
+der Teil|قىسىم
+das Ende|ئاخىر
+der Anfang|باشلىنىش
+der Schluss|ئاخىر؛ خۇلاسە
+das Ziel|نىشان
+der Plan|پىلان
+die Möglichkeit|پۇرسەت؛ ئىمكانىيەت
+die Chance|پۇرسەت
+die Gelegenheit|پۇرسەت
+die Situation|ئەھۋال
+die Lage|ۋەزىيەت؛ ئورۇن
+der Fall|ئەھۋال؛ دېلو
+die Meinung|پىكىر
+der Gedanke|ئوي
+das Gefühl|تۇيغۇ
+die Angst|قورقۇنچ
+die Freude|خۇشاللىق
+die Hoffnung|ئۈمىد
+der Wunsch|ئارزۇ؛ تىلەك
+das Interesse|قىزىقىش
+die Erfahrung|تەجرىبە
+die Ahnung|خەۋەر؛ ئۇقۇم
+die Wahrheit|ھەقىقەت
+die Lüge|يالغان
+der Fehler|خاتالىق
+die Gefahr|خەتەر
+die Sicherheit|بىخەتەرلىك
+der Schutz|قوغداش
+die Unterstützung|قوللاش
+die Ordnung|تەرتىپ
+die Regel|قائىدە
+der Unterschied|پەرق
+der Vergleich|سېلىشتۇرۇش
+der Vorteil|ئارتۇقچىلىق
+der Nachteil|كەمچىلىك
+der Erfolg|مۇۋەپپەقىيەت
+das Ergebnis|نەتىجە
+die Folge|ئاقىۋەت؛ قىسىم
+die Ursache|سەۋەب
+die Wirkung|تەسىر؛ ئۈنۈم
+der Einfluss|تەسىر
+die Bedeutung|مەنە؛ ئەھمىيەت
+der Sinn|مەنە؛ سەزگۈ
+die Entscheidung|قارار
+der Beschluss|قارار (رەسمىي)
+das Verhalten|ئەخلاق؛ ھەرىكەت
+die Verbindung|ئالاقە؛ ئۇلىنىش
+der Zusammenhang|باغلىنىش
+die Entwicklung|تەرەققىيات
+der Fortschritt|ئىلگىرىلەش
+die Veränderung|ئۆزگىرىش
+die Zukunft|كەلگۈسى
+die Vergangenheit|ئۆتمۈش
+die Gegenwart|ھازىر
+das Leben|ھايات
+der Tod|ئۆلۈم
+die Liebe|مۇھەببەت
+die Seele|روھ؛ جان
+der Geist|ئەقىل؛ روھ
+die Kraft|كۈچ
+die Mühe|تىرىشچانلىق؛ جاپا
+die Geduld|سەۋر
+der Mut|جاسارەت
+der Stress|بېسىم
+die Ruhe|تىنچلىق؛ ئارام
+der Lärm|ۋاراڭ-چۇرۇڭ
+der Geruch|پۇراق
+der Geschmack|تەم؛ زوق
+die Qualität|سۈپەت
+die Menge|مىقدار؛ توپ
+die Anzahl|سان
+das Prozent|پىرسەنت
+das Ganze|پۈتۈن
+der Rest|قالدۇق
+der Bereich|ساھە؛ دائىرە
+das System|سىستېما
+das Modell|مودېل
+das Konzept|ئۇقۇم؛ لايىھە
+das Projekt|تۈر؛ پروجېكت
+das Programm|پروگرامما
+das Produkt|مەھسۇلات
+die Produktion|ئىشلەپچىقىرىش
+die Technik|تېخنىكا
+die Wissenschaft|ئىلىم-پەن
+die Forschung|تەتقىقات
+die Studie|تەتقىقات
+die Bildung|مائارىپ
+die Ausbildung|كەسپىي تەربىيە
+das Studium|ئالىي مەكتەپ ئوقۇشى
+die Karriere|كەسپىي ھايات
+die Erklärung|چۈشەندۈرۈش
+die Diskussion|مۇزاكىرە
+das Gespräch|سۆھبەت
+die Kritik|تەنقىد
+der Kommentar|ئىنكاس
+der Beitrag|تۆھپە؛ ماقالە؛ ئىئانە
+der Artikel|ماقالە؛ مال؛ (گرامماتىكا) ئارتىكل
+die Quelle|مەنبە؛ بۇلاق
+der Inhalt|مەزمۇن
+der Titel|ماۋزۇ؛ نام
+die Überschrift|ماۋزۇ
+das Zeichen|بەلگە
+die Linie|سىزىق؛ لىنىيە
+das Video|سىن
+die App|ئەپ
+die Website|تور بەت
+der Link|ئۇلانما
+das Passwort|پارول
+die Kamera|كامېرا
+das Telefon|تېلېفون
+der Anruf|تېلېفون (چاقىرىش)
+die Kunst|سەنئەت
+die Literatur|ئەدەبىيات
+das Medium|ۋاسىتە؛ تاراتقۇ
+die Nachrichten|خەۋەرلەر
+die Veranstaltung|پائالىيەت
+die Ausstellung|كۆرگەزمە
+die Sendung|پروگرامما (تېلېۋىزىيە)
+das Ereignis|ۋەقە
+der Moment|دەقىقە؛ پەيت
+der Augenblick|بىر دەم
+der Zeitpunkt|ۋاقىت نۇقتىسى
+der Zeitraum|مەزگىل
+das Jahrhundert|ئەسىر
+die Saison|پەسىل؛ مەۋسۇم
+der Anschluss|ئۇلىنىش
+die Abteilung|بۆلۈم
+der Vertrag|توختام
+die Bewerbung|ئىلتىماس (خىزمەت)
+der Lebenslauf|تەرجىمىھال
+das Zeugnis|دىپلوم؛ نومۇر دەپتىرى
+die Erlaubnis|رۇخسەت
+die Pflicht|مەجبۇرىيەت
+die Verantwortung|مەسئۇلىيەت
+die Leistung|نەتىجە؛ مۇلازىمەت
+die Auswahl|تاللاش
+die Werbung|ئېلان
+der Dollar|دوللار
+die Milliarde|مىليارد
+der Gewinn|پايدا؛ مۇكاپات
+der Verlust|زىيان
+die Schuld|گۇناھ؛ قەرز
+die Strafe|جازا
+das Risiko|خەۋپ
+das Opfer|قۇربان؛ زىيانكەشلىككە ئۇچرىغۇچى
+die Wirklichkeit|رېئاللىق
+das Wunder|مۆجىزە
+der Haushalt|ئۆي ئىشلىرى
+die Möbel|ئۆي جاھازىلىرى
+der Stock|قەۋەت؛ ھاسا
+das Erdgeschoss|بىرىنچى قەۋەت
+die Etage|قەۋەت
+der Hof|ھويلا
+die Mauer|تام (تاش)
+der Zaun|قاشا
+die Steckdose|توك ئۇلىغۇچ
+der Schalter|ئاچقۇچ (توك)؛ كۆزنەك
+der Drucker|پرىنتېر
+die Batterie|باتارېيە
+das Kabel|سىم
+das Werkzeug|سايمان
+der Eimer|چېلەك
+der Besen|سۈپۈرگە
+der Staubsauger|چاڭ سۈمۈرگۈچ
+der Topf|قازان
+die Pfanne|توۋا
+die Schüssel|چىنە
+die Kerze|شام
+die Schere|قايچا
+die Nadel|يىڭنە
+das Seil|ئارغامچا
+der Sack|تاغار
+die Kiste|ساندۇق
+der Karton|كارتون قۇتا
+das Paket|بوغچا
+die Briefmarke|ماركا
+der Umschlag|كونۋېرت
+die Mahlzeit|ۋاخ تاماق
+die Zutat|ماتېرىيال (تاماق)
+der Spaziergang|سەيلە
+die Fahrt|سەپەر
+der Urlaubsort|دەم ئېلىش جايى

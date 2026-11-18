@@ -1,0 +1,184 @@
+adj:gut|ياخشى
+adj:schlecht|ناچار؛ يامان
+adj:schön|چىرايلىق؛ گۈزەل
+adj:hässlich|سەت
+adj:groß|چوڭ؛ ئېگىز
+adj:klein|كىچىك
+adj:lang|ئۇزۇن
+adj:kurz|قىسقا
+adj:hoch|ئېگىز
+adj:niedrig|پەس؛ تۆۋەن
+adj:breit|كەڭ
+adj:eng|تار
+adj:dick|قېلىن؛ سېمىز
+adj:dünn|نېپىز؛ ئورۇق
+adj:schwer|ئېغىر؛ قىيىن
+adj:leicht|يېنىك؛ ئاسان
+adj:einfach|ئاسان؛ ئاددىي
+adj:schwierig|قىيىن
+adj:neu|يېڭى
+adj:alt|كونا؛ قېرى
+adj:jung|ياش
+adj:schnell|تېز
+adj:langsam|ئاستا
+adj:früh|بالدۇر
+adj:spät|كەچ؛ كېچىككەن
+adj:heiß|قىزىق (ناھايىتى ئىسسىق)
+adj:warm|ئىللىق
+adj:kalt|سوغۇق
+adj:kühl|سالقىن
+adj:nass|ھۆل
+adj:trocken|قۇرۇق
+adj:sauber|پاكىز
+adj:schmutzig|مەينەت
+adj:voll|تولۇق
+adj:leer|قۇرۇق؛ بوش
+adj:offen|ئوچۇق
+adj:geschlossen|يېپىق
+adj:hell|يورۇق؛ ئوچۇق (رەڭ)
+adj:dunkel|قاراڭغۇ؛ توق
+adj:laut|قاتتىق ئاۋازلىق
+adj:leise|پەس ئاۋازلىق
+adj:ruhig|تىنچ؛ جىمجىت
+adj:teuer|قىممەت
+adj:billig|ئەرزان
+adj:günstig|ئەرزان؛ قولايلىق
+adj:reich|باي
+adj:arm|نامرات
+adj:stark|كۈچلۈك
+adj:schwach|ئاجىز
+adj:richtig|توغرا
+adj:falsch|خاتا
+adj:wichtig|مۇھىم
+adj:interessant|قىزىقارلىق
+adj:langweilig|زېرىكىشلىك
+adj:spannend|ھاياجانلىق
+adj:möglich|مۇمكىن
+adj:unmöglich|مۇمكىن ئەمەس
+adj:normal|نورمال
+adj:besonders|ئالاھىدە
+adj:gleich|ئوخشاش
+adj:anders|باشقىچە
+adj:ähnlich|ئوخشاپ كېتىدىغان
+adj:fertig|تەييار؛ تۈگىگەن
+adj:bereit|تەييار
+adj:frei|بوش؛ ئەركىن
+adj:besetzt|بەند
+adj:pünktlich|ۋاقتىدا
+adj:sicher|بىخەتەر؛ ئىشەنچلىك
+adj:gefährlich|خەتەرلىك
+adj:nützlich|پايدىلىق
+adj:wirklich|ھەقىقىي
+adj:echt|ھەقىقىي؛ ساختا ئەمەس
+adj:ganz|پۈتۈن
+adj:halb|يېرىم
+adj:viel|كۆپ
+adj:wenig|ئاز
+adj:mehrere|بىر قانچە
+adj:letzt|ئاخىرقى؛ ئۆتكەن
+adj:nächst|كېيىنكى؛ ئەڭ يېقىن
+adj:erst|بىرىنچى
+adj:ander|باشقا
+adj:eigen|ئۆزىنىڭ
+adj:bekannt|داڭلىق؛ تونۇش
+adj:fremd|ناتونۇش؛ يات
+adj:international|خەلقئارالىق
+adj:modern|زامانىۋى
+adj:typisch|تىپىك
+adj:kaputt|بۇزۇلغان
+adj:bunt|رەڭگارەڭ
+adj:rot|قىزىل
+adj:blau|كۆك
+adj:grün|يېشىل
+adj:gelb|سېرىق
+adj:schwarz|قارا
+adj:weiß|ئاق
+adj:grau|كۈلرەڭ
+adj:braun|قوڭۇر
+adj:orange|ئاپېلسىن رەڭ
+adj:rosa|ھالرەڭ
+adj:lila|سۆسۈن
+adj:golden|ئالتۇن رەڭ
+adj:silbern|كۈمۈش رەڭ
+adj:glücklich|بەختلىك
+adj:traurig|قايغۇلۇق
+adj:froh|خۇشال
+adj:müde|ھېرىپ كەتكەن
+adj:wach|ئويغاق
+adj:gesund|ساغلام
+adj:krank|كېسەل
+adj:hungrig|قورسىقى ئاچ
+adj:satt|توق
+adj:durstig|ئۇسساپ كەتكەن
+adj:nervös|جىددىيلەشكەن
+adj:wütend|غەزەپلەنگەن
+adj:böse|ئاچچىقى كەلگەن؛ يامان
+adj:ängstlich|قورقۇنچاق
+adj:überrascht|ھەيران قالغان
+adj:allein|يالغۇز
+adj:einsam|يالغۇز؛ غېرىب
+adj:zufrieden|رازى
+adj:freundlich|سىلىق؛ مېھرىبان
+adj:unfreundlich|قوپال
+adj:nett|ياخشى؛ سىلىق
+adj:höflich|ئەدەپلىك
+adj:lustig|كۈلكىلىك؛ خۇشچاقچاق
+adj:ernst|جىددىي
+adj:klug|ئەقىللىق
+adj:dumm|دۆت
+adj:fleißig|تىرىشچان
+adj:faul|ھورۇن؛ بۇزۇلغان (يېمەكلىك)
+adj:mutig|جاسارەتلىك
+adj:sympathisch|يېقىملىق
+adj:ehrlich|سەمىمىي؛ راستچىل
+adj:verheiratet|ئۆيلەنگەن
+adj:ledig|بويتاق
+adj:geschieden|ئاجرىشىپ كەتكەن
+adj:berühmt|مەشھۇر
+adj:beliebt|ياقتۇرۇلىدىغان
+adj:verschieden|ھەر خىل
+adj:gemeinsam|ئورتاق
+adj:beschäftigt|ئالدىراش
+adj:verrückt|ساراڭ؛ غەلىتە
+adj:seltsam|غەلىتە
+adj:erstaunlich|ھەيران قالارلىق
+adj:wunderbar|ئاجايىپ
+adj:toll|ئاجايىپ
+adj:super|ناھايىتى ياخشى
+adj:prima|ئېسىل
+adj:lecker|مەززىلىك
+adj:süß|تاتلىق
+adj:sauer|ئاچچىق (نوردان)
+adj:scharf|ئاچچىق (قىزىلمۇچ)؛ ئۆتكۈر
+adj:salzig|شور
+adj:bitter|ئاچچىق
+adj:frisch|يېڭى؛ يېڭى ئۈزۈلگەن
+adj:weich|يۇمشاق
+adj:hart|قاتتىق
+adj:glatt|سىلىق؛ تېيىلغاق
+adj:rund|يۇمىلاق
+adj:gerade|تۈز
+adj:tief|چوڭقۇر
+adj:flach|تۈز؛ تېيىز
+adj:stolz|پەخىرلەنگەن
+adj:schüchtern|خىجىل؛ تارتىنچاق
+adj:neugierig|قىزىقىدىغان
+adj:geduldig|سەۋرچان
+adj:eilig|ئالدىراش
+adj:bequem|راھەت
+adj:gemütlich|ئازادە؛ راھەت
+adj:praktisch|ئەمەلىي؛ قولايلىق
+adj:kostenlos|ھەقسىز
+adj:gratis|بىكار
+adj:wahr|راست
+adj:bestimmt|مەلۇم
+adj:offiziell|رەسمىي
+adj:privat|شەخسىي
+adj:öffentlich|ئاممىۋى
+adj:politisch|سىياسىي
+adj:sozial|ئىجتىمائىي
+adj:wirtschaftlich|ئىقتىسادىي
+adj:deutsch|گېرمان؛ نېمىسچە
+adj:türkisch|تۈرك؛ تۈركچە
+adj:englisch|ئەنگلىيە؛ ئىنگلىزچە
+adj:europäisch|ياۋروپا

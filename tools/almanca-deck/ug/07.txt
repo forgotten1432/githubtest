@@ -1,0 +1,180 @@
+lassen|قويماق؛ يول قويماق؛ قىلدۇرماق
+führen|باشلىماق؛ باشقۇرماق
+bestehen|(ئىمتىھاندىن) ئۆتمەك؛ مەۋجۇت بولماق
+erreichen|يەتمەك؛ ئېرىشمەك
+nutzen|پايدىلانماق
+vergleichen|سېلىشتۇرماق
+bieten|تەمىنلىمەك
+erwarten|كۈتمەك
+verlassen|تاشلاپ كەتمەك؛ ئايرىلماق
+nennen|ئاتىماق
+klingen|ئاڭلانماق
+teilen|ئورتاقلاشماق؛ بۆلمەك
+bezeichnen|ئاتىماق
+entwickeln|تەرەققىي قىلدۇرماق
+veröffentlichen|ئېلان قىلماق
+erkennen|تونۇماق؛ پەرق ئەتمەك
+erfahren|خەۋەر تاپماق
+gründen|قۇرماق
+starten|باشلىماق؛ قوزغالماق
+berichten|خەۋەر قىلماق
+sich befinden|جايلاشماق
+unterstützen|قوللىماق
+unterscheiden|پەرقلەندۈرمەك
+betreiben|يۈرگۈزمەك
+verbinden|ئۇلىماق
+sterben|ئۆلمەك
+aufnehmen|قوبۇل قىلماق؛ خاتىرىلىمەك
+schaden|زىيان يەتكۈزمەك
+aufgeben|ۋاز كەچمەك
+wirken|تەسىر قىلماق؛ كۆرۈنمەك
+aussehen|كۆرۈنمەك
+vertreten|ۋەكىللىك قىلماق
+dienen|خىزمەت قىلماق
+enthalten|ئۆز ئىچىگە ئالماق
+entstehen|بارلىققا كەلمەك
+verhindern|توسماق
+entdecken|بايقىماق
+schützen|قوغدىماق
+treten|قەدەم باسماق؛ تەپمەك
+bestätigen|جەزملەشتۈرمەك
+erscheinen|كۆرۈنمەك؛ نەشر قىلىنماق
+kämpfen|كۈرەش قىلماق
+raten|مەسلىھەت بەرمەك؛ تاپماق
+testen|سىنىماق
+behandeln|داۋالىماق؛ مۇئامىلە قىلماق
+verändern|ئۆزگەرتمەك
+übernehmen|ئۈستىگە ئالماق
+angreifen|ھۇجۇم قىلماق
+abschließen|تاماملىماق؛ قۇلۇپلىماق
+anbieten|تەكلىپ قىلماق؛ تۇتماق
+leiden|ئازابلانماق
+funktionieren|ئىشلىمەك (ئۈسكۈنە)
+stattfinden|ئۆتكۈزۈلمەك
+vorkommen|يۈز بەرمەك؛ ئۇچرىماق
+gelingen|مۇۋەپپەق بولماق
+geschehen|يۈز بەرمەك
+handeln|ھەرىكەت قىلماق؛ سودا قىلماق
+sorgen|غەمخورلۇق قىلماق؛ تەمىنلىمەك
+beschreiben|تەسۋىرلىمەك
+erwähnen|تىلغا ئالماق
+behaupten|دەۋا قىلماق
+vorschlagen|تەكلىپ بەرمەك
+annehmen|قوبۇل قىلماق؛ پەرەز قىلماق
+ablehnen|رەت قىلماق
+zustimmen|قوشۇلماق
+widersprechen|قارشى چىقماق
+bemerken|بايقىماق
+beobachten|كۆزەتمەك
+beweisen|ئىسپاتلىماق
+bewegen|ھەرىكەتلەندۈرمەك؛ تەسىرلەندۈرمەك
+brechen|سۇندۇرماق
+brennen|كۆيمەك
+fressen|يېمەك (ھايۋان)
+gebrauchen|ئىشلەتمەك
+gratulieren|تەبرىكلىمەك
+herstellen|ئىشلەپچىقارماق
+hinweisen|دىققەت تارتماق
+klappen|ئوڭۇشلۇق بولماق
+klingeln|جىرىڭلىماق
+klopfen|ئىشىك چەكمەك
+kontrollieren|تەكشۈرمەك
+kritisieren|تەنقىدلىمەك
+küssen|سۆيمەك (لەۋ)
+lehren|ئۆگەتمەك
+löschen|ئۆچۈرمەك
+lösen|ھەل قىلماق
+malen|رەسىم سىزماق
+merken|سەزمەك
+sich merken|ئېسىدە تۇتماق
+nähen|تىكمەك
+packen|قاچىلىماق
+pflanzen|تىكمەك (ئۆسۈملۈك)
+pflegen|قارىماق (بىمار/ئۆسۈملۈك)
+reichen|يەتمەك؛ ئۇزاتماق
+retten|قۇتقۇزماق
+sammeln|يىغماق
+scheitern|مەغلۇپ بولماق
+schießen|ئاتماق (ئوق/توپ)
+schlagen|ئۇرماق؛ يەڭمەك
+schneiden|كەسمەك
+schreien|ۋارقىرىماق
+schweigen|جىم تۇرماق
+sinken|چۆكمەك؛ چۈشمەك
+spüren|سەزمەك
+stehlen|ئوغرىلىماق
+tauschen|ئالماشتۇرماق
+teilnehmen|قاتناشماق
+träumen|چۈش كۆرمەك؛ ئارزۇ قىلماق
+trennen|ئايرىماق
+trösten|تەسەللى بەرمەك
+überlegen|ئويلاشماق
+überraschen|ھەيران قالدۇرماق
+überweisen|پۇل ئەۋەتمەك (بانكا)
+umtauschen|ئالماشتۇرماق (مال/پۇل)
+verbessern|ياخشىلىماق
+verbrauchen|سەرپ قىلماق
+vereinbaren|كېلىشمەك
+verletzen|يارىلاندۇرماق
+vermissen|سېغىنماق
+verreisen|سەپەرگە چىقماق
+verschwinden|يوقاپ كەتمەك
+versprechen|ۋەدە بەرمەك
+verwenden|ئىشلەتمەك
+verzichten|ۋاز كەچمەك
+vorbereiten|تەييارلىماق
+vorhaben|نىيەت قىلماق
+wachsen|ئۆسمەك
+wecken|ئويغاتماق
+wechseln|ئالماشتۇرماق؛ پارچىلىماق
+wiegen|تارتماق (ئېغىرلىق)
+zerstören|ۋەيران قىلماق
+zunehmen|كۆپەيمەك؛ سەمرىمەك
+abnehmen|ئازايماق؛ ئورۇقلىماق
+zurückgeben|قايتۇرۇپ بەرمەك
+zusammenarbeiten|ھەمكارلاشماق
+zweifeln|گۇمانلانماق
+messen|ئۆلچىمەك
+verpassen|قولدىن بېرىپ قويماق
+erledigen|بىر تەرەپ قىلماق
+organisieren|ئورۇنلاشتۇرماق
+kündigen|بىكار قىلماق (خىزمەت/توختام)
+mieten|ئىجارىگە ئالماق
+vermieten|ئىجارىگە بەرمەك
+verlängern|ئۇزارتماق
+anmelden|تىزىملاتماق
+abmelden|تىزىملىكتىن چىقارماق
+beantragen|ئىلتىماس قىلماق (رەسمىي)
+ändern|ئۆزگەرتمەك
+bedienen|مۇلازىمەت قىلماق؛ ئىشلەتمەك
+betreten|كىرمەك
+beenden|ئاخىرلاشتۇرماق
+entfernen|چىقىرىۋەتمەك
+erhalten|تاپشۇرۇۋالماق؛ ساقلىماق
+erfinden|ئىجاد قىلماق
+erleben|بېشىدىن ئۆتكۈزمەك
+erzeugen|ھاسىل قىلماق
+feststellen|بايقىماق؛ ئېنىقلىماق
+gestalten|لايىھىلىمەك
+hinzufügen|قوشماق
+kennenlernen|تونۇشماق
+mitteilen|ئۇقتۇرماق
+nachdenken|ئويلانماق
+nachsehen|قاراپ باقماق
+sich beschweren|شىكايەت قىلماق
+sich bedanken|رەھمەت ئېيتماق
+sich bemühen|تىرىشماق
+sich ereignen|يۈز بەرمەك
+sich gewöhnen|كۆنمەك
+sich verlaufen|ئېزىپ قالماق
+sich vorbereiten|تەييارلانماق
+sich wundern|ھەيران قالماق
+sich zeigen|كۆرۈنمەك
+sich handeln um|گەپ … ھەققىدە بولماق
+sich lohnen|ئەرزىمەك
+sich leisten|قۇربى يەتمەك
+sich ernähren|ئوزۇقلانماق
+sich bewegen|ھەرىكەت قىلماق
+sich verstehen|چىقىشالماق
+sich verabreden|ۋەدىلەشمەك (ئۇچرىشىش)
+sich trauen|جۈرئەت قىلماق

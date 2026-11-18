@@ -1,0 +1,275 @@
+#Familie und Menschen
+n|der|Mann|Männer|adam; koca|Der Mann liest Zeitung.
+n|die|Frau|Frauen|kadın; hanım; eş|Die Frau arbeitet im Krankenhaus.
+n|das|Kind|Kinder|çocuk|Das Kind spielt im Garten.
+n|der|Junge|Jungen|erkek çocuk|Der Junge spielt Fußball.
+n|das|Mädchen|Mädchen|kız çocuğu|Das Mädchen liest ein Buch.
+n|das|Baby|Babys|bebek|Das Baby schläft.
+n|der|Mensch|Menschen|insan|Jeder Mensch ist anders.
+n|die|Leute|–|insanlar|Die Leute warten auf den Bus.
+n|die|Familie|Familien|aile|Meine Familie ist groß.
+n|die|Eltern|–|ebeveynler|Meine Eltern wohnen in Ankara.
+n|der|Vater|Väter|baba|Mein Vater arbeitet viel.
+n|die|Mutter|Mütter|anne|Meine Mutter kocht gut.
+n|der|Sohn|Söhne|oğul|Ihr Sohn ist fünf Jahre alt.
+n|die|Tochter|Töchter|kız evlat|Ihre Tochter studiert.
+n|der|Bruder|Brüder|erkek kardeş; ağabey|Mein Bruder wohnt in Berlin.
+n|die|Schwester|Schwestern|kız kardeş; abla|Meine Schwester ist Ärztin.
+n|die|Geschwister|–|kardeşler|Ich habe drei Geschwister.
+n|der|Großvater|Großväter|büyükbaba; dede|Mein Großvater ist achtzig.
+n|die|Großmutter|Großmütter|büyükanne; nine|Meine Großmutter backt Kuchen.
+n|die|Großeltern|–|büyükanne ve büyükbaba|Ich besuche meine Großeltern.
+n|der|Onkel|Onkel|amca; dayı; enişte|Mein Onkel wohnt in Köln.
+n|die|Tante|Tanten|teyze; hala; yenge|Meine Tante kommt zu Besuch.
+n|der|Cousin|Cousins|(erkek) kuzen|Mein Cousin ist Student.
+n|die|Cousine|Cousinen|(kız) kuzen|Meine Cousine wohnt in Wien.
+n|der|Neffe|Neffen|yeğen (erkek)|Mein Neffe ist drei.
+n|die|Nichte|Nichten|yeğen (kız)|Meine Nichte malt gern.
+n|der|Enkel|Enkel|torun (erkek)|Der Enkel besucht den Opa.
+n|der|Ehemann|Ehemänner|koca|Ihr Ehemann arbeitet bei der Bank.
+n|die|Ehefrau|Ehefrauen|eş (kadın)|Seine Ehefrau ist Lehrerin.
+n|der|Freund|Freunde|arkadaş (erkek); erkek arkadaş|Mein Freund heißt Murat.
+n|die|Freundin|Freundinnen|arkadaş (kız); kız arkadaş|Meine Freundin kommt aus Izmir.
+n|der|Nachbar|Nachbarn|komşu|Mein Nachbar ist nett.
+n|der|Gast|Gäste|misafir|Wir haben heute Gäste.
+n|der|Herr|Herren|bay; efendi|Guten Tag, Herr Schmidt!
+n|der|Name|Namen|isim; ad|Wie ist dein Name?
+n|der|Vorname|Vornamen|ad (önad)|Mein Vorname ist Ali.
+n|der|Nachname|Nachnamen|soyadı|Wie ist Ihr Nachname?
+n|das|Alter|–|yaş|Wie ist dein Alter?
+n|der|Geburtstag|Geburtstage|doğum günü|Heute ist mein Geburtstag.
+n|die|Person|Personen|kişi|Wir sind vier Personen.
+n|die|Gruppe|Gruppen|grup|Die Gruppe ist groß.
+n|der|Mitarbeiter|Mitarbeiter|çalışan|Er ist ein netter Mitarbeiter.
+n|der|Kollege|Kollegen|iş arkadaşı|Mein Kollege hilft mir.
+n|der|Chef|Chefs|patron; şef|Der Chef ist im Büro.
+n|der|Lehrer|Lehrer|öğretmen (erkek)|Der Lehrer erklärt die Aufgabe.
+n|die|Lehrerin|Lehrerinnen|öğretmen (kadın)|Die Lehrerin ist freundlich.
+n|der|Schüler|Schüler|öğrenci (okul)|Die Schüler lernen Deutsch.
+n|der|Student|Studenten|üniversite öğrencisi|Er ist Student in München.
+n|der|Arzt|Ärzte|doktor (erkek)|Ich gehe zum Arzt.
+n|die|Ärztin|Ärztinnen|doktor (kadın)|Die Ärztin ist nett.
+n|der|Polizist|Polizisten|polis memuru|Der Polizist hilft uns.
+n|der|Koch|Köche|aşçı|Mein Vater ist Koch.
+n|der|Fahrer|Fahrer|şoför|Der Fahrer wartet.
+n|der|Verkäufer|Verkäufer|satıcı|Der Verkäufer ist freundlich.
+n|der|Kellner|Kellner|garson|Der Kellner bringt das Essen.
+n|der|Bauer|Bauern|çiftçi|Der Bauer arbeitet auf dem Feld.
+n|der|Ingenieur|Ingenieure|mühendis|Er ist Ingenieur bei Siemens.
+n|der|Fremde|Fremden|yabancı|Ein Fremder steht vor der Tür.
+#Körper
+n|der|Körper|Körper|vücut|Der Körper braucht Wasser.
+n|der|Kopf|Köpfe|baş|Ich habe Kopfschmerzen.
+n|das|Gesicht|Gesichter|yüz|Er hat ein freundliches Gesicht.
+n|das|Haar|Haare|saç|Sie hat lange Haare.
+n|das|Auge|Augen|göz|Sie hat blaue Augen.
+n|das|Ohr|Ohren|kulak|Mein Ohr tut weh.
+n|die|Nase|Nasen|burun|Meine Nase ist kalt.
+n|der|Mund|Münder|ağız|Mach den Mund auf.
+n|der|Zahn|Zähne|diş|Ich putze meine Zähne.
+n|der|Hals|Hälse|boyun; boğaz|Mein Hals tut weh.
+n|die|Schulter|Schultern|omuz|Meine Schulter tut weh.
+n|der|Arm|Arme|kol|Er hat einen starken Arm.
+n|die|Hand|Hände|el|Wasch dir die Hände!
+n|der|Finger|Finger|parmak|Ich habe zehn Finger.
+n|der|Rücken|Rücken|sırt|Mein Rücken tut weh.
+n|der|Bauch|Bäuche|karın; göbek|Mein Bauch tut weh.
+n|das|Herz|Herzen|kalp|Sein Herz schlägt schnell.
+n|das|Bein|Beine|bacak|Mein Bein tut weh.
+n|das|Knie|Knie|diz|Mein Knie tut weh.
+n|der|Fuß|Füße|ayak|Ich gehe zu Fuß.
+n|die|Haut|Häute|cilt|Die Haut ist trocken.
+n|das|Blut|–|kan|Er hat Blut an der Hand.
+#Essen und Trinken
+n|das|Essen|Essen|yemek|Das Essen ist fertig.
+n|das|Frühstück|Frühstücke|kahvaltı|Das Frühstück ist um acht.
+n|das|Mittagessen|Mittagessen|öğle yemeği|Das Mittagessen ist gut.
+n|das|Abendessen|Abendessen|akşam yemeği|Das Abendessen ist um sieben.
+n|das|Brot|Brote|ekmek|Ich esse Brot mit Käse.
+n|das|Brötchen|Brötchen|küçük ekmek; sandviç ekmeği|Ich kaufe vier Brötchen.
+n|die|Butter|–|tereyağı|Ich nehme Butter aufs Brot.
+n|der|Käse|Käse|peynir|Der Käse schmeckt gut.
+n|die|Wurst|Würste|sosis; salam|Ich esse keine Wurst.
+n|das|Fleisch|–|et|Ich esse kein Fleisch.
+n|der|Fisch|Fische|balık|Fisch ist gesund.
+n|das|Huhn|Hühner|tavuk|Ich esse gern Huhn.
+n|das|Ei|Eier|yumurta|Ich esse ein Ei zum Frühstück.
+n|der|Reis|–|pirinç; pilav|Ich koche Reis.
+n|die|Nudel|Nudeln|makarna|Ich esse gern Nudeln.
+n|die|Kartoffel|Kartoffeln|patates|Ich koche Kartoffeln.
+n|das|Gemüse|–|sebze|Ich esse viel Gemüse.
+n|das|Obst|–|meyve|Obst ist gesund.
+n|der|Apfel|Äpfel|elma|Ich esse einen Apfel.
+n|die|Banane|Bananen|muz|Die Banane ist gelb.
+n|die|Orange|Orangen|portakal|Ich trinke Orangensaft.
+n|die|Zitrone|Zitronen|limon|Ich brauche eine Zitrone.
+n|die|Tomate|Tomaten|domates|Die Tomaten sind frisch.
+n|die|Gurke|Gurken|salatalık|Ich mag Gurken.
+n|die|Zwiebel|Zwiebeln|soğan|Ich schneide die Zwiebel.
+n|der|Knoblauch|–|sarımsak|Ich mag Knoblauch.
+n|die|Karotte|Karotten|havuç|Die Karotten sind süß.
+n|der|Salat|Salate|salata; marul|Ich esse einen Salat.
+n|die|Suppe|Suppen|çorba|Die Suppe ist heiß.
+n|die|Pizza|Pizzen|pizza|Wir essen Pizza.
+n|der|Kuchen|Kuchen|pasta; kek|Ich backe einen Kuchen.
+n|die|Torte|Torten|pasta (tören pastası)|Die Torte ist lecker.
+n|die|Schokolade|Schokoladen|çikolata|Ich esse gern Schokolade.
+n|das|Eis|–|dondurma; buz|Im Sommer esse ich Eis.
+n|der|Zucker|–|şeker|Ich trinke Tee ohne Zucker.
+n|das|Salz|–|tuz|Gib mir bitte das Salz.
+n|der|Pfeffer|–|karabiber|Ich brauche Pfeffer.
+n|das|Öl|Öle|yağ (sıvı)|Ich brate mit Öl.
+n|der|Honig|–|bal|Ich esse Brot mit Honig.
+n|die|Marmelade|Marmeladen|reçel|Ich mag Erdbeermarmelade.
+n|die|Milch|–|süt|Ich trinke Milch.
+n|das|Wasser|–|su|Ich trinke viel Wasser.
+n|der|Saft|Säfte|meyve suyu|Ich trinke Orangensaft.
+n|der|Tee|Tees|çay|Ich trinke gern Tee.
+n|der|Kaffee|Kaffees|kahve|Möchtest du einen Kaffee?
+n|das|Bier|Biere|bira|Er trinkt ein Bier.
+n|der|Wein|Weine|şarap|Sie trinkt ein Glas Wein.
+n|das|Getränk|Getränke|içecek|Was möchten Sie als Getränk?
+n|die|Flasche|Flaschen|şişe|Eine Flasche Wasser, bitte.
+n|das|Glas|Gläser|bardak; cam; kavanoz|Ein Glas Wasser, bitte.
+n|die|Tasse|Tassen|fincan|Eine Tasse Tee, bitte.
+n|der|Teller|Teller|tabak|Der Teller ist leer.
+n|das|Messer|Messer|bıçak|Gib mir das Messer.
+n|die|Gabel|Gabeln|çatal|Ich brauche eine Gabel.
+n|der|Löffel|Löffel|kaşık|Ich esse die Suppe mit dem Löffel.
+n|die|Speisekarte|Speisekarten|menü; yemek listesi|Die Speisekarte, bitte.
+n|die|Rechnung|Rechnungen|hesap; fatura|Die Rechnung, bitte.
+n|das|Restaurant|Restaurants|restoran|Wir gehen ins Restaurant.
+n|das|Café|Cafés|kafe|Wir treffen uns im Café.
+n|der|Hunger|–|açlık|Ich habe Hunger.
+n|der|Durst|–|susuzluk|Ich habe Durst.
+#Haus und Wohnung
+n|das|Haus|Häuser|ev; bina|Das Haus ist groß.
+n|die|Wohnung|Wohnungen|daire|Die Wohnung ist klein.
+n|das|Zimmer|Zimmer|oda|Mein Zimmer ist klein.
+n|die|Küche|Küchen|mutfak|Die Küche ist modern.
+n|das|Bad|Bäder|banyo|Das Bad ist sauber.
+n|das|Badezimmer|Badezimmer|banyo|Das Badezimmer ist klein.
+n|die|Toilette|Toiletten|tuvalet|Wo ist die Toilette?
+n|das|Wohnzimmer|Wohnzimmer|oturma odası|Wir sitzen im Wohnzimmer.
+n|das|Schlafzimmer|Schlafzimmer|yatak odası|Das Schlafzimmer ist ruhig.
+n|das|Kinderzimmer|Kinderzimmer|çocuk odası|Das Kinderzimmer ist bunt.
+n|der|Flur|Flure|koridor; hol|Die Schuhe stehen im Flur.
+n|der|Balkon|Balkone|balkon|Wir sitzen auf dem Balkon.
+n|der|Garten|Gärten|bahçe|Der Garten ist schön.
+n|der|Keller|Keller|bodrum|Das Fahrrad steht im Keller.
+n|die|Garage|Garagen|garaj|Das Auto steht in der Garage.
+n|die|Treppe|Treppen|merdiven|Nimm die Treppe.
+n|der|Aufzug|Aufzüge|asansör|Wir nehmen den Aufzug.
+n|das|Dach|Dächer|çatı|Das Dach ist rot.
+n|die|Wand|Wände|duvar|An der Wand hängt ein Bild.
+n|der|Boden|Böden|zemin; yer|Der Boden ist kalt.
+n|die|Decke|Decken|tavan; battaniye|Die Decke ist weiß.
+n|die|Tür|Türen|kapı|Mach bitte die Tür zu.
+n|das|Fenster|Fenster|pencere|Das Fenster ist offen.
+n|der|Schlüssel|Schlüssel|anahtar|Wo ist mein Schlüssel?
+n|die|Miete|Mieten|kira|Die Miete ist hoch.
+n|der|Tisch|Tische|masa|Der Tisch ist neu.
+n|der|Stuhl|Stühle|sandalye|Der Stuhl ist bequem.
+n|das|Sofa|Sofas|kanepe|Wir sitzen auf dem Sofa.
+n|der|Sessel|Sessel|koltuk|Der Sessel ist weich.
+n|das|Bett|Betten|yatak|Ich gehe ins Bett.
+n|der|Schrank|Schränke|dolap|Die Kleider sind im Schrank.
+n|das|Regal|Regale|raf|Die Bücher stehen im Regal.
+n|die|Lampe|Lampen|lamba|Die Lampe ist an.
+n|das|Licht|Lichter|ışık|Mach das Licht an.
+n|der|Teppich|Teppiche|halı|Der Teppich ist rot.
+n|der|Spiegel|Spiegel|ayna|Ich schaue in den Spiegel.
+n|das|Bild|Bilder|resim; tablo|Das Bild hängt an der Wand.
+n|die|Uhr|Uhren|saat|Die Uhr ist kaputt.
+n|der|Kühlschrank|Kühlschränke|buzdolabı|Die Milch ist im Kühlschrank.
+n|der|Herd|Herde|ocak|Der Herd ist heiß.
+n|der|Ofen|Öfen|fırın; soba|Der Kuchen ist im Ofen.
+n|die|Waschmaschine|Waschmaschinen|çamaşır makinesi|Die Waschmaschine ist kaputt.
+n|die|Heizung|Heizungen|kalorifer; ısıtma|Die Heizung ist an.
+n|die|Dusche|Duschen|duş|Ich gehe unter die Dusche.
+n|das|Handtuch|Handtücher|havlu|Ich brauche ein Handtuch.
+n|die|Seife|Seifen|sabun|Ich nehme die Seife.
+n|die|Zahnbürste|Zahnbürsten|diş fırçası|Das ist meine Zahnbürste.
+n|der|Müll|–|çöp|Ich bringe den Müll raus.
+#Kleidung
+n|die|Kleidung|–|giysi; kıyafet|Meine Kleidung ist neu.
+n|das|Hemd|Hemden|gömlek|Das Hemd ist weiß.
+n|das|T-Shirt|T-Shirts|tişört|Ich trage ein T-Shirt.
+n|der|Pullover|Pullover|kazak|Der Pullover ist warm.
+n|die|Jacke|Jacken|ceket; mont|Zieh die Jacke an!
+n|der|Mantel|Mäntel|palto|Im Winter trage ich einen Mantel.
+n|die|Hose|Hosen|pantolon|Die Hose ist zu klein.
+n|die|Jeans|Jeans|kot pantolon|Ich trage Jeans.
+n|der|Rock|Röcke|etek|Der Rock ist kurz.
+n|das|Kleid|Kleider|elbise|Das Kleid ist schön.
+n|der|Anzug|Anzüge|takım elbise|Er trägt einen Anzug.
+n|der|Schuh|Schuhe|ayakkabı|Meine Schuhe sind neu.
+n|die|Socke|Socken|çorap|Ich brauche neue Socken.
+n|die|Mütze|Mützen|bere; şapka (kışlık)|Im Winter trage ich eine Mütze.
+n|der|Hut|Hüte|şapka|Er trägt einen Hut.
+n|der|Schal|Schals|atkı; şal|Der Schal ist warm.
+n|der|Handschuh|Handschuhe|eldiven|Ich brauche Handschuhe.
+n|die|Tasche|Taschen|çanta; cep|Meine Tasche ist schwer.
+n|der|Rucksack|Rucksäcke|sırt çantası|Der Rucksack ist voll.
+n|die|Brille|Brillen|gözlük|Ich brauche eine Brille.
+n|der|Gürtel|Gürtel|kemer|Der Gürtel ist braun.
+n|der|Regenschirm|Regenschirme|şemsiye|Nimm einen Regenschirm mit.
+n|der|Ring|Ringe|yüzük|Sie trägt einen Ring.
+#Zeit
+n|die|Zeit|Zeiten|zaman; vakit|Ich habe keine Zeit.
+n|die|Sekunde|Sekunden|saniye|Warte eine Sekunde.
+n|die|Minute|Minuten|dakika|Der Bus kommt in fünf Minuten.
+n|die|Stunde|Stunden|saat (süre); ders saati|Der Film dauert zwei Stunden.
+n|der|Tag|Tage|gün|Ich arbeite jeden Tag.
+n|die|Woche|Wochen|hafta|Eine Woche hat sieben Tage.
+n|der|Monat|Monate|ay|Ein Jahr hat zwölf Monate.
+n|das|Jahr|Jahre|yıl; yaş|Ich lerne seit einem Jahr Deutsch.
+n|das|Wochenende|Wochenenden|hafta sonu|Am Wochenende schlafe ich lange.
+n|der|Morgen|Morgen|sabah|Am Morgen trinke ich Kaffee.
+n|der|Vormittag|Vormittage|öğleden önce|Am Vormittag habe ich Unterricht.
+n|der|Mittag|Mittage|öğle|Am Mittag esse ich.
+n|der|Nachmittag|Nachmittage|öğleden sonra|Am Nachmittag gehe ich spazieren.
+n|der|Abend|Abende|akşam|Am Abend sehe ich fern.
+n|die|Nacht|Nächte|gece|In der Nacht schlafe ich.
+n|der|Montag|Montage|pazartesi|Am Montag arbeite ich.
+n|der|Dienstag|Dienstage|salı|Am Dienstag habe ich Deutsch.
+n|der|Mittwoch|Mittwoche|çarşamba|Am Mittwoch gehe ich zum Arzt.
+n|der|Donnerstag|Donnerstage|perşembe|Am Donnerstag spiele ich Fußball.
+n|der|Freitag|Freitage|cuma|Am Freitag gehe ich ins Kino.
+n|der|Samstag|Samstage|cumartesi|Am Samstag kaufe ich ein.
+n|der|Sonntag|Sonntage|pazar|Am Sonntag schlafe ich lange.
+n|der|Januar|–|ocak|Im Januar ist es kalt.
+n|der|Februar|–|şubat|Der Februar hat 28 Tage.
+n|der|März|–|mart|Im März beginnt der Frühling.
+n|der|April|–|nisan|Im April regnet es oft.
+n|der|Mai|–|mayıs|Im Mai blühen die Blumen.
+n|der|Juni|–|haziran|Im Juni ist es warm.
+n|der|Juli|–|temmuz|Im Juli ist Urlaub.
+n|der|August|–|ağustos|Im August fahren wir ans Meer.
+n|der|September|–|eylül|Im September beginnt die Schule.
+n|der|Oktober|–|ekim|Im Oktober fallen die Blätter.
+n|der|November|–|kasım|Im November ist es neblig.
+n|der|Dezember|–|aralık|Im Dezember schneit es.
+n|der|Frühling|Frühlinge|ilkbahar|Im Frühling blühen die Blumen.
+n|der|Sommer|Sommer|yaz|Im Sommer schwimme ich gern.
+n|der|Herbst|Herbste|sonbahar|Im Herbst regnet es viel.
+n|der|Winter|Winter|kış|Im Winter ist es kalt.
+n|das|Datum|Daten|tarih|Welches Datum haben wir heute?
+n|der|Termin|Termine|randevu; tarih|Ich habe morgen einen Termin.
+n|der|Kalender|Kalender|takvim|Ich schaue in den Kalender.
+n|die|Pause|Pausen|mola|Wir machen eine Pause.
+n|der|Urlaub|Urlaube|tatil; izin|Ich mache Urlaub in Spanien.
+n|die|Ferien|–|tatil (okul)|Im Sommer haben wir Ferien.
+n|der|Feiertag|Feiertage|resmi tatil; bayram günü|Heute ist Feiertag.
+n|das|Fest|Feste|bayram; şenlik|Wir feiern ein Fest.
+n|das|Wetter|–|hava durumu|Das Wetter ist schön.
+n|die|Sonne|Sonnen|güneş|Die Sonne scheint.
+n|der|Regen|–|yağmur|Der Regen ist kalt.
+n|der|Schnee|–|kar|Im Winter gibt es Schnee.
+n|der|Wind|Winde|rüzgâr|Heute ist viel Wind.
+n|die|Wolke|Wolken|bulut|Am Himmel sind Wolken.
+n|der|Himmel|Himmel|gökyüzü; cennet|Der Himmel ist blau.
+n|der|Mond|Monde|ay (gök cismi)|Der Mond ist hell.
+n|der|Stern|Sterne|yıldız|Nachts sieht man die Sterne.
+n|die|Temperatur|Temperaturen|sıcaklık|Die Temperatur ist 20 Grad.
+n|das|Grad|Grade|derece|Heute sind es 25 Grad.

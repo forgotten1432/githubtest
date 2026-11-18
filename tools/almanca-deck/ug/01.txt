@@ -1,0 +1,302 @@
+ich|مەن
+du|سەن
+er|ئۇ (ئەر)
+pron:sie|ئۇ (ئايال)؛ ئۇلار
+es|ئۇ (نەرسە)
+wir|بىز
+pron:ihr|سىلەر؛ (ئىگىلىك) ئۇنىڭ، ئۇلارنىڭ
+Sie|سىز (ھۆرمەت)
+mich|مېنى
+dich|سېنى
+ihn|ئۇنى (ئەر)
+uns|بىزنى؛ بىزگە
+euch|سىلەرنى؛ سىلەرگە
+mir|ماڭا
+dir|ساڭا
+ihm|ئۇنىڭغا
+ihnen|ئۇلارغا
+man|كىشى؛ ئادەم (ئومۇمىي)
+selbst|ئۆزى؛ بىۋاسىتە
+sich|ئۆزىنى؛ ئۆزىگە
+mein|مېنىڭ
+dein|سېنىڭ
+det:sein|ئۇنىڭ (ئەر)
+det:ihr|ئۇنىڭ (ئايال)؛ ئۇلارنىڭ
+unser|بىزنىڭ
+euer|سىلەرنىڭ
+ein|بىر
+kein|ھېچ؛ يوق
+dieser|بۇ
+jeder|ھەر
+alle|ھەممىسى؛ بارلىق
+viele|نۇرغۇن؛ كۆپ
+einige|بىر نەچچە؛ بەزى
+manche|بەزى
+andere|باشقا
+beide|ھەر ئىككىسى
+alles|ھەممە نەرسە
+nichts|ھېچنەرسە
+etwas|بىر نەرسە؛ ئازراق
+jemand|بىرەرسى
+niemand|ھېچكىم
+wer|كىم
+was|نېمە
+wo|نەدە
+wohin|نەگە
+woher|نەدىن
+wann|قاچان
+warum|نېمە ئۈچۈن
+wie|قانداق
+welcher|قايسى
+wie viel|قانچە؛ قانچىلىك
+wie viele|قانچە دانە
+wie lange|قانچىلىك ۋاقىت
+wie oft|قانچە قېتىم
+wie alt|قانچە ياشتا
+wem|كىمگە
+wen|كىمنى
+wessen|كىمنىڭ
+in|ئىچىدە؛ -غا
+an|يېنىدا؛ -دا (يۈزىدە)
+auf|ئۈستىدە؛ ئۈستىگە
+aus|-دىن (ئىچىدىن)؛ -دىن ياسالغان
+bei|يېنىدا؛ -نىڭكىدە
+mit|بىلەن
+nach|كېيىن؛ -غا (شەھەر/دۆلەت)
+seit|-دىن بېرى
+von|-دىن؛ -نىڭ
+prep:zu|-غا (كىشىگە/جايغا)
+für|ئۈچۈن
+durch|ئارقىلىق؛ ئوتتۇرىسىدىن
+gegen|-غا قارشى؛ -غا يېقىن
+ohne|-سىز
+um|ئەتراپىدا؛ (سائەت) دە
+bis|-غىچە
+über|ئۈستىدە؛ ھەققىدە
+unter|ئاستىدا؛ ئارىسىدا
+vor|ئالدىدا؛ بۇرۇن
+hinter|كەينىدە
+neben|يېنىدا
+zwischen|ئارىسىدا
+während|-غان چاغدا؛ جەريانىدا
+wegen|سەۋەبىدىن
+trotz|-غا قارىماي
+statt|ئورنىغا
+außer|-دىن باشقا
+gegenüber|ئۇدۇلىدا
+ab|-دىن باشلاپ
+entlang|بويلاپ
+pro|ھەر بىرى؛ ھېسابىدا
+und|ۋە
+oder|ياكى
+aber|لېكىن
+denn|چۈنكى
+sondern|بەلكى
+dass|-غانلىقىنى؛ كى
+weil|چۈنكى
+wenn|ئەگەر؛ -غاندا
+als|-غاندا (ئۆتكەندە)؛ دەك؛ سۈپىتىدە
+ob|-مۇ-يوق
+obwohl|-غىنىغا قارىماي
+damit|-سۇن دەپ
+bevor|-ماستىن بۇرۇن
+nachdem|-غاندىن كېيىن
+sobald|-غان ھامان
+falls|ئەگەر -سا
+indem|-ىپ؛ ئارقىلىق
+entweder … oder|يا … ياكى
+weder … noch|نە … نە
+sowohl … als auch|ھەم … ھەم
+je … desto|قانچە … شۇنچە
+hier|بۇ يەردە
+da|ئۇ يەردە؛ شۇ چاغدا
+dort|ئاۋۇ يەردە
+links|سولدا؛ سولغا
+rechts|ئوڭدا؛ ئوڭغا
+geradeaus|ئۇدۇل؛ تۈز
+oben|يۇقىرىدا
+unten|تۆۋەندە
+vorne|ئالدىدا
+hinten|ئارقىدا
+drinnen|ئىچىدە
+draußen|سىرتتا
+überall|ھەممە يەردە
+nirgends|ھېچ يەردە
+irgendwo|بىرەر يەردە
+zurück|قايتىپ؛ كەينىگە
+weg|كەتكەن؛ يوق
+hin|ئۇ يەرگە
+her|بۇ يەرگە
+zusammen|بىللە
+allein|يالغۇز
+nah|يېقىن
+weit|يىراق
+heute|بۈگۈن
+gestern|تۈنۈگۈن
+morgen|ئەتە
+übermorgen|ئۆگۈنلۈككە
+vorgestern|ئالدىنقى كۈنى
+jetzt|ھازىر
+gleich|ھېلىلا؛ ئوخشاش
+sofort|دەرھال
+bald|پات ئارىدا
+früh|بالدۇر
+spät|كېچىكىپ؛ كەچ
+schon|ئاللىقاچان
+noch|يەنە؛ تېخى
+noch nicht|تېخى ئەمەس
+noch nie|ھېچقاچان (تېخى)
+nicht mehr|ئەمدى ئەمەس
+wieder|يەنە
+immer|ھەمىشە
+nie|ھەرگىز
+oft|دائىم
+manchmal|بەزىدە
+selten|ناھايىتى ئاز
+meistens|كۆپىنچە
+normalerweise|ئادەتتە
+plötzlich|تۇيۇقسىز
+endlich|ئاخىرى
+zuerst|ئالدى بىلەن
+dann|ئاندىن
+danach|ئۇنىڭدىن كېيىن
+vorher|ئالدىن
+später|كېيىن
+schließlich|ئاخىرىدا
+inzwischen|بۇ ئارىدا
+jederzeit|خالىغان ۋاقىتتا
+tagsüber|كۈندۈزى
+abends|كەچلىرى
+morgens|ئەتىگەنلىرى
+nachts|كېچىلىرى
+täglich|ھەر كۈنى
+sehr|ناھايىتى
+ziemlich|خېلى
+adv:zu|ھەددىدىن ئارتۇق
+ganz|پۈتۈنلەي
+fast|تاس قالدى؛ دېگۈدەك
+genau|دەل؛ ئېنىق
+ungefähr|تەخمىنەن
+etwa|تەخمىنەن
+nur|پەقەت
+auch|-مۇ
+noch einmal|يەنە بىر قېتىم
+sogar|ھەتتا
+vielleicht|بەلكىم
+wahrscheinlich|ئېھتىمال
+sicher|چوقۇم؛ ئىشەنچلىك
+bestimmt|جەزمەن
+leider|ئەپسۇس
+hoffentlich|ئۈمىد قىلىمەنكى
+natürlich|ئەلۋەتتە
+gern|خۇشاللىق بىلەن
+lieber|ئەڭ ياخشىسى؛ تېخىمۇ ياقتۇرۇپ
+am liebsten|ئەڭ ياقتۇرۇپ
+besonders|بولۇپمۇ
+wirklich|راستتىنلا
+eigentlich|ئەسلىدە
+einfach|ئاددىي؛ پەقەت
+so|مۇنداق؛ شۇنداق
+mehr|تېخىمۇ كۆپ
+weniger|تېخىمۇ ئاز
+wenig|ئاز
+viel|كۆپ
+genug|يېتەرلىك
+fast immer|دېگۈدەك ھەمىشە
+wenigstens|ئەڭ ئاز دېگەندە
+jedenfalls|قانداقلا بولمىسۇن
+ebenfalls|سىزگىمۇ؛ ئوخشاشلا
+trotzdem|شۇنداق بولسىمۇ
+deshalb|شۇڭا
+deswegen|شۇ سەۋەبتىن
+außerdem|بۇنىڭدىن باشقا
+also|دېمەك
+doch|ھەئە (ئەكسىچە)؛ ئەمما
+mal|بىر (قېتىم)
+ja|ھەئە
+nein|ياق
+nicht|ئەمەس
+gar nicht|زادىلا ئەمەس
+null|نۆل
+eins|بىر
+zwei|ئىككى
+drei|ئۈچ
+vier|تۆت
+fünf|بەش
+sechs|ئالتە
+sieben|يەتتە
+acht|سەككىز
+neun|توققۇز
+zehn|ئون
+elf|ئون بىر
+zwölf|ئون ئىككى
+dreizehn|ئون ئۈچ
+vierzehn|ئون تۆت
+fünfzehn|ئون بەش
+sechzehn|ئون ئالتە
+siebzehn|ئون يەتتە
+achtzehn|ئون سەككىز
+neunzehn|ئون توققۇز
+zwanzig|يىگىرمە
+einundzwanzig|يىگىرمە بىر
+dreißig|ئوتتۇز
+vierzig|قىرىق
+fünfzig|ئەللىك
+sechzig|ئاتمىش
+siebzig|يەتمىش
+achtzig|سەكسەن
+neunzig|توقسان
+hundert|يۈز
+tausend|مىڭ
+die Million|مىليون
+erste|بىرىنچى
+zweite|ئىككىنچى
+dritte|ئۈچىنچى
+halb|يېرىم
+das Viertel|چارەك
+die Hälfte|يېرىم
+das Paar|جۈپ؛ بىر نەچچە
+das Mal|قېتىم
+einmal|بىر قېتىم
+zweimal|ئىككى قېتىم
+hallo|سالام
+guten Morgen|خەيرلىك ئەتىگەن
+guten Tag|ياخشىمۇسىز
+guten Abend|خەيرلىك كەچ
+gute Nacht|خەيرلىك كېچە
+tschüss|خوش
+auf Wiedersehen|خەير-خوش
+bis bald|تېزلا كۆرۈشەيلى
+bis morgen|ئەتە كۆرۈشەيلى
+danke|رەھمەت
+bitte|مەرھەمەت؛ ئارزۇ قىلىمەن
+gern geschehen|ئەرزىمەيدۇ
+kein Problem|مەسىلە يوق
+Entschuldigung|كەچۈرۈڭ
+Es tut mir leid|كەچۈرۈڭ؛ ئەپسۇسلىنىمەن
+Wie geht's?|قانداق ئەھۋالىڭ؟
+Wie geht es Ihnen?|ئەھۋالىڭىز قانداق؟
+Mir geht es gut|مەن ياخشى
+Wie heißt du?|ئىسمىڭ نېمە؟
+Ich heiße …|مېنىڭ ئىسمىم …
+Woher kommst du?|قەيەرلىك سەن؟
+Ich komme aus …|مەن … لىق
+Wie bitte?|قايتا دەڭ؟
+Ich verstehe nicht|چۈشەنمىدىم
+Sprechen Sie Englisch?|ئىنگلىزچە سۆزلەمسىز؟
+Ich weiß nicht|بىلمەيمەن
+Gute Besserung|تېزرەك ساقىيىپ كېتىڭ
+Herzlichen Glückwunsch|تەبرىكلەيمەن
+Viel Glück|ئامەت تىلەيمەن
+Guten Appetit|ئىشتىھايىڭىز ئوچۇق بولسۇن
+Prost|سالامەتلىكىڭىز ئۈچۈن
+Willkommen|خۇش كەلدىڭىز
+Alles Gute|ھەممە ئىشىڭىز ياخشى بولسۇن
+Genau|دەل شۇنداق
+Klar|ئەلۋەتتە
+Schade|ئەپسۇس
+Achtung|دىققەت
+Hilfe|ياردەم!
+Moment|بىر دەقىقە
+Stimmt|توغرا
+Genug|بولدى

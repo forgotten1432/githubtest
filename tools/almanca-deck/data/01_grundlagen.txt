@@ -1,0 +1,314 @@
+#Pronomen
+pron||ich||ben|Ich bin müde.
+pron||du||sen|Du bist nett.
+pron||er||o (erkek)|Er wohnt in Berlin.
+pron||sie||o (kadın); onlar|Sie ist Lehrerin.
+pron||es||o (nötr)|Es ist kalt.
+pron||wir||biz|Wir lernen Deutsch.
+pron||ihr||siz (çoğul "sen"); (sahiplik) onun, onların|Ihr seid spät.
+pron||Sie||Siz (resmi hitap)|Wie heißen Sie?
+pron||mich||beni|Er sieht mich.
+pron||dich||seni|Ich liebe dich.
+pron||ihn||onu (erkek)|Ich kenne ihn.
+pron||uns||bizi; bize|Er hilft uns.
+pron||euch||sizi; size|Ich sehe euch.
+pron||mir||bana|Gib mir das Buch.
+pron||dir||sana|Ich danke dir.
+pron||ihm||ona (erkek/nötr)|Ich gebe ihm Geld.
+pron||ihnen||onlara|Ich helfe ihnen.
+pron||man||insan; biri; (genel özne)|Hier spricht man Deutsch.
+pron||selbst||kendi; bizzat|Ich mache es selbst.
+pron||sich||kendini; kendine|Er wäscht sich.
+det||mein||benim|Das ist mein Auto.
+det||dein||senin|Wo ist dein Handy?
+det||sein||onun (erkek)|Sein Bruder ist nett.
+det||ihr||onun (kadın); onların|Ihr Mann arbeitet viel.
+det||unser||bizim|Unser Haus ist klein.
+det||euer||sizin|Wo ist euer Lehrer?
+det||ein||bir (belirsiz artikel)|Ich habe ein Auto.
+det||kein||hiç; değil (olumsuz artikel)|Ich habe keine Zeit.
+det||dieser||bu|Dieser Mann ist alt.
+det||jeder||her|Jeder Mensch ist anders.
+det||alle||hepsi; bütün|Alle Kinder spielen.
+det||viele||çok; birçok|Viele Leute kommen.
+det||einige||birkaç; bazı|Einige Freunde sind hier.
+det||manche||bazı|Manche Leute schlafen lange.
+det||andere||diğer; başka|Ich habe andere Pläne.
+det||beide||ikisi de|Beide Kinder sind klein.
+pron||alles||her şey|Ich verstehe alles.
+pron||nichts||hiçbir şey|Ich weiß nichts.
+pron||etwas||bir şey; biraz|Ich brauche etwas Zeit.
+pron||jemand||birisi|Ist jemand da?
+pron||niemand||hiç kimse|Niemand ist zu Hause.
+#Fragewörter
+int||wer||kim|Wer ist das?
+int||was||ne; ne (soru)|Was machst du?
+int||wo||nerede|Wo wohnst du?
+int||wohin||nereye|Wohin gehst du?
+int||woher||nereden|Woher kommst du?
+int||wann||ne zaman|Wann kommst du?
+int||warum||neden; niçin|Warum lernst du Deutsch?
+int||wie||nasıl|Wie geht es dir?
+int||welcher||hangi|Welcher Bus fährt zum Bahnhof?
+int||wie viel||ne kadar|Wie viel kostet das?
+int||wie viele||kaç tane|Wie viele Kinder hast du?
+int||wie lange||ne kadar süre|Wie lange bleibst du?
+int||wie oft||ne sıklıkla; kaç kez|Wie oft gehst du schwimmen?
+int||wie alt||kaç yaşında|Wie alt bist du?
+int||wem||kime|Wem gehört das Buch?
+int||wen||kimi|Wen siehst du?
+int||wessen||kimin|Wessen Tasche ist das?
+#Präpositionen
+prep||in||içinde; -e/-a (içine)|Ich wohne in Istanbul.
+prep||an||(yüzeye) yanında; -da|Das Bild hängt an der Wand.
+prep||auf||üstünde; üzerine|Das Buch liegt auf dem Tisch.
+prep||aus||-den/-dan (içinden); -dan yapılmış|Ich komme aus der Türkei.
+prep||bei||yanında; -de (kişi/yer)|Ich wohne bei meinen Eltern.
+prep||mit||ile; birlikte|Ich fahre mit dem Bus.
+prep||nach||-den sonra; -e doğru (şehir/ülke)|Ich fahre nach Hause.
+prep||seit||-den beri|Ich lerne seit einem Jahr Deutsch.
+prep||von||-den; -in (sahiplik)|Das ist ein Geschenk von mir.
+prep||zu||-e (kişiye/yere); -e doğru|Ich gehe zum Arzt.
+prep||für||için|Das ist für dich.
+prep||durch||içinden; vasıtasıyla|Wir gehen durch den Park.
+prep||gegen||-e karşı; -e doğru (yaklaşık)|Er spielt gegen mich.
+prep||ohne||-siz|Ich trinke Tee ohne Zucker.
+prep||um||etrafında; (saat) -de|Der Unterricht beginnt um acht Uhr.
+prep||bis||-e kadar|Ich bleibe bis Montag.
+prep||über||üzerinde; hakkında|Wir sprechen über das Wetter.
+prep||unter||altında; arasında|Die Katze ist unter dem Tisch.
+prep||vor||önünde; önce|Ich warte vor dem Haus.
+prep||hinter||arkasında|Der Garten ist hinter dem Haus.
+prep||neben||yanında; bitişiğinde|Ich sitze neben dir.
+prep||zwischen||arasında|Die Bank ist zwischen dem Park und dem Café.
+prep||während||-ken; süresince|Während des Essens sprechen wir nicht.
+prep||wegen||yüzünden; nedeniyle|Wegen des Regens bleiben wir hier.
+prep||trotz||-e rağmen|Trotz der Kälte gehe ich spazieren.
+prep||statt||yerine|Statt Kaffee trinke ich Tee.
+prep||außer||-den başka; hariç|Alle außer mir sind da.
+prep||gegenüber||karşısında|Die Bank ist gegenüber dem Bahnhof.
+prep||ab||-den itibaren|Ab morgen arbeite ich.
+prep||entlang||boyunca|Wir gehen die Straße entlang.
+prep||pro||başına; her|Das kostet zehn Euro pro Stunde.
+#Konjunktionen
+conj||und||ve|Ich habe Brot und Käse.
+conj||oder||veya; ya da|Tee oder Kaffee?
+conj||aber||ama; fakat|Ich bin müde, aber glücklich.
+conj||denn||çünkü|Ich bleibe zu Hause, denn ich bin krank.
+conj||sondern||tersine; ama (olumsuzdan sonra)|Ich trinke keinen Kaffee, sondern Tee.
+conj||dass||-diğini; ki|Ich glaube, dass er kommt.
+conj||weil||çünkü|Ich lerne, weil ich in Deutschland arbeiten will.
+conj||wenn||eğer; -dığında|Wenn es regnet, bleibe ich zu Hause.
+conj||als||-dığı zaman (geçmişte); gibi; olarak|Als ich klein war, wohnte ich in Ankara.
+conj||ob||-ip -mediğini|Ich weiß nicht, ob er kommt.
+conj||obwohl||-e rağmen; -diği halde|Er geht arbeiten, obwohl er krank ist.
+conj||damit||-sın diye; amacıyla|Ich lerne, damit ich eine gute Note bekomme.
+conj||bevor||-meden önce|Bevor ich esse, wasche ich die Hände.
+conj||nachdem||-dikten sonra|Nachdem ich gegessen habe, gehe ich spazieren.
+conj||sobald||-er -mez; -diği anda|Ich rufe an, sobald ich ankomme.
+conj||falls||-ecek olursa; -mesi halinde|Falls es regnet, bleiben wir zu Hause.
+conj||indem||-erek|Man lernt Wörter, indem man liest.
+conj||entweder … oder||ya … ya da|Entweder du kommst oder ich gehe.
+conj||weder … noch||ne … ne de|Er hat weder Zeit noch Geld.
+conj||sowohl … als auch||hem … hem de|Sie spricht sowohl Deutsch als auch Englisch.
+conj||je … desto||ne kadar … o kadar|Je mehr ich lerne, desto besser spreche ich.
+#Adverbien (Ort und Richtung)
+adv||hier||burada|Ich bin hier.
+adv||da||orada; o zaman|Da ist die Bushaltestelle.
+adv||dort||orada (uzakta)|Dort steht mein Auto.
+adv||links||solda; sola|Gehen Sie links.
+adv||rechts||sağda; sağa|Rechts ist die Bank.
+adv||geradeaus||dümdüz; ileri|Gehen Sie geradeaus.
+adv||oben||yukarıda|Das Zimmer ist oben.
+adv||unten||aşağıda|Der Keller ist unten.
+adv||vorne||önde|Er sitzt vorne.
+adv||hinten||arkada|Der Garten ist hinten.
+adv||drinnen||içeride|Drinnen ist es warm.
+adv||draußen||dışarıda|Draußen regnet es.
+adv||überall||her yerde|Ich suche dich überall.
+adv||nirgends||hiçbir yerde|Ich finde meinen Schlüssel nirgends.
+adv||irgendwo||bir yerde|Er ist irgendwo hier.
+adv||zurück||geri|Ich komme gleich zurück.
+adv||weg||uzakta; gitmiş|Mein Handy ist weg.
+adv||hin||oraya (konuşandan uzağa)|Wo gehst du hin?
+adv||her||buraya (konuşana doğru)|Komm her!
+adv||zusammen||birlikte|Wir essen zusammen.
+adv||allein||yalnız; tek başına|Ich wohne allein.
+adv||nah||yakın|Der Bahnhof ist ganz nah.
+adv||weit||uzak; çok|Die Schule ist nicht weit.
+#Adverbien (Zeit und Häufigkeit)
+adv||heute||bugün|Heute ist Montag.
+adv||gestern||dün|Gestern war ich im Kino.
+adv||morgen||yarın|Morgen habe ich Zeit.
+adv||übermorgen||öbür gün|Übermorgen fahre ich weg.
+adv||vorgestern||evvelsi gün|Vorgestern war ich krank.
+adv||jetzt||şimdi|Jetzt habe ich Hunger.
+adv||gleich||hemen; birazdan|Ich komme gleich.
+adv||sofort||derhal; hemen|Komm sofort her!
+adv||bald||yakında|Bis bald!
+adv||früh||erken|Ich stehe früh auf.
+adv||spät||geç|Es ist schon spät.
+adv||schon||zaten; çoktan|Bist du schon fertig?
+adv||noch||hâlâ; daha|Ich bin noch müde.
+adv||noch nicht||henüz değil|Ich bin noch nicht fertig.
+adv||noch nie||hiç (daha önce yapmadım)|Ich war noch nie in Berlin.
+adv||nicht mehr||artık değil|Er wohnt nicht mehr hier.
+adv||wieder||tekrar; yine|Ich komme morgen wieder.
+adv||immer||her zaman|Ich trinke immer Tee.
+adv||nie||asla; hiç|Ich esse nie Fleisch.
+adv||oft||sık sık|Ich gehe oft ins Kino.
+adv||manchmal||bazen|Manchmal esse ich Pizza.
+adv||selten||nadiren|Ich sehe ihn selten.
+adv||meistens||çoğunlukla|Meistens stehe ich um sieben auf.
+adv||normalerweise||normalde|Normalerweise esse ich um zwölf.
+adv||plötzlich||birdenbire|Plötzlich regnet es.
+adv||endlich||sonunda; nihayet|Endlich ist Wochenende!
+adv||zuerst||önce; ilk olarak|Zuerst esse ich, dann lerne ich.
+adv||dann||sonra; o zaman|Dann gehen wir nach Hause.
+adv||danach||ondan sonra|Danach trinken wir Kaffee.
+adv||vorher||önceden|Ich rufe vorher an.
+adv||später||daha sonra|Bis später!
+adv||schließlich||nihayet; sonuçta|Schließlich bin ich eingeschlafen.
+adv||inzwischen||bu arada; şimdiye kadar|Inzwischen ist es dunkel.
+adv||jederzeit||her zaman (istediğin an)|Du kannst jederzeit anrufen.
+adv||tagsüber||gündüz|Tagsüber arbeite ich.
+adv||abends||akşamları|Abends sehe ich fern.
+adv||morgens||sabahları|Morgens trinke ich Kaffee.
+adv||nachts||geceleri|Nachts schlafe ich.
+adv||täglich||günlük; her gün|Ich lerne täglich eine Stunde.
+#Adverbien (Art und Weise, Grad)
+adv||sehr||çok|Das ist sehr gut.
+adv||ziemlich||oldukça|Es ist ziemlich kalt.
+adv||zu||fazla; aşırı|Das ist zu teuer.
+adv||ganz||tamamen; bütün|Ich bin ganz müde.
+adv||fast||neredeyse|Ich bin fast fertig.
+adv||genau||tam; aynen|Genau, das stimmt!
+adv||ungefähr||yaklaşık|Das kostet ungefähr zehn Euro.
+adv||etwa||yaklaşık; acaba|Es dauert etwa eine Stunde.
+adv||nur||sadece; yalnızca|Ich habe nur fünf Euro.
+adv||auch||de; da; dahi|Ich komme auch.
+adv||noch einmal||bir kez daha|Sag das bitte noch einmal.
+adv||sogar||hatta|Er spricht sogar drei Sprachen.
+adv||vielleicht||belki|Vielleicht komme ich morgen.
+adv||wahrscheinlich||muhtemelen|Er kommt wahrscheinlich später.
+adv||sicher||kesinlikle; emin|Sicher kommt er.
+adv||bestimmt||mutlaka; kesin olarak|Das schaffst du bestimmt.
+adv||leider||maalesef|Leider habe ich keine Zeit.
+adv||hoffentlich||umarım|Hoffentlich regnet es nicht.
+adv||natürlich||tabii ki; doğal olarak|Natürlich helfe ich dir!
+adv||gern||severek; memnuniyetle|Ich trinke gern Tee.
+adv||lieber||tercihen; daha çok|Ich trinke lieber Tee.
+adv||am liebsten||en çok|Am liebsten schlafe ich lange.
+adv||besonders||özellikle|Ich mag besonders Pizza.
+adv||wirklich||gerçekten|Das ist wirklich gut.
+adv||eigentlich||aslında|Eigentlich habe ich keine Lust.
+adv||einfach||basitçe; sadece|Das ist einfach.
+adv||so||böyle; öyle; o kadar|Das ist so schön.
+adv||mehr||daha fazla|Ich möchte mehr Zeit.
+adv||weniger||daha az|Ich esse weniger Fleisch.
+adv||wenig||az|Ich habe wenig Geld.
+adv||viel||çok (miktar)|Ich habe viel Arbeit.
+adv||genug||yeterli|Ich habe genug gegessen.
+adv||fast immer||neredeyse her zaman|Ich bin fast immer pünktlich.
+adv||wenigstens||en azından|Ruf wenigstens an!
+adv||jedenfalls||her halükârda|Jedenfalls komme ich.
+adv||ebenfalls||aynı şekilde; de|Danke, ebenfalls!
+adv||trotzdem||yine de; buna rağmen|Es regnet, trotzdem gehe ich raus.
+adv||deshalb||bu yüzden|Ich bin krank, deshalb bleibe ich zu Hause.
+adv||deswegen||bu nedenle|Deswegen bin ich hier.
+adv||außerdem||ayrıca; bunun dışında|Außerdem habe ich Hunger.
+adv||also||yani; öyleyse|Du bist also Student?
+adv||doch||ama; hayır aksine; ya|Kommst du nicht? – Doch!
+adv||mal||bir kez; bir (konuşma dilinde)|Komm mal her!
+adv||ja||evet; (pekiştirme)|Ja, ich komme.
+adv||nein||hayır|Nein, danke.
+adv||nicht||değil|Ich bin nicht müde.
+adv||gar nicht||hiç (değil)|Das ist gar nicht schwer.
+adv||nicht mehr||artık yok|Ich habe nicht mehr viel Zeit.
+adv||ungefähr||aşağı yukarı|Er ist ungefähr dreißig.
+#Zahlen
+num||null||sıfır|Null Grad.
+num||eins||bir|Eins, zwei, drei!
+num||zwei||iki|Ich habe zwei Brüder.
+num||drei||üç|Wir sind drei Personen.
+num||vier||dört|Es ist vier Uhr.
+num||fünf||beş|Fünf Minuten bitte.
+num||sechs||altı|Er ist sechs Jahre alt.
+num||sieben||yedi|Eine Woche hat sieben Tage.
+num||acht||sekiz|Ich stehe um acht auf.
+num||neun||dokuz|Es ist neun Uhr.
+num||zehn||on|Zehn Euro, bitte.
+num||elf||on bir|Elf Spieler.
+num||zwölf||on iki|Zwölf Monate.
+num||dreizehn||on üç|Dreizehn Kinder.
+num||vierzehn||on dört|In vierzehn Tagen.
+num||fünfzehn||on beş|Fünfzehn Minuten.
+num||sechzehn||on altı|Sie ist sechzehn.
+num||siebzehn||on yedi|Siebzehn Euro.
+num||achtzehn||on sekiz|Mit achtzehn ist man erwachsen.
+num||neunzehn||on dokuz|Neunzehn Personen.
+num||zwanzig||yirmi|Zwanzig Euro.
+num||einundzwanzig||yirmi bir|Einundzwanzig Jahre.
+num||dreißig||otuz|Er ist dreißig Jahre alt.
+num||vierzig||kırk|Vierzig Minuten.
+num||fünfzig||elli|Fünfzig Euro.
+num||sechzig||altmış|Sechzig Sekunden.
+num||siebzig||yetmiş|Siebzig Prozent.
+num||achtzig||seksen|Achtzig Kilometer.
+num||neunzig||doksan|Neunzig Minuten.
+num||hundert||yüz|Hundert Euro.
+num||tausend||bin|Tausend Dank!
+num||die Million||milyon|Eine Million Menschen.
+num||erste||birinci|Das ist mein erster Tag.
+num||zweite||ikinci|Die zweite Straße links.
+num||dritte||üçüncü|Er wohnt im dritten Stock.
+num||halb||yarım; buçuk (saat)|Es ist halb drei.
+num||das Viertel||çeyrek|Es ist Viertel nach drei.
+num||die Hälfte||yarı|Die Hälfte ist weg.
+num||das Paar||çift; birkaç|Ein Paar Schuhe.
+num||das Mal||kez; defa|Ich war schon zweimal dort.
+num||einmal||bir kez|Einmal pro Woche.
+num||zweimal||iki kez|Zweimal am Tag.
+num||dritte||üçüncü|Das ist das dritte Mal.
+#Grüße und Redewendungen
+int||hallo||merhaba|Hallo, wie geht's?
+int||guten Morgen||günaydın|Guten Morgen, Frau Müller!
+int||guten Tag||iyi günler|Guten Tag, Herr Schmidt!
+int||guten Abend||iyi akşamlar|Guten Abend, meine Damen und Herren.
+int||gute Nacht||iyi geceler|Gute Nacht, schlaf gut!
+int||tschüss||hoşça kal (samimi)|Tschüss, bis morgen!
+int||auf Wiedersehen||güle güle (resmi)|Auf Wiedersehen, Herr Meier!
+int||bis bald||yakında görüşürüz|Bis bald!
+int||bis morgen||yarın görüşürüz|Tschüss, bis morgen!
+int||danke||teşekkürler|Danke schön!
+int||bitte||lütfen; rica ederim|Einen Kaffee, bitte.
+int||gern geschehen||rica ederim|Danke! – Gern geschehen.
+int||kein Problem||sorun değil|Danke! – Kein Problem.
+int||Entschuldigung||pardon; özür dilerim|Entschuldigung, wo ist der Bahnhof?
+int||Es tut mir leid||üzgünüm; özür dilerim|Es tut mir leid, ich bin zu spät.
+int||Wie geht's?||nasılsın?|Hallo, wie geht's?
+int||Wie geht es Ihnen?||nasılsınız? (resmi)|Guten Tag, wie geht es Ihnen?
+int||Mir geht es gut||iyiyim|Mir geht es gut, danke.
+int||Wie heißt du?||adın ne?|Wie heißt du?
+int||Ich heiße …||adım …|Ich heiße Ali.
+int||Woher kommst du?||nerelisin?|Woher kommst du?
+int||Ich komme aus …||… -liyim|Ich komme aus der Türkei.
+int||Wie bitte?||efendim? (tekrar eder misiniz)|Wie bitte? Ich habe das nicht verstanden.
+int||Ich verstehe nicht||anlamıyorum|Ich verstehe nicht. Noch einmal, bitte.
+int||Sprechen Sie Englisch?||İngilizce konuşuyor musunuz?|Entschuldigung, sprechen Sie Englisch?
+int||Ich weiß nicht||bilmiyorum|Ich weiß nicht, wo er ist.
+int||Gute Besserung||geçmiş olsun|Gute Besserung!
+int||Herzlichen Glückwunsch||tebrikler; doğum günün kutlu olsun|Herzlichen Glückwunsch zum Geburtstag!
+int||Viel Glück||bol şans|Viel Glück bei der Prüfung!
+int||Guten Appetit||afiyet olsun|Guten Appetit!
+int||Prost||şerefe|Prost! Auf deine Gesundheit!
+int||Willkommen||hoş geldin|Willkommen in Deutschland!
+int||Alles Gute||en iyisi olsun; iyi dileklerimle|Alles Gute zum Geburtstag!
+int||Genau||aynen; kesinlikle|Genau! Das stimmt.
+int||Klar||tabii; açık|Kommst du mit? – Klar!
+int||Schade||yazık; ne yazık|Schade, dass du nicht kommst.
+int||Achtung||dikkat|Achtung, Stufe!
+int||Hilfe||imdat; yardım|Hilfe! Ein Unfall!
+int||Moment||bir dakika; bir an|Moment, bitte.
+int||Stimmt||doğru|Stimmt, das ist richtig.
+int||Genug||yeter|Genug für heute!

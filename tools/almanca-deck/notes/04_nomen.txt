@@ -1,0 +1,127 @@
+die Leute|Sadece çoğul kullanılır: "Die Leute sind nett." Tekil "eine Person" ya da "ein Mensch" olur.|پەقەت كۆپلۈكتە ئىشلىتىلىدۇ: «Die Leute sind nett.» بىرلىكتە «eine Person» ياكى «ein Mensch».
+die Eltern|Sadece çoğul: anne ve baba birlikte. Tek ebeveyn için "Elternteil".|پەقەت كۆپلۈكتە: ئاتا ۋە ئانا بىللە.
+die Geschwister|Erkek ve kız kardeşlerin hepsi için ortak kelime. "Hast du Geschwister?" (Kardeşin var mı?) Türkçe/Uygurcada abla/ağabey/küçük ayrımı Almancada yoktur: "älterer Bruder" (ağabey), "jüngere Schwester" (kız kardeş, küçük).|ئاكا-ئۇكا، ئاچا-سىڭىللارنىڭ ئومۇمىي نامى. نېمىسچىدا چوڭ-كىچىك پەرقى يوق: «älterer Bruder» (ئاكا)، «jüngere Schwester» (سىڭىل).
+der Bruder|Almancada büyük/küçük ayrımı yoktur. Ağabey: "großer/älterer Bruder"; küçük erkek kardeş: "kleiner/jüngerer Bruder".|نېمىسچىدا چوڭ-كىچىك پەرقى يوق. ئاكا: «großer/älterer Bruder»؛ ئۇكا: «kleiner/jüngerer Bruder».
+die Schwester|Abla/kız kardeş ayrımı yok: "ältere Schwester" (abla), "jüngere Schwester" (kız kardeş). Ayrıca "hemşire" anlamı da var: "Krankenschwester".|ئاچا/سىڭىل پەرقى يوق: «ältere Schwester» (ئاچا)، «jüngere Schwester» (سىڭىل). يەنە «سېستىرا» مەنىسى: «Krankenschwester».
+der Onkel|Amca, dayı ve enişte için tek kelime. Ayırmak gerekirse: "der Bruder meines Vaters" (amca), "der Bruder meiner Mutter" (dayı).|تاغا، ئاكا (دادىسىنىڭ ئاكا-ئۇكىسى) ۋە يەزنە ئۈچۈن بىرلا سۆز. ئايرىش كېرەك بولسا: «der Bruder meines Vaters»، «der Bruder meiner Mutter».
+die Tante|Hala, teyze ve yenge için tek kelime. Ayrım: "die Schwester meines Vaters" (hala), "die Schwester meiner Mutter" (teyze).|ھامما، چوڭ ئانا ۋە يەڭگە ئۈچۈن بىرلا سۆز. ئايرىش: «die Schwester meines Vaters» (ھامما)، «die Schwester meiner Mutter».
+der Cousin|Amca/dayı/hala/teyze çocuğu (erkek), hepsi tek kelime. Kızı: "die Cousine".|تاغا/ھامما بالىسى (ئوغۇل)، ھەممىسى بىرلا سۆز. قىز: «die Cousine».
+der Freund|İki anlamı var: "ein Freund" = (erkek) arkadaş; "mein Freund" çoğu zaman sevgili anlamına gelir. Sadece arkadaşsa "ein Freund von mir" veya "ein Kumpel" denir.|ئىككى مەنىسى بار: «ein Freund» = دوست؛ «mein Freund» كۆپىنچە «يىگىت دوستۇم» دېگەن مەنىدە. پەقەت دوست بولسا «ein Freund von mir» دېيىلىدۇ.
+die Freundin|"eine Freundin" = kız arkadaş (dost); "meine Freundin" çoğu zaman sevgili. Sadece arkadaş için "eine Freundin von mir".|«eine Freundin» = دوست (قىز)؛ «meine Freundin» كۆپىنچە «قىز دوستۇم» (سۆيگۈ). پەقەت دوست ئۈچۈن «eine Freundin von mir».
+der Herr|1) Bay (hitap): "Herr Schmidt". 2) Beyefendi: "meine Damen und Herren". 3) Rab, Efendi (dinî bağlamda).|1) ئەپەندى (مۇراجىئەت): «Herr Schmidt». 2) «meine Damen und Herren» (خانىملار ۋە ئەپەندىلەر). 3) ئىگە، پەرۋەردىگار (دىنىي مەنىدە).
+die Frau|1) Kadın. 2) Hanım (hitap): "Frau Müller". 3) Eş: "meine Frau" (karım). Evli olmayan kadına da "Frau" denir; "Fräulein" artık kullanılmaz.|1) ئايال. 2) خانىم (مۇراجىئەت): «Frau Müller». 3) ئايالى: «meine Frau». «Fräulein» ئەمدى ئىشلىتىلمەيدۇ.
+der Mann|1) Adam, erkek. 2) Koca: "mein Mann" (kocam). "man" (genel özne) ile karıştırma.|1) ئەر كىشى. 2) ئېرى: «mein Mann» (ئېرىم). «man» (ئومۇمىي ئىگە) بىلەن ئارىلاشتۇرماڭ.
+der Chef|Patron, amir. Aşçıbaşı anlamı yok; o "Küchenchef". Kadın: "die Chefin".|خوجايىن، باشلىق. ئاشپەز باشلىقى «Küchenchef». ئايال: «die Chefin».
+der Student|Sadece üniversite öğrencisi. Okul öğrencisi "der Schüler".|پەقەت ئالىي مەكتەپ ئوقۇغۇچىسى. مەكتەپ ئوقۇغۇچىسى «der Schüler».
+der Schüler|İlk/orta/lise öğrencisi. Üniversite öğrencisi "der Student".|باشلانغۇچ/ئوتتۇرا مەكتەپ ئوقۇغۇچىسى. ئالىي مەكتەپ ئوقۇغۇچىسى «der Student».
+das Mädchen|Kız çocuğu ama artikeli "das" (nötr)! Küçültme eki "-chen" her zaman "das" yapar: das Brötchen, das Häuschen.|قىز بالا، لېكىن ئارتىكلى «das»! كىچىكلىتىش قوشۇمچىسى «-chen» ھەمىشە «das»: das Brötchen.
+der Fremde|Hem "yabancı, tanımadık kişi" hem "başka yerden gelen". Ülke yabancısı için daha çok "der Ausländer".|«ناتونۇش كىشى» ياكى «سىرتتىن كەلگەن». چەت ئەللىك ئۈچۈن «der Ausländer».
+das Essen|1) Yemek (yiyecek). 2) Öğün: "Das Essen ist fertig." Fiil olarak "essen" (küçük harf) = yemek yemek.|1) يېمەكلىك. 2) ۋاخ تاماق: «Das Essen ist fertig.» پېئىل «essen» (كىچىك ھەرپ) = يېمەك.
+das Brötchen|Almanya'ya özgü küçük yuvarlak ekmek; kahvaltıda yenir. Bölgeye göre "Semmel" veya "Schrippe" de denir.|گېرمانىيىگە خاس كىچىك يۇمىلاق نان؛ ناشتىدا يېيىلىدۇ. رايونغا قاراپ «Semmel» ياكى «Schrippe» دېيىلىدۇ.
+die Wurst|Sosis, salam, sucuk türlerinin hepsi. Çoğu domuz eti içerir; helal için "Rindfleisch" (sığır) veya "Geflügel" (kümes) yazısına bakılmalı.|كولباسا تۈرلىرىنىڭ ھەممىسى. كۆپىنچىسىدە توڭگۇز گۆشى بار؛ ھالال ئۈچۈن «Rindfleisch» (كالا) ياكى «Geflügel» (قۇش گۆشى) يېزىقىغا قاراڭ.
+das Schwein|Domuz. Etiketlerde "Schweinefleisch" (domuz eti) ve "Gelatine" (çoğu zaman domuz kaynaklı) kelimelerine dikkat.|توڭگۇز. يارلىقلاردا «Schweinefleisch» (توڭگۇز گۆشى) ۋە «Gelatine» (كۆپىنچە توڭگۇزدىن) سۆزلىرىگە دىققەت قىلىڭ.
+das Fleisch|Et. Türleri: Rindfleisch (sığır), Lammfleisch (kuzu), Hähnchen (tavuk), Schweinefleisch (domuz). "Halal" kelimesi Almanyada da kullanılır.|گۆش. تۈرلىرى: Rindfleisch (كالا)، Lammfleisch (قوزا)، Hähnchen (توخۇ)، Schweinefleisch (توڭگۇز).
+der Wein|Şarap (alkollü). Üzüm "die Traube"; üzüm suyu "der Traubensaft".|شاراب (ھاراق). ئۈزۈم «die Traube»؛ ئۈزۈم شەربىتى «der Traubensaft».
+der Kuchen|Kek, pasta (günlük). Kremalı, katlı doğum günü pastası daha çok "die Torte". Almanya'da öğleden sonra "Kaffee und Kuchen" geleneği vardır.|تورت (ئادەتتىكى). قايماقلىق، قەۋەتلىك تورت «die Torte». گېرمانىيىدە چۈشتىن كېيىن «Kaffee und Kuchen» ئادىتى بار.
+das Eis|1) Dondurma: "ein Eis essen". 2) Buz: "Eis auf dem See". Bağlamdan anlaşılır.|1) مۇزقايماق: «ein Eis essen». 2) مۇز: «Eis auf dem See».
+die Rechnung|1) Restoranda hesap: "Die Rechnung, bitte!" 2) Fatura. 3) Hesaplama.|1) ئاشخانىدا ھېسابات: «Die Rechnung, bitte!» 2) تالون (فاكتۇرا). 3) ھېسابلاش.
+das Gericht|1) Mahkeme. 2) Bir yemek türü (menüde): "ein typisches Gericht". Bağlamdan anlaşılır.|1) سوت. 2) بىر خىل تاماق: «ein typisches Gericht». مەزمۇندىن ئايرىلىدۇ.
+die Wohnung|Apartman dairesi, kiralık ev. "Haus" müstakil ev ya da bina demektir.|بىنادىكى ئۆي (كۋارتىرا). «Haus» ئايرىم ئۆي ياكى بىنا.
+das Zimmer|Oda. "Wie viele Zimmer?" diye ev sorulur; Almanlar salonu da oda sayar (3-Zimmer-Wohnung = salon dahil 3 oda).|ئۆي (ياتاق). گېرمانلار مېھمانخانىنىمۇ ئۆي سانايدۇ (3-Zimmer-Wohnung = مېھمانخانا بىلەن 3 ئۆي).
+die Miete|Kira bedeli. "Kaltmiete" = sadece kira; "Warmmiete" = ısınma ve giderler dahil.|ئىجارە ھەققى. «Kaltmiete» = پەقەت ئىجارە؛ «Warmmiete» = ئىسسىتىش ۋە باشقا چىقىملار بىلەن.
+das Erdgeschoss|Zemin kat. Almanya'da "1. Stock" zeminden sonraki kattır (Türkiye'de 1. kat ile aynı).|بىرىنچى قەۋەت (يەر بىلەن تەڭ). گېرمانىيىدە «1. Stock» ئۇنىڭدىن كېيىنكى قەۋەت.
+der Stock|1) Kat: "im dritten Stock". 2) Sopa, baston.|1) قەۋەت: «im dritten Stock». 2) ھاسا، تاياق.
+die Decke|1) Tavan. 2) Battaniye, örtü. Bağlamdan anlaşılır.|1) تورۇس. 2) يوتقان، ياپقۇچ.
+die Bank|1) Banka (çoğulu: die Banken). 2) Bank, oturak (çoğulu: die Bänke). Çoğuldan ayırt edilir.|1) بانكا (كۆپلۈكى: Banken). 2) ئورۇندۇق (كۆپلۈكى: Bänke).
+die Karte|Çok anlamlı: harita, kart (banka/oyun), bilet, kartpostal, menü ("die Speisekarte"). Bağlamdan anlaşılır.|كۆپ مەنىلىك: خەرىتە، كارتا (بانكا/ئويۇن)، بېلەت، ئاتكرىتكا، تاماق تىزىملىكى («die Speisekarte»).
+der Termin|Önceden belirlenmiş görüşme saati: doktor, resmî daire, berber randevusu. Almanya'da çoğu iş "Termin" ile yapılır. Arkadaşla buluşma için "die Verabredung".|ئالدىن بېكىتىلگەن ئۇچرىشىش ۋاقتى: دوختۇر، ئىدارە، چاچتىراش. گېرمانىيىدە كۆپ ئىش «Termin» بىلەن قىلىنىدۇ. دوست بىلەن ئۇچرىشىش «die Verabredung».
+die Stelle|1) İş pozisyonu: "eine neue Stelle". 2) Yer, nokta: "an dieser Stelle". 3) "an deiner Stelle" = senin yerinde olsam.|1) خىزمەت ئورنى: «eine neue Stelle». 2) ئورۇن، نۇقتا: «an dieser Stelle». 3) «an deiner Stelle» = سېنىڭ ئورنۇڭدا بولسام.
+die Ausbildung|Almanya'ya özgü meslek eğitimi: 2–3 yıl, hem işyerinde çalışıp hem okula gidilir, maaş alınır. Türkiye'deki çıraklık/meslek lisesinden kapsamlıdır.|گېرمانىيىگە خاس كەسپىي تەربىيە: 2–3 يىل، ھەم ئىش ئورنىدا ئىشلەپ ھەم مەكتەپكە بېرىپ، مائاش ئالىدۇ.
+das Gymnasium|Almanya'da üniversiteye hazırlayan lise (5.–12./13. sınıf). Spor salonu DEĞİLDİR; o "das Fitnessstudio" veya "die Turnhalle".|گېرمانىيىدە ئالىي مەكتەپكە تەييارلايدىغان ئوتتۇرا مەكتەپ. تەنتەربىيە زالى ئەمەس؛ ئۇ «das Fitnessstudio».
+die Note|1) Not (karne). Almanya'da 1 en iyi, 6 en kötüdür! 2) Nota (müzik).|1) نومۇر. گېرمانىيىدە 1 ئەڭ ياخشى، 6 ئەڭ ناچار! 2) نوتا (مۇزىكا).
+das Zeugnis|1) Karne. 2) İş belgesi, referans (Arbeitszeugnis). 3) Diploma.|1) نومۇر دەپتىرى. 2) خىزمەت ئىسپاتى (Arbeitszeugnis). 3) دىپلوم.
+der Beruf|Meslek (eğitimle edinilen). Günlük iş "der Job", çalışılan yer "die Arbeit/die Firma". "Was sind Sie von Beruf?" = Mesleğiniz ne?|كەسىپ (ئوقۇپ ئېرىشكەن). «Was sind Sie von Beruf?» = كەسپىڭىز نېمە؟
+das Gehalt|Aylık maaş (memur, ofis). "der Lohn" saatlik/haftalık ücret. "brutto" = vergiler düşülmeden, "netto" = ele geçen.|ئايلىق مائاش. «der Lohn» سائەتلىك/ھەپتىلىك ھەق. «brutto» = باج تۇتۇلماي، «netto» = قولغا تەگكىنى.
+die Arbeit|1) İş, çalışma. 2) İşyeri: "Ich gehe zur Arbeit." 3) Okulda yazılı sınav: "eine Arbeit schreiben".|1) ئىش. 2) ئىش ئورنى: «Ich gehe zur Arbeit.» 3) مەكتەپتە يازما ئىمتىھان: «eine Arbeit schreiben».
+die Firma|Şirket. Resmî dilde "das Unternehmen". "GmbH" = limited şirket.|شىركەت. رەسمىي تىلدا «das Unternehmen». «GmbH» = چەكلىك شىركەت.
+das Geschäft|1) Dükkân. 2) İş, ticaret: "Geschäfte machen". 3) İşlem, anlaşma.|1) دۇكان. 2) سودا: «Geschäfte machen». 3) سودا كېلىشىمى.
+das Angebot|1) Teklif: "ein gutes Angebot". 2) İndirimli ürün: "im Angebot" (indirimde). 3) Arz.|1) تەكلىپ: «ein gutes Angebot». 2) ئېتىبار: «im Angebot» (ئەرزانلىتىلغان). 3) تەمىنات.
+die Kasse|1) Kasa (mağazada ödeme yeri). 2) Sağlık sigortası: "die Krankenkasse".|1) كاسسا (پۇل تۆلەش جايى). 2) ساغلاملىق سۇغۇرتىسى: «die Krankenkasse».
+das Konto|Banka hesabı. "ein Konto eröffnen" = hesap açmak. Almanya'da maaş ve kira için hesap gerekir.|بانكا ھېساباتى. «ein Konto eröffnen» = ھېسابات ئاچماق.
+der Ausweis|Kimlik kartı (Personalausweis). Ayrıca öğrenci kartı (Studentenausweis) gibi her türlü kart.|كىملىك (Personalausweis). يەنە ئوقۇغۇچى كىنىشكىسى (Studentenausweis).
+der Führerschein|Ehliyet. "den Führerschein machen" = ehliyet almak (kursa gidip). Türk ehliyetini Almanya'da belli bir süreden sonra değiştirmek gerekir.|ماشىنا ھەيدەش گۇۋاھنامىسى. «den Führerschein machen» = گۇۋاھنامە ئالماق.
+der Urlaub|İşten izin, tatil: "Ich habe Urlaub." Okul tatili "die Ferien" (çoğul).|ئىشتىن رۇخسەت، دەم ئېلىش: «Ich habe Urlaub.» مەكتەپ تەتىلى «die Ferien».
+die Ferien|Okul/üniversite tatili; sadece çoğul. İşten izin "der Urlaub".|مەكتەپ تەتىلى؛ پەقەت كۆپلۈك. ئىشتىن رۇخسەت «der Urlaub».
+das Fest|Bayram, şenlik, kutlama: "das Opferfest" (Kurban Bayramı), "das Zuckerfest" (Ramazan Bayramı).|بايرام، تەنتەنە: «das Opferfest» (قۇربان ھېيت)، «das Zuckerfest» (روزا ھېيت).
+der Feiertag|Resmî tatil günü (dükkânlar kapalı). Pazar günleri de çoğu dükkân kapalıdır.|رەسمىي دەم ئېلىش كۈنى (دۇكانلار تاقاق). يەكشەنبە كۈنلىرىمۇ كۆپ دۇكانلار تاقاق.
+der Abend|Akşam. "Guten Abend" = iyi akşamlar. "das Abendessen" = akşam yemeği; "der Abend" ve "die Nacht" (gece) farklıdır.|كەچ. «Guten Abend» = خەيرلىك كەچ. «das Abendessen» = كەچلىك تاماق.
+der Morgen|1) Sabah: "am Morgen". 2) Küçük harfle "morgen" = yarın! "morgen früh" = yarın sabah.|1) ئەتىگەن: «am Morgen». 2) كىچىك ھەرپ بىلەن «morgen» = ئەتە! «morgen früh» = ئەتە ئەتىگەن.
+die Stunde|1) Saat (süre): "eine Stunde" (bir saat). 2) Ders saati. Saatin kendisi (alet) "die Uhr"; "Wie viel Uhr ist es?" = Saat kaç?|1) سائەت (ۋاقىت ئۇزۇنلۇقى): «eine Stunde». 2) دەرس سائىتى. سائەت (ئەسۋاب) «die Uhr».
+die Uhr|1) Saat (alet). 2) Saat söylerken: "um acht Uhr". Süre için "die Stunde" kullanılır.|1) سائەت (ئەسۋاب). 2) ۋاقىت ئېيتىشتا: «um acht Uhr». ۋاقىت ئۇزۇنلۇقى ئۈچۈن «die Stunde».
+das Jahr|Yıl. Yaş söylerken: "Ich bin 20 Jahre alt." Türkçe/Uygurcadaki gibi "yaşındayım" değil, "yıl yaşlıyım" diye kurulur.|يىل. ياش ئېيتقاندا: «Ich bin 20 Jahre alt.» (مەن 20 ياشتا.)
+das Wetter|Hava durumu. Nefes alınan hava "die Luft". "Wie ist das Wetter?" = Hava nasıl?|ھاۋا رايى. نەپەس ئالىدىغان ھاۋا «die Luft».
+die Luft|Nefes alınan hava. Hava durumu "das Wetter".|نەپەس ئالىدىغان ھاۋا. ھاۋا رايى «das Wetter».
+der Himmel|1) Gökyüzü. 2) Cennet (dinî). "Um Himmels willen!" = Allah aşkına!|1) ئاسمان. 2) جەننەت (دىنىي). «Um Himmels willen!» = خۇدا ھەققى!
+der See|"der See" = göl. "die See" = deniz (kuzeyde); genel deniz için "das Meer". Artikel anlamı değiştirir!|«der See» = كۆل. «die See» = دېڭىز؛ ئادەتتە «das Meer». ئارتىكل مەنىنى ئۆزگەرتىدۇ!
+das Meer|Deniz. "am Meer" = deniz kenarında. Göl "der See".|دېڭىز. «am Meer» = دېڭىز بويىدا. كۆل «der See».
+das Land|1) Ülke. 2) Kırsal bölge: "auf dem Land wohnen" (köyde/kırsalda yaşamak). 3) Almanya'da eyalet (Bundesland).|1) دۆلەت. 2) يېزا: «auf dem Land wohnen». 3) گېرمانىيىدە ئىشتات (Bundesland).
+der Platz|1) Meydan. 2) Yer, koltuk: "Ist der Platz frei?" 3) Sıralama: "der erste Platz". 4) Alan: "Wir haben keinen Platz."|1) مەيدان. 2) ئورۇن: «Ist der Platz frei?» 3) دەرىجە: «der erste Platz». 4) بوشلۇق: «Wir haben keinen Platz.»
+die Seite|1) Sayfa: "Seite 10". 2) Yan, taraf: "auf der linken Seite". 3) İnternet sitesi.|1) بەت: «Seite 10». 2) تەرەپ: «auf der linken Seite». 3) تور بېكەت.
+die Richtung|Yön. "in Richtung Bahnhof" = istasyon yönünde. Otobüs/trenlerde "Richtung …" son durağı gösterir.|يۆنىلىش. ئاپتوبۇس/پويىزدا «Richtung …» ئاخىرقى بېكەتنى كۆرسىتىدۇ.
+die Haltestelle|Otobüs/tramvay durağı. Tren istasyonu "der Bahnhof".|ئاپتوبۇس/تراموي بېكىتى. پويىز ئىستانسىسى «der Bahnhof».
+das Gleis|Tren peronu/rayı: "Der Zug fährt von Gleis 5." Almanya'da trenler "Gleis" numarasıyla duyurulur.|پويىز سۇپىسى: «Der Zug fährt von Gleis 5.»
+die Fahrkarte|Toplu taşıma bileti. Almanya'da bileti binmeden önce alıp bazen "entwerten" (damgalamak) gerekir; biletsiz binmek ("Schwarzfahren") cezalıdır.|ئاممىۋى قاتناش بېلىتى. گېرمانىيىدە بېلەتسىز چىقىش («Schwarzfahren») جەرىمانە قىلىنىدۇ.
+die Verspätung|Gecikme: "Der Zug hat Verspätung." Kişinin gecikmesi için fiil: "sich verspäten" veya "zu spät kommen".|كېچىكىش: «Der Zug hat Verspätung.» كىشى كېچىكسە: «zu spät kommen».
+der Stau|Trafik sıkışıklığı. "im Stau stehen" = trafikte beklemek.|قاتناش توسۇلۇشى. «im Stau stehen» = توسۇلۇپ قالماق.
+das Handy|Cep telefonu. İngilizce kökenli görünür ama İngilizcede bu anlamda kullanılmaz (Almanlara özgü).|يانفون. ئىنگلىزچىدىكىدەك كۆرۈنسىمۇ، بۇ مەنىدە پەقەت نېمىسچىدا ئىشلىتىلىدۇ.
+die Post|1) Postane: "zur Post gehen". 2) Posta (gelen mektuplar): "Hast du Post bekommen?"|1) پوچتىخانا: «zur Post gehen». 2) خەت-چەك: «Hast du Post bekommen?»
+die Praxis|1) Muayenehane (doktor). 2) Uygulama, pratik: "in der Praxis".|1) دوختۇرنىڭ كۆرۈش ئورنى. 2) ئەمەلىيەت: «in der Praxis».
+das Rezept|1) Reçete (doktor). 2) Yemek tarifi. Bağlamdan anlaşılır.|1) رېتسېپ (دوختۇر). 2) تاماق رېتسېپى.
+die Apotheke|Eczane. Kozmetik/temizlik ürünleri için "die Drogerie" (dm, Rossmann).|دورىخانا. گىرىم/تازىلىق بۇيۇملىرى ئۈچۈن «die Drogerie».
+der Arzt|Doktor. Aile doktoru "der Hausarzt"; Almanya'da önce ona gidilir.|دوختۇر. ئائىلە دوختۇرى «der Hausarzt»؛ گېرمانىيىدە ئالدى بىلەن ئۇنىڭغا بېرىلىدۇ.
+die Erkältung|Soğuk algınlığı (hafif). Grip "die Grippe" daha ağırdır. "Ich bin erkältet." = Üşüttüm.|شامالداش (يېنىك). «die Grippe» ئېغىرراق. «Ich bin erkältet.» = شامالداپ قالدىم.
+das Geschenk|Hediye. Fiil: "schenken". Almanca "das Gift" zehir demektir, İngilizce "gift" ile karıştırma!|سوۋغا. پېئىل: «schenken». نېمىسچە «das Gift» زەھەر دېگەن، ئىنگلىزچە «gift» بىلەن ئارىلاشتۇرماڭ!
+die Lust|İstek, heves: "Ich habe Lust auf Pizza." (Canım pizza istiyor.) "Ich habe keine Lust." (Hiç canım istemiyor.) Türkçedeki "canı istemek" kalıbına denk.|خاھىش، ھەۋەس: «Ich habe Lust auf Pizza.» (پىتسا يېگۈم بار.) «Ich habe keine Lust.» (كۆڭلۈم تارتمايدۇ.)
+der Spaß|Eğlence, zevk: "Das macht Spaß." (Eğlenceli.) "Viel Spaß!" (İyi eğlenceler!) "Spaß beiseite" = Şaka bir yana.|كۆڭۈل ئېچىش: «Das macht Spaß.» (قىزىقارلىق.) «Viel Spaß!» (خۇش ۋاقىت ئۆتكۈزۈڭ!)
+das Glück|1) Şans: "Viel Glück!" "Glück haben" = şanslı olmak. 2) Mutluluk. "zum Glück" = neyse ki.|1) تەلەي: «Viel Glück!» «Glück haben» = تەلىيى بار. 2) بەخت. «zum Glück» = ياخشى بولدىكى.
+der Traum|1) Rüya (uykuda). 2) Hayal, büyük istek: "mein Traum ist…". Fiil: "träumen von".|1) چۈش (ئۇيقۇدا). 2) ئارزۇ: «mein Traum ist…». پېئىل: «träumen von».
+die Angst|Korku. "Angst haben vor" = -den korkmak: "Ich habe Angst vor Hunden."|قورقۇنچ. «Angst haben vor» = … دىن قورقماق: «Ich habe Angst vor Hunden.»
+die Ahnung|Fikir, haber: "Ich habe keine Ahnung." (Hiç bilmiyorum, hiçbir fikrim yok.) Çok kullanılan bir kalıp.|«Ich habe keine Ahnung.» (ھېچ خەۋىرىم يوق.) كۆپ ئىشلىتىلىدىغان قېلىپ.
+die Sache|Şey, mesele, iş: "Das ist meine Sache." (Bu benim işim.) Çoğulu "Sachen" eşyalar da demektir: "Pack deine Sachen!"|نەرسە، ئىش: «Das ist meine Sache.» (بۇ مېنىڭ ئىشىم.) كۆپلۈكى «Sachen» = ئەشيالار: «Pack deine Sachen!»
+das Ding|Somut nesne, "şey". Konuşma dilinde adını bilmediğin şey için. Soyut mesele için daha çok "die Sache".|كونكرېت نەرسە. نامىنى بىلمىگەن نەرسە ئۈچۈن. ئابستراكت ئىش ئۈچۈن «die Sache».
+der Fall|1) Durum: "in diesem Fall", "auf jeden Fall" (her hâlükârda). 2) Dava, vaka. 3) Dilbilgisinde hâl (Nominativ, Akkusativ…).|1) ئەھۋال: «in diesem Fall»، «auf jeden Fall» (قانداقلا بولمىسۇن). 2) دېلو. 3) گرامماتىكىدا كېلىش.
+die Folge|1) Sonuç: "die Folgen des Krieges". 2) Dizi bölümü: "die zweite Folge".|1) ئاقىۋەت: «die Folgen des Krieges». 2) تىياتىر قىسمى: «die zweite Folge».
+der Sinn|1) Anlam: "Das hat keinen Sinn." (Anlamı yok, boşuna.) 2) Duyu: "die fünf Sinne". "Sinn machen" konuşma dilinde "mantıklı olmak".|1) مەنە: «Das hat keinen Sinn.» (مەنىسى يوق.) 2) سەزگۈ: «die fünf Sinne».
+die Meinung|Görüş, fikir: "meiner Meinung nach" (bence). "Ich bin deiner Meinung." = Seninle aynı fikirdeyim.|پىكىر: «meiner Meinung nach» (مېنىڭچە). «Ich bin deiner Meinung.» = سەن بىلەن ئوخشاش پىكىردىمەن.
+die Gelegenheit|Fırsat, uygun an: "bei Gelegenheit" (fırsat olunca). "die Chance" daha çok şans/olasılık.|پۇرسەت: «bei Gelegenheit» (پۇرسەت بولسا).
+die Erfahrung|Deneyim: "Ich habe Erfahrung im Verkauf." "Erfahrungen sammeln" = tecrübe edinmek.|تەجرىبە: «Ich habe Erfahrung im Verkauf.» «Erfahrungen sammeln» = تەجرىبە توپلىماق.
+die Stimmung|Atmosfer, ruh hâli: "Die Stimmung ist gut." (Ortam güzel.) "gute Stimmung" bir yerin havasını anlatır.|كەيپىيات: «Die Stimmung ist gut.»
+der Vertrag|Sözleşme (kira, iş, telefon). Almanya'da imzalamadan önce süresini ve fesih ("Kündigung") şartlarını okumak önemlidir.|توختام (ئىجارە، خىزمەت، تېلېفون). گېرمانىيىدە ئىمزا قويۇشتىن بۇرۇن بىكار قىلىش («Kündigung») شەرتلىرىنى ئوقۇش مۇھىم.
+der Lebenslauf|Özgeçmiş (CV). Almanya'da genelde fotoğraflı ve tarih sıralı yazılır.|تەرجىمىھال. گېرمانىيىدە ئادەتتە سۈرەتلىك ۋە ۋاقىت تەرتىپى بويىچە يېزىلىدۇ.
+das Amt|Resmî daire: "das Bürgeramt" (nüfus/kayıt), "das Arbeitsamt", "das Finanzamt" (vergi dairesi).|ئىدارە: «das Bürgeramt» (نوپۇس تىزىملاش)، «das Finanzamt» (باج ئىدارىسى).
+die Steuer|"die Steuer" = vergi. "das Steuer" = direksiyon! Artikel anlamı değiştirir.|«die Steuer» = باج. «das Steuer» = رول! ئارتىكل مەنىنى ئۆزگەرتىدۇ.
+die Schuld|1) Suç, kabahat: "Das ist nicht meine Schuld." 2) Çoğulu "die Schulden" = borçlar.|1) خاتالىق، گۇناھ: «Das ist nicht meine Schuld.» 2) كۆپلۈكى «die Schulden» = قەرزلەر.
+das Recht|1) Hak: "Ich habe das Recht…". 2) Hukuk. "recht haben" = haklı olmak.|1) ھوقۇق: «Ich habe das Recht…». 2) قانۇن. «recht haben» = ھەقلىق بولماق.
+die Gesellschaft|1) Toplum. 2) Şirket (GmbH = Gesellschaft mit beschränkter Haftung). 3) Arkadaşlık, eşlik: "jemandem Gesellschaft leisten".|1) جەمئىيەت. 2) شىركەت. 3) ھەمراھلىق: «jemandem Gesellschaft leisten».
+der Strom|1) Elektrik: "Der Strom ist weg." 2) Akıntı, ırmak.|1) توك: «Der Strom ist weg.» 2) ئېقىن.
+die Gemeinde|1) Belediye, küçük yerleşim. 2) Cemaat (cami/kilise topluluğu).|1) يېزا/كىچىك شەھەر ھۆكۈمىتى. 2) جامائەت.
+der Beitrag|1) Katkı. 2) Aidat, prim: "der Mitgliedsbeitrag". 3) Yazı, gönderi (internet).|1) تۆھپە. 2) ئەزالىق ھەققى. 3) يازما (تور).
+der Artikel|1) Makale. 2) Ürün (mağaza). 3) Dilbilgisi: der/die/das.|1) ماقالە. 2) مال. 3) گرامماتىكا: der/die/das.
+der Anschluss|1) Aktarma bağlantısı (tren): "Ich habe den Anschluss verpasst." 2) İnternet/telefon bağlantısı.|1) ئۇلىنىش (پويىز): «Ich habe den Anschluss verpasst.» 2) تور/تېلېفون ئۇلىنىشى.
+die Leistung|1) Başarı, performans. 2) Hizmet (sigorta, kurum): "Leistungen der Krankenkasse".|1) نەتىجە، ئىقتىدار. 2) مۇلازىمەت: «Leistungen der Krankenkasse».
+die Einstellung|1) Tutum, bakış açısı. 2) Ayar (cihaz): "die Einstellungen". 3) İşe alım.|1) پوزىتسىيە. 2) تەڭشەك (ئۈسكۈنە). 3) ئىشقا ئېلىش.
+die Vorstellung|1) Gösteri, temsil (tiyatro). 2) Hayal, fikir. 3) Tanıtım: "Vorstellungsgespräch" = iş görüşmesi.|1) ئويۇن (تىياتىر). 2) تەسەۋۋۇر. 3) تونۇشتۇرۇش: «Vorstellungsgespräch» = خىزمەت سۆھبىتى.
+die Unterhaltung|1) Sohbet. 2) Eğlence (TV, gösteri).|1) پاراڭ. 2) كۆڭۈل ئېچىش.
+die Handlung|1) Eylem, davranış. 2) Hikâyenin olay örgüsü.|1) ھەرىكەت. 2) ھېكايىنىڭ ۋەقەلىكى.
+das Verhältnis|1) İlişki: "ein gutes Verhältnis zu den Eltern". 2) Oran: "im Verhältnis zu…".|1) مۇناسىۋەت: «ein gutes Verhältnis zu den Eltern». 2) نىسبەت.
+der Einsatz|1) Kullanım. 2) Görev (polis, itfaiye). 3) Çaba, emek.|1) ئىشلىتىش. 2) ۋەزىپە (ساقچى، ئوت ئۆچۈرۈش). 3) تىرىشچانلىق.
+der Hinweis|İpucu, uyarı, not: "Danke für den Hinweis." Talimatlarda "Hinweise" = açıklamalar.|ئەسكەرتىش، ئىشارەت: «Danke für den Hinweis.»
+der Anspruch|Hak, talep: "Anspruch auf Urlaub haben" (izne hakkı olmak). Çoğulu "hohe Ansprüche" = yüksek beklentiler.|ھوقۇق، تەلەپ: «Anspruch auf Urlaub haben». «hohe Ansprüche» = يۇقىرى تەلەپلەر.
+die Ordnung|Düzen: "Alles in Ordnung?" (Her şey yolunda mı?) "Ordnung" Almanlar için çok önemlidir.|تەرتىپ: «Alles in Ordnung?» (ھەممە ئىش جايىدىمۇ؟)
+der Moment|An: "Moment, bitte!" (Bir dakika!) "im Moment" = şu anda.|دەقىقە، پەيت: «Moment, bitte!» «im Moment» = ھازىر.
+die Mama|Anne için samimi hitap (çocuk dili). Resmî "die Mutter".|ئانىغا سەمىمىي مۇراجىئەت. رەسمىي «die Mutter».
+die Oma|Nine için samimi hitap. Resmî "die Großmutter". Almancada anneanne/babaanne ayrımı yoktur.|موماغا سەمىمىي مۇراجىئەت. رەسمىي «die Großmutter». نېمىسچىدا ئانا/دادا تەرەپ پەرقى يوق.
+der Opa|Dede için samimi hitap. Resmî "der Großvater".|بوۋىغا سەمىمىي مۇراجىئەت. رەسمىي «der Großvater».
+das Ausland|Yurt dışı: "im Ausland" (yurt dışında), "ins Ausland" (yurt dışına). Almanya'dan bakınca Türkiye de "Ausland"dır.|چەت ئەل: «im Ausland»، «ins Ausland».
+die Heimat|Memleket, vatan: duygusal bir kelime. Doğduğun ya da kendini ait hissettiğin yer.|ۋەتەن، يۇرت: ھېسسىي سۆز. تۇغۇلغان ياكى ئۆزىنى تەۋە ھېس قىلغان جاي.
+das Deutsch|Almanca dil. "auf Deutsch" = Almanca olarak. Kişi: "der/die Deutsche". Sıfat küçük harf: "deutsch".|نېمىس تىلى. «auf Deutsch» = نېمىسچە. كىشى: «der/die Deutsche».

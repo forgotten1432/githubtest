@@ -1,0 +1,224 @@
+v:sein|بولماق؛ -دۇر
+haben|بار بولماق؛ ئىگە بولماق
+werden|بولماق (ئايلانماق)؛ -ىدۇ
+können|-ەلىمەك؛ قىلالايدىغان بولماق
+müssen|-ىشى كېرەك؛ مەجبۇر بولماق
+wollen|خالىماق؛ ئويلىماق
+sollen|-ىشى كېرەك (تەۋسىيە)
+dürfen|رۇخسەت بولماق
+mögen|ياخشى كۆرمەك؛ ياقتۇرماق
+möchten|-نى خالايمەن (سىپايە)
+machen|قىلماق؛ ياسىماق
+tun|قىلماق
+geben|بەرمەك
+nehmen|ئالماق
+bringen|ئەكەلمەك؛ ئاپارماق
+holen|بېرىپ ئەكەلمەك
+finden|تاپماق؛ (بىر نەرسىنى) … دەپ قارىماق
+suchen|ئىزدىمەك
+wissen|بىلمەك (ئۇچۇر)
+kennen|تونۇماق
+denken|ئويلىماق
+glauben|ئىشەنمەك؛ ئويلىماق
+meinen|دېمەكچى بولماق؛ ئويلىماق
+verstehen|چۈشەنمەك
+heißen|ئىسمى … بولماق
+bleiben|قالماق
+stehen|ئۆرە تۇرماق؛ تۇرماق
+sitzen|ئولتۇرماق
+liegen|ياتماق؛ (بىر يەردە) تۇرماق
+legen|قويماق (ياتقۇزۇپ)
+stellen|قويماق (تىكلەپ)
+setzen|ئولتۇرغۇزماق؛ قويماق
+hängen|ئېسىقلىق تۇرماق
+sagen|دېمەك
+fragen|سورىماق
+antworten|جاۋاب بەرمەك
+sprechen|سۆزلىمەك
+reden|سۆزلەشمەك
+erzählen|ھېكايە قىلماق؛ سۆزلەپ بەرمەك
+erklären|چۈشەندۈرمەك
+rufen|چاقىرماق
+anrufen|تېلېفون قىلماق
+telefonieren|تېلېفوندا سۆزلەشمەك
+schreiben|يازماق
+lesen|ئوقۇماق
+hören|ئاڭلىماق
+sehen|كۆرمەك
+schauen|قارىماق
+ansehen|قارىماق؛ كۆرمەك
+fernsehen|تېلېۋىزور كۆرمەك
+zeigen|كۆرسەتمەك
+lachen|كۈلمەك
+weinen|يىغلىماق
+lächeln|كۈلۈمسىرىمەك
+singen|ناخشا ئېيتماق
+tanzen|ئۇسسۇل ئوينىماق
+spielen|ئوينىماق؛ چالماق
+essen|يېمەك
+trinken|ئىچمەك
+frühstücken|ناشتا قىلماق
+kochen|تاماق ئەتمەك؛ قاينىماق
+backen|ياقماق (نان/تورت)
+schmecken|تەمى ياخشى بولماق
+probieren|سىناپ باقماق؛ تېتىپ باقماق
+schlafen|ئۇخلىماق
+einschlafen|ئۇخلاپ قالماق
+aufwachen|ئويغانماق
+aufstehen|ئورنىدىن تۇرماق
+wohnen|ئولتۇرماق؛ تۇرماق
+leben|ياشىماق
+arbeiten|ئىشلىمەك
+lernen|ئۆگەنمەك
+üben|مەشىق قىلماق
+studieren|ئالىي مەكتەپتە ئوقۇماق
+kaufen|سېتىۋالماق
+verkaufen|ساتماق
+einkaufen|نەرسە-كېرەك ئالماق
+bezahlen|تۆلىمەك
+kosten|باھاسى … بولماق
+brauchen|ئېھتىياجلىق بولماق
+benutzen|ئىشلەتمەك
+bekommen|ئالماق؛ ئېرىشمەك
+schenken|سوۋغا قىلماق
+öffnen|ئاچماق
+schließen|ياپماق
+zumachen|ياپماق
+aufmachen|ئاچماق
+waschen|يۇيماق
+putzen|تازىلىماق
+aufräumen|يىغىشتۇرماق
+duschen|دۇش قىلماق
+baden|يۇيۇنماق
+anziehen|كىيمەك
+ausziehen|سالماق (كىيىم)؛ كۆچۈپ چىقماق
+tragen|كۆتۈرمەك؛ كىيمەك
+warten|ساقلىماق؛ كۈتمەك
+helfen|ياردەم قىلماق
+danken|رەھمەت ئېيتماق
+lieben|سۆيمەك
+gefallen|يارىماق؛ ياقماق
+gehören|تەۋە بولماق
+besuchen|يوقلىماق؛ زىيارەت قىلماق
+treffen|ئۇچراشماق
+einladen|تەكلىپ قىلماق
+feiern|تەبرىكلىمەك
+anfangen|باشلىماق
+beginnen|باشلانماق
+aufhören|توختىماق
+enden|ئاخىرلاشماق
+dauern|داۋاملاشماق (ۋاقىت)
+passieren|يۈز بەرمەك
+regnen|يامغۇر ياغماق
+schneien|قار ياغماق
+scheinen|نۇر چاچماق؛ كۆرۈنمەك
+gehen|بارماق؛ ماڭماق
+kommen|كەلمەك
+fahren|(ماشىنىدا) بارماق
+laufen|يۈگۈرمەك؛ ماڭماق
+rennen|يۈگۈرمەك (تېز)
+fliegen|ئۇچماق
+reisen|ساياھەت قىلماق
+schwimmen|سۇ ئۈزمەك
+wandern|تاغدا پىيادە ساياھەت قىلماق
+spazieren gehen|سەيلە قىلماق
+ankommen|يېتىپ كەلمەك
+abfahren|قوزغالماق (ماشىنا)
+abfliegen|ئۇچۇپ كەتمەك
+einsteigen|چىقماق (ماشىنىغا)
+aussteigen|چۈشمەك (ماشىنىدىن)
+umsteigen|ئالماشتۇرۇپ چىقماق
+mitkommen|بىللە كەلمەك
+mitbringen|ئېلىپ كەلمەك
+abholen|ئېلىپ كەتمەك (كىشى/نەرسە)
+zurückkommen|قايتىپ كەلمەك
+ziehen|تارتماق
+drücken|ئىتتىرمەك؛ باسماق
+fallen|يىقىلماق؛ چۈشمەك
+steigen|چىقماق؛ ئۆرلىمەك
+springen|سەكرىمەك
+werfen|ئاتماق
+fangen|تۇتماق
+halten|تۇتماق؛ توختىماق
+parken|توختىتىپ قويماق
+umziehen|كۆچمەك
+folgen|ئەگەشمەك
+wünschen|تىلىمەك
+hoffen|ئۈمىد قىلماق
+fühlen|ھېس قىلماق
+hassen|ئۆچ كۆرمەك
+vertrauen|ئىشەنمەك
+streiten|تالاشماق؛ جېدەللەشمەك
+entscheiden|قارار قىلماق
+wählen|تاللىماق؛ سايلىماق
+planen|پىلانلىماق
+versuchen|سىناپ باقماق؛ تىرىشماق
+schaffen|ئۇدىسىدىن چىقماق
+gewinnen|ئۇتماق
+verlieren|يوقاتماق؛ ئۇتتۇرماق
+vergessen|ئۇنتۇماق
+erinnern|ئەسلەتمەك
+erlauben|رۇخسەت قىلماق
+verbieten|چەكلىمەك
+bitten|ئۆتۈنمەك
+empfehlen|تەۋسىيە قىلماق
+bestellen|زاكاز قىلماق
+reservieren|ئالدىن بېكىتمەك
+buchen|ئالدىن بېكىتمەك (مېھمانخانا/ئايروپىلان)
+schicken|ئەۋەتمەك
+senden|ئەۋەتمەك
+leihen|قەرز بەرمەك/ئالماق
+sparen|تېجىمەك؛ يىغماق
+ausgeben|خەجلىمەك
+verdienen|پۇل تاپماق؛ لايىق بولماق
+zählen|سانىماق
+rechnen|ھېسابلىماق
+prüfen|تەكشۈرمەك
+wiederholen|تەكرارلىماق
+buchstabieren|ھەرپلەپ ئوقۇماق
+übersetzen|تەرجىمە قىلماق
+unterrichten|دەرس ئۆتمەك
+bauen|سالماق؛ ياسىماق
+reparieren|رېمونت قىلماق
+fehlen|كەم بولماق؛ يوق بولماق
+stören|ئاۋارە قىلماق
+gelten|كۈچكە ئىگە بولماق
+bedeuten|مەنىسى … بولماق
+passen|ماس كەلمەك
+stimmen|توغرا بولماق
+riechen|پۇراشماق؛ پۇرىماق
+zuhören|قۇلاق سالماق
+aufpassen|دىققەت قىلماق
+mitmachen|قاتناشماق
+anmachen|ئاچماق (چىراغ/ئۈسكۈنە)
+ausmachen|ئۆچۈرمەك (چىراغ/ئۈسكۈنە)
+einschalten|ئاچماق؛ قوزغاتماق
+ausschalten|ئۆچۈرمەك
+mitnehmen|ئېلىپ كەتمەك
+abgeben|تاپشۇرماق
+ausfüllen|تولدۇرماق (جەدۋەل)
+unterschreiben|ئىمزا قويماق
+sich freuen|خۇشال بولماق
+sich waschen|يۇيۇنماق
+sich treffen|ئۇچراشماق
+sich setzen|ئولتۇرماق
+sich fühlen|ئۆزىنى … ھېس قىلماق
+sich erinnern|ئېسىگە ئالماق
+sich interessieren|قىزىقماق
+sich entscheiden|قارار قىلماق
+sich beeilen|ئالدىرىماق
+sich ausruhen|دەم ئالماق
+sich ärgern|ئاچچىقلانماق
+sich vorstellen|ئۆزىنى تونۇشتۇرماق؛ تەسەۋۋۇر قىلماق
+sich anziehen|كىيىنمەك
+sich kümmern|غەمخورلۇق قىلماق
+sich verabschieden|خوشلاشماق
+sich bewerben|ئىلتىماس قىلماق (خىزمەت)
+sich unterhalten|پاراڭلاشماق
+sich verlieben|ئاشىق بولماق
+sich verspäten|كېچىكمەك
+sich ändern|ئۆزگەرمەك
+sich konzentrieren|دىققەتنى مەركەزلەشتۈرمەك
+sich entschuldigen|ئەپۇ سورىماق
+sich erholen|دەم ئېلىپ ئەسلىگە كەلمەك
+sich streiten|جېدەللەشمەك

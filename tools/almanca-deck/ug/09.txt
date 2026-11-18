@@ -1,0 +1,157 @@
+das Haustier|ئۆي ھايۋىنى
+das Spielzeug|ئويۇنچۇق
+das Lebensmittel|يېمەكلىك
+die Vorspeise|ئالدىن يېيىلىدىغان تاماق
+der Nachtisch|تاتلىق تۈرۈم
+der Eintritt|كىرىش (ھەققى)
+die Eintrittskarte|كىرىش بېلىتى
+das Gepäck|يۈك
+der Abflug|ئۇچۇپ كېتىش
+die Ankunft|يېتىپ كېلىش
+die Abfahrt|قوزغىلىش
+der Flug|ئۇچۇش
+der Passagier|يولۇچى
+der Zoll|تاموژنا
+der Hafen|پورت
+der Wohnort|تۇرالغۇ
+die Hauptstadt|پايتەخت
+die Fläche|يۈز؛ مەيدان
+die Region|رايون
+die Landschaft|مەنزىرە
+die Umgebung|ئەتراپ
+die Umwelt|مۇھىت
+das Klima|كىلىمات
+der Alltag|كۈندىلىك ھايات
+das Gebäude|بىنا
+die Halle|زال
+das Stadion|تەنتەربىيە مەيدانى
+die Station|ئىستانسا؛ بېكەت
+das Fahrzeug|قاتناش ۋاسىتىسى
+die Maschine|ماشىنا (ئۈسكۈنە)
+der Motor|ماتور
+das Gerät|ئۈسكۈنە
+die Geschwindigkeit|سۈرئەت
+der Kanal|قانال
+das Magazin|ژۇرنال
+das Album|ئالبوم
+die Show|تاماشا
+die Bühne|سەھنە
+die Szene|كۆرۈنۈش
+der Roman|رومان
+die Serie|تىياتىر؛ يۈرۈش
+der Witz|لەتىپە
+der Tipp|مەسلىھەت
+das Team|گۇرۇپپا
+der Club|كۇلۇب
+das Training|مەشىق
+die Niederlage|مەغلۇبىيەت
+der Sieg|غەلىبە
+der Chat|پاراڭ (تور)
+der Service|مۇلازىمەت
+der Dienst|خىزمەت؛ نۆۋەتچىلىك
+die Sitzung|يىغىن
+die Tabelle|جەدۋەل
+die Kategorie|تۈر
+die Einheit|بىرلىك
+die Sammlung|توپلام
+der Flüchtling|مۇساپىر
+das Parlament|پارلامېنت
+der Minister|مىنىستىر
+der Professor|پروفېسسور
+der Experte|مۇتەخەسسىس
+der Journalist|مۇخبىر
+der Musiker|مۇزىكانت
+der Star|يۇلتۇز (چولپان)
+der Leser|ئوقۇرمەن
+der Besucher|زىيارەتچى
+der Bewohner|ئاھالە
+der Einwohner|ئاھالە
+der Arbeitgeber|خوجايىن (ئىش بەرگۈچى)
+der Besitzer|ئىگە
+der Arbeiter|ئىشچى
+die Hochschule|ئالىي مەكتەپ
+das Gymnasium|تولۇق ئوتتۇرا مەكتەپ
+die Botschaft|ئەلچىخانا؛ ئۇچۇر
+die Klinik|كلىنىكا
+die Chemie|خىمىيە
+die Medizin|تېبابەت؛ دورا
+die Droge|زەھەرلىك چېكىملىك
+der Alkohol|ھاراق (ئىسپىرت)
+die Ernährung|ئوزۇقلىنىش
+die Behandlung|داۋالاش
+die Geburt|تۇغۇلۇش
+das Geschlecht|جىنس
+die Gemeinschaft|جامائەت
+die Menschheit|ئىنسانىيەت
+die Generation|ئەۋلاد
+die Führung|رەھبەرلىك؛ يېتەكچىلىك
+der Auftrag|زاكاز؛ ۋەزىپە
+der Antrag|ئىلتىماس
+die Bedingung|شەرت
+die Voraussetzung|ئالدىنقى شەرت
+die Ausnahme|ئىستىسنا
+der Zugang|كىرىش ئىمكانىيىتى
+die Planung|پىلانلاش
+die Änderung|ئۆزگەرتىش
+die Absicht|نىيەت
+die Strategie|ئىستراتېگىيە
+die Struktur|قۇرۇلما
+die Methode|ئۇسۇل
+die Funktion|ئىقتىدار
+die Anwendung|قوللىنىش
+die Aktion|ھەرىكەت؛ پائالىيەت
+die Aktivität|پائالىيەت
+die Phase|باسقۇچ
+der Vortrag|دوكلات
+die Verhandlung|سۆھبەت (سودا/سىياسىي)
+der Streit|جېدەل
+das Gefängnis|تۈرمە
+die Krise|كرىزىس
+der Kampf|كۈرەش
+der Einsatz|ئىشلىتىش؛ تىرىشچانلىق
+der Anteil|ئۈلۈش
+das Verhältnis|مۇناسىۋەت؛ نىسبەت
+der Gegensatz|قارىمۇقارشىلىق
+das Gegenteil|ئەكسى
+der Eindruck|تەسىرات
+die Erinnerung|ئەسلىمە
+der Hinweis|ئەسكەرتىش
+die Reaktion|ئىنكاس
+der Stil|ئۇسلۇب
+die Stimmung|كەيپىيات
+die Atmosphäre|كەيپىيات؛ ئاتموسفېرا
+die Tatsache|پاكىت
+die Vorstellung|ئويۇن قويۇش؛ تەسەۋۋۇر
+die Theorie|نەزەرىيە
+die Realität|رېئاللىق
+der Zweifel|گۇمان
+der Respekt|ھۆرمەت
+das Verständnis|چۈشىنىش
+der Umgang|مۇئامىلە
+die Beschreibung|تەسۋىر
+der Ausdruck|ئىبارە؛ ئىپادە
+die Ansicht|قاراش؛ مەنزىرە
+die Einstellung|پوزىتسىيە؛ تەڭشەك
+die Haltung|پوزىتسىيە
+die Debatte|مۇنازىرە
+die Schwierigkeit|قىيىنچىلىق
+der Vorschlag|تەكلىپ
+das Detail|تەپسىلات
+der Hintergrund|ئارقا كۆرۈنۈش
+die Figur|پېرسوناژ؛ قەددى-قامەت
+der Zufall|تاسادىپىيلىق
+die Überraschung|سۈرپرىز
+die Unterhaltung|پاراڭ؛ كۆڭۈل ئېچىش
+die Schönheit|گۈزەللىك
+die Mischung|ئارىلاشما
+das Wachstum|ئۆسۈش
+die Basis|ئاساس
+die Version|نەشرى
+die Statistik|ستاتىستىكا
+die Herkunft|كېلىپ چىقىش
+der Humor|يۇمۇر
+der Kontakt|ئالاقە
+die Kontrolle|تەكشۈرۈش؛ كونترول
+die Zusammenarbeit|ھەمكارلىق
+der Anspruch|تەلەپ؛ ھوقۇق
+die Handlung|ھەرىكەت؛ ۋەقەلىك

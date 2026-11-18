@@ -1,0 +1,242 @@
+#Adverbien und Partikeln B1
+adv||weiter|–|devam; daha öteye|Wir gehen weiter.
+adv||wohl|–|herhalde; muhtemelen|Das ist wohl richtig.
+adv||dazu|–|bunun için; buna|Was sagst du dazu?
+adv||dafür|–|bunun için; buna karşılık|Ich bin dafür.
+adv||bereits|–|zaten; çoktan|Er ist bereits da.
+adv||jedoch|–|ancak; fakat|Er ist nett, jedoch etwas laut.
+adv||darauf|–|üzerine; buna|Ich freue mich darauf.
+adv||allerdings|–|ancak; gerçi|Das ist allerdings teuer.
+adv||sonst|–|aksi halde; başka|Beeil dich, sonst verpasst du den Zug.
+adv||eben|–|az önce; işte; tam|Ich komme eben vom Arzt.
+adv||kaum|–|neredeyse hiç; zorlukla|Ich kann kaum noch laufen.
+adv||daran|–|ona; bunun üzerinde|Ich denke daran.
+adv||halt|–|işte; (dolgu sözcüğü)|Das ist halt so.
+adv||direkt|–|doğrudan|Ich gehe direkt nach Hause.
+adv||überhaupt|–|hiç; genel olarak|Das ist überhaupt nicht wahr.
+adv||eher|–|daha çok; daha erken|Ich komme eher später.
+adv||deutlich|–|açıkça; belirgin|Sprich bitte deutlich.
+adv||damals|–|o zamanlar|Damals war ich noch klein.
+adv||egal|–|fark etmez|Das ist mir egal.
+adv||bisher|–|şimdiye kadar|Bisher ist alles gut.
+adv||los|–|başlamak; serbest; hadi|Was ist los?
+adv||meist|–|çoğunlukla|Die Läden sind meist offen.
+adv||zunächst|–|önce; ilk olarak|Zunächst möchte ich danke sagen.
+adv||bisschen|–|biraz|Ich spreche ein bisschen Deutsch.
+adv||früher|–|eskiden|Früher habe ich in Ankara gewohnt.
+adv||darum|–|bu yüzden|Darum bin ich hier.
+adv||raus|–|dışarı|Raus hier!
+adv||rein|–|içeri|Komm rein!
+adv||vorbei|–|bitmiş; geçmiş|Der Sommer ist vorbei.
+adv||dagegen|–|buna karşı|Ich habe nichts dagegen.
+adv||ebenso|–|aynı şekilde|Ich habe ebenso gedacht.
+adv||tatsächlich|–|gerçekten; aslında|Das ist tatsächlich passiert.
+adv||nämlich|–|çünkü; yani|Ich bin müde, ich habe nämlich schlecht geschlafen.
+adv||gleichzeitig|–|aynı anda|Wir kommen gleichzeitig an.
+adv||zumindest|–|en azından|Zumindest ist es warm.
+adv||übrigens|–|bu arada|Übrigens, ich komme morgen.
+adv||mindestens|–|en az|Das dauert mindestens eine Stunde.
+adv||höchstens|–|en fazla|Ich habe höchstens zehn Euro.
+adv||selber|–|kendisi|Ich mache das selber.
+adv||weiterhin|–|hâlâ; bundan sonra da|Wir arbeiten weiterhin zusammen.
+adv||dennoch|–|yine de|Es ist spät, dennoch gehe ich noch raus.
+adv||somit|–|böylece|Somit ist alles klar.
+adv||jeweils|–|her biri için|Wir zahlen jeweils zehn Euro.
+adv||häufig|–|sık sık|Das passiert häufig.
+adv||nochmal|–|bir kez daha|Sag das bitte nochmal.
+adv||beispielsweise|–|örneğin|Beispielsweise kann man Deutsch lernen.
+adv||zum Beispiel|–|örneğin|Ich esse gern Obst, zum Beispiel Äpfel.
+adv||mittlerweile|–|bu arada; artık|Mittlerweile ist es dunkel.
+adv||teilweise|–|kısmen|Das ist teilweise richtig.
+adv||unbedingt|–|mutlaka|Du musst unbedingt kommen.
+adv||unterwegs|–|yolda|Ich bin gerade unterwegs.
+adv||genauso|–|aynı şekilde|Ich sehe das genauso.
+adv||durchaus|–|gayet|Das ist durchaus möglich.
+adv||komplett|–|tamamen|Das ist komplett falsch.
+adv||niemals|–|asla|Das tue ich niemals.
+adv||erneut|–|yeniden|Er versucht es erneut.
+adv||knapp|–|dar; ancak|Wir haben knapp gewonnen.
+adv||vermutlich|–|muhtemelen|Er kommt vermutlich später.
+adv||total|–|tamamen|Das ist total gut.
+adv||nahe|–|yakın|Das Hotel liegt nahe am Strand.
+adv||offenbar|–|belli ki; anlaşılan|Er ist offenbar krank.
+adv||zuletzt|–|en son|Wann hast du ihn zuletzt gesehen?
+adv||absolut|–|kesinlikle|Das ist absolut richtig.
+adv||derzeit|–|şu anda|Derzeit bin ich in Berlin.
+adv||regelmäßig|–|düzenli olarak|Ich lerne regelmäßig.
+adv||erstmals|–|ilk kez|Ich bin erstmals in Deutschland.
+adv||entsprechend|–|buna göre|Ich handle entsprechend.
+adv||erstmal|–|önce; şimdilik|Erstmal essen wir etwas.
+adv||immerhin|–|en azından; nihayet|Immerhin hast du es versucht.
+adv||solange|–|-diği sürece|Solange es regnet, bleibe ich hier.
+adv||ständig|–|sürekli|Er ruft ständig an.
+adv||zusätzlich|–|ek olarak|Es kostet zusätzlich zehn Euro.
+adv||anschließend|–|ardından|Anschließend gehen wir essen.
+adv||persönlich|–|şahsen|Ich komme persönlich vorbei.
+adv||relativ|–|nispeten|Das ist relativ billig.
+adv||stets|–|daima|Er ist stets freundlich.
+adv||weltweit|–|dünya çapında|Das gilt weltweit.
+adv||grundsätzlich|–|prensip olarak|Grundsätzlich bin ich dafür.
+adv||zuhause|–|evde|Ich bin zuhause.
+adv||wiederum|–|buna karşılık; yine|Er wiederum sagt das Gegenteil.
+adv||zugleich|–|aynı zamanda|Er ist Lehrer und zugleich Vater.
+adv||allgemein|–|genel olarak|Allgemein ist das richtig.
+adv||außen|–|dışarıda|Die Tür ist außen rot.
+adv||innen|–|içeride|Innen ist es warm.
+adv||möglicherweise|–|muhtemelen; belki|Möglicherweise regnet es.
+adv||hauptsächlich|–|esas olarak|Ich arbeite hauptsächlich nachts.
+adv||selbstverständlich|–|elbette; kendiliğinden anlaşılır|Selbstverständlich helfe ich dir.
+adv||sicherlich|–|muhakkak|Das stimmt sicherlich.
+adv||völlig|–|tamamen|Das ist völlig egal.
+adv||vollkommen|–|tamamen|Das ist vollkommen richtig.
+adv||zudem|–|ayrıca|Er ist nett und zudem klug.
+adv||irgendwie|–|bir şekilde|Irgendwie schaffe ich das.
+adv||irgendwann|–|bir ara; bir gün|Irgendwann komme ich vorbei.
+adv||irgendwas|–|herhangi bir şey|Hast du irgendwas gesehen?
+adv||irgendwer|–|herhangi biri|Irgendwer hat angerufen.
+adv||miteinander|–|birbiriyle|Wir sprechen miteinander.
+adv||füreinander|–|birbiri için|Wir sind füreinander da.
+adv||hinein|–|içeri (uzağa)|Gehen Sie hinein.
+adv||heraus|–|dışarı (yakına)|Komm heraus!
+adv||hinaus|–|dışarı (uzağa)|Gehen Sie hinaus.
+adv||hinauf|–|yukarı|Wir gehen den Berg hinauf.
+adv||hinunter|–|aşağı|Wir gehen hinunter.
+adv||herein|–|içeri (yakına)|Herein, bitte!
+adv||darin|–|içinde|Darin liegt das Problem.
+adv||dabei|–|yanında; bu arada|Ich habe das Handy dabei.
+adv||dadurch|–|bu sayede|Dadurch spare ich Zeit.
+adv||darüber|–|bunun üzerine|Wir sprechen darüber.
+adv||davon|–|bundan|Davon weiß ich nichts.
+adv||dahin|–|oraya|Ich gehe dahin.
+adv||daher|–|bu yüzden|Daher bin ich hier.
+adv||womit|–|neyle|Womit schreibst du?
+adv||wofür|–|ne için|Wofür brauchst du das?
+adv||worüber|–|ne hakkında|Worüber sprecht ihr?
+adv||woran|–|neye|Woran denkst du?
+adv||worauf|–|neyin üzerine; neye|Worauf wartest du?
+adv||neulich|–|geçenlerde|Ich habe ihn neulich gesehen.
+adv||vorhin|–|az önce|Er hat vorhin angerufen.
+adv||kürzlich|–|yakın zamanda|Wir waren kürzlich dort.
+adv||zurzeit|–|şu sıralar|Zurzeit habe ich viel Arbeit.
+adv||ab und zu|–|ara sıra|Ab und zu gehe ich ins Kino.
+adv||nachher|–|sonra; birazdan|Wir sehen uns nachher.
+adv||mittags|–|öğleyin|Mittags esse ich warm.
+adv||stundenlang|–|saatlerce|Er schläft stundenlang.
+adv||wenigstens|–|en azından|Hilf mir wenigstens.
+adv||ungefähr|–|aşağı yukarı|Es sind ungefähr fünf Kilometer.
+adv||umsonst|–|boşuna; bedava|Alles war umsonst.
+adv||sogar|–|hatta|Es regnet sogar.
+adv||sowieso|–|zaten; her halükârda|Das ist sowieso klar.
+adv||trotzdem|–|yine de|Ich bin müde, trotzdem lerne ich.
+adv||jedes Mal|–|her seferinde|Jedes Mal ist es anders.
+adv||nirgendwo|–|hiçbir yerde|Nirgendwo ist es schöner.
+adv||überallhin|–|her yere|Ich fahre überallhin.
+adv||entweder|–|ya … ya da|Entweder du bleibst oder du gehst.
+adv||also|–|yani; öyleyse|Also, wir sehen uns morgen.
+adv||nun|–|şimdi; artık|Nun gut, ich komme mit.
+adv||na|–|e; hadi (konuşma)|Na, wie geht's?
+adv||ach|–|ah; ay|Ach, wirklich?
+adv||oh|–|oh|Oh, das ist schön!
+adv||ok|–|tamam|Ok, ich komme.
+adv||okay|–|tamam|Okay, bis später!
+adv||tja|–|eh; neyse|Tja, was soll man machen?
+adv||na ja|–|neyse; eh|Na ja, es geht.
+adv||ganz bestimmt|–|kesinlikle|Das klappt ganz bestimmt.
+#Adjektive B1
+adj||ausreichend|–|yeterli|Das Geld ist ausreichend.
+adj||deutlich|deutlicher · am deutlichsten|açık; belirgin|Das ist ein deutlicher Unterschied.
+adj||gerecht|gerechter · am gerechtesten|adil|Das ist nicht gerecht.
+adj||gewöhnlich|–|alışılmış; sıradan|Das ist ein gewöhnlicher Tag.
+adj||gültig|–|geçerli|Der Ausweis ist noch gültig.
+adj||häufig|häufiger · am häufigsten|sık; sık rastlanan|Das ist ein häufiger Fehler.
+adj||hilfreich|hilfreicher · am hilfreichsten|yardımcı|Das ist sehr hilfreich.
+adj||kritisch|kritischer · am kritischsten|eleştirel; kritik|Er ist kritisch.
+adj||künstlich|künstlicher · am künstlichsten|yapay|Das ist künstliches Licht.
+adj||ordentlich|ordentlicher · am ordentlichsten|düzenli; derli toplu|Dein Zimmer ist ordentlich.
+adj||peinlich|peinlicher · am peinlichsten|utanç verici|Das ist mir peinlich.
+adj||rechtzeitig|–|zamanında|Ich bin rechtzeitig da.
+adj||schädlich|schädlicher · am schädlichsten|zararlı|Rauchen ist schädlich.
+adj||sonnig|sonniger · am sonnigsten|güneşli|Heute ist es sonnig.
+adj||regnerisch|regnerischer · am regnerischsten|yağmurlu|Der Tag ist regnerisch.
+adj||windig|windiger · am windigsten|rüzgârlı|Heute ist es windig.
+adj||neblig|nebliger · am nebligsten|sisli|Im November ist es neblig.
+adj||bewölkt|–|bulutlu|Der Himmel ist bewölkt.
+adj||sorgfältig|sorgfältiger · am sorgfältigsten|özenli|Er arbeitet sorgfältig.
+adj||streng|strenger · am strengsten|sert; katı|Der Lehrer ist streng.
+adj||traditionell|traditioneller · am traditionellsten|geleneksel|Das ist ein traditionelles Essen.
+adj||überflüssig|–|gereksiz|Das ist überflüssig.
+adj||unabhängig|unabhängiger · am unabhängigsten|bağımsız|Sie ist unabhängig.
+adj||unglücklich|unglücklicher · am unglücklichsten|mutsuz|Er ist unglücklich.
+adj||unterschiedlich|–|farklı|Wir haben unterschiedliche Meinungen.
+adj||verboten|–|yasak|Rauchen ist hier verboten.
+adj||erlaubt|–|serbest; izinli|Parken ist hier erlaubt.
+adj||vergangen|–|geçmiş|Im vergangenen Jahr war ich in Berlin.
+adj||verständlich|verständlicher · am verständlichsten|anlaşılır|Das ist verständlich.
+adj||verfügbar|–|mevcut; kullanılabilir|Das Zimmer ist verfügbar.
+adj||vorsichtig|vorsichtiger · am vorsichtigsten|dikkatli|Fahr vorsichtig!
+adj||wahrscheinlich|wahrscheinlicher · am wahrscheinlichsten|olası|Das ist wahrscheinlich richtig.
+adj||wertvoll|wertvoller · am wertvollsten|değerli|Das ist ein wertvolles Geschenk.
+adj||zukünftig|–|gelecekteki|Meine zukünftige Wohnung ist groß.
+adj||zuständig|–|yetkili; sorumlu|Wer ist dafür zuständig?
+adj||zufällig|–|tesadüfi|Wir haben uns zufällig getroffen.
+adj||zweifellos|–|kuşkusuz|Das ist zweifellos richtig.
+adj||aktuell|aktueller · am aktuellsten|güncel|Das ist ein aktuelles Thema.
+adj||aktiv|aktiver · am aktivsten|aktif|Er ist sehr aktiv.
+adj||erfolgreich|erfolgreicher · am erfolgreichsten|başarılı|Sie ist eine erfolgreiche Ärztin.
+adj||perfekt|–|mükemmel|Das ist perfekt!
+adj||nötig|–|gerekli|Das ist nicht nötig.
+adj||notwendig|notwendiger · am notwendigsten|zorunlu; gerekli|Das ist notwendig.
+adj||cool|cooler · am coolsten|havalı|Das ist cool!
+adj||bewusst|–|bilinçli|Das ist mir bewusst.
+adj||schlimm|schlimmer · am schlimmsten|kötü; ciddi|Das ist nicht so schlimm.
+adj||verantwortlich|–|sorumlu|Ich bin dafür verantwortlich.
+adj||vorhanden|–|mevcut; var olan|Es sind keine Plätze mehr vorhanden.
+adj||allgemein|–|genel|Das ist allgemein bekannt.
+adj||extrem|extremer · am extremsten|aşırı|Die Hitze ist extrem.
+adj||positiv|positiver · am positivsten|olumlu|Das Ergebnis ist positiv.
+adj||negativ|negativer · am negativsten|olumsuz|Das Ergebnis ist negativ.
+adj||tot|–|ölü|Der Vogel ist tot.
+adj||lebendig|lebendiger · am lebendigsten|canlı|Die Stadt ist sehr lebendig.
+adj||näher|–|daha yakın|Das Hotel ist näher am Strand.
+adj||wesentlich|wesentlicher · am wesentlichsten|esaslı; önemli|Das ist ein wesentlicher Punkt.
+adj||ehemalig|–|eski; önceki|Er ist mein ehemaliger Lehrer.
+adj||offensichtlich|–|aşikâr|Das ist offensichtlich falsch.
+adj||unglaublich|unglaublicher · am unglaublichsten|inanılmaz|Das ist unglaublich!
+adj||gewiss|–|kesin; belli|Das ist gewiss.
+adj||möglich|–|olanaklı|Das ist möglich.
+adj||entsprechend|–|uygun; karşılık gelen|Wir brauchen entsprechende Unterlagen.
+adj||folgend|–|aşağıdaki|Beachten Sie das Folgende.
+adj||regelmäßig|–|düzenli|Er macht regelmäßig Sport.
+adj||heutig|–|bugünkü|Die heutige Zeit ist schnell.
+adj||gesamt|–|tüm; bütün|Die gesamte Familie ist da.
+adj||zahlreich|–|çok sayıda|Zahlreiche Gäste sind gekommen.
+adj||persönlich|–|kişisel|Das ist eine persönliche Frage.
+adj||entfernt|–|uzak|Das Dorf ist weit entfernt.
+adj||knapp|knapper · am knappsten|kıt; dar|Das Geld ist knapp.
+adj||komplett|–|tam; eksiksiz|Die Liste ist komplett.
+adj||einzeln|–|tek; ayrı|Jedes einzelne Wort ist wichtig.
+adj||einzig|–|tek; biricik|Das ist der einzige Weg.
+adj||nahe|näher · am nächsten|yakın|Der Bahnhof ist nahe.
+adj||sogenannt|–|sözde|Das ist das sogenannte Problem.
+adj||überrascht|–|şaşırmış|Ich bin überrascht.
+adj||erschöpft|erschöpfter · am erschöpftesten|bitkin|Ich bin erschöpft.
+adj||enttäuscht|enttäuschter · am enttäuschtesten|hayal kırıklığına uğramış|Ich bin enttäuscht.
+adj||begeistert|begeisterter · am begeistertsten|heyecanlı; coşkulu|Ich bin begeistert.
+adj||interessiert|–|ilgili|Ich bin an Musik interessiert.
+adj||gespannt|–|merakla bekleyen|Ich bin gespannt auf das Ergebnis.
+adj||sicher|–|emin|Ich bin mir sicher.
+adj||bereit|–|hazır|Ich bin bereit.
+adj||anwesend|–|hazır bulunan|Alle sind anwesend.
+adj||abwesend|–|bulunmayan|Er ist abwesend.
+adj||vorsichtig|–|dikkatli|Sei vorsichtig!
+adj||berufstätig|–|çalışan|Beide Eltern sind berufstätig.
+adj||arbeitslos|–|işsiz|Er ist arbeitslos.
+adj||krank|–|hasta|Ich bin heute krank.
+adj||pünktlich|–|dakik|Sei bitte pünktlich.
+adj||ausverkauft|–|tükenmiş|Die Tickets sind ausverkauft.
+adj||geöffnet|–|açık|Das Geschäft ist geöffnet.
+adj||verspätet|–|gecikmiş|Der Zug ist verspätet.
+adj||direkt|–|doğrudan|Das ist ein direkter Flug.
+adj||eigentlich|–|asıl; gerçek|Das ist der eigentliche Grund.
+adj||ganz|–|tam|Das ist die ganze Wahrheit.
+adj||ziemlich|–|oldukça|Das ist ein ziemlich großer Unterschied.

@@ -1,0 +1,269 @@
+der Mann|ئەر؛ ئېرى
+die Frau|ئايال؛ خانىم
+das Kind|بالا
+der Junge|ئوغۇل بالا
+das Mädchen|قىز بالا
+das Baby|بوۋاق
+der Mensch|ئىنسان؛ ئادەم
+die Leute|كىشىلەر
+die Familie|ئائىلە
+die Eltern|ئاتا-ئانا
+der Vater|ئاتا؛ دادا
+die Mutter|ئانا
+der Sohn|ئوغۇل
+die Tochter|قىز
+der Bruder|ئاكا؛ ئۇكا
+die Schwester|ئاچا؛ سىڭىل
+die Geschwister|قېرىنداشلار
+der Großvater|بوۋا
+die Großmutter|موما
+die Großeltern|بوۋا-موما
+der Onkel|تاغا؛ ئاكا (دادىسىنىڭ)
+die Tante|ھامما؛ چوڭ ئانا
+der Cousin|تاغىسىنىڭ ئوغلى (نەۋرە ئاكا-ئۇكا)
+die Cousine|نەۋرە ئاچا-سىڭىل
+der Neffe|جىيەن (ئوغۇل)
+die Nichte|جىيەن (قىز)
+der Enkel|نەۋرە
+der Ehemann|ئېرى
+die Ehefrau|ئايالى
+der Freund|دوست؛ ئوغۇل دوست
+die Freundin|دوست (قىز)؛ قىز دوست
+der Nachbar|قوشنا
+der Gast|مېھمان
+der Herr|ئەپەندى
+der Name|ئىسىم
+der Vorname|ئىسىم
+der Nachname|فامىلە
+das Alter|ياش
+der Geburtstag|تۇغۇلغان كۈن
+die Person|كىشى
+die Gruppe|گۇرۇپپا
+der Mitarbeiter|خىزمەتچى
+der Kollege|خىزمەتداش
+der Chef|باشلىق
+der Lehrer|ئوقۇتقۇچى (ئەر)
+die Lehrerin|ئوقۇتقۇچى (ئايال)
+der Schüler|ئوقۇغۇچى
+der Student|ئالىي مەكتەپ ئوقۇغۇچىسى
+der Arzt|دوختۇر (ئەر)
+die Ärztin|دوختۇر (ئايال)
+der Polizist|ساقچى
+der Koch|ئاشپەز
+der Fahrer|شوپۇر
+der Verkäufer|ساتقۇچى
+der Kellner|مۇلازىم
+der Bauer|دېھقان
+der Ingenieur|ئىنژېنېر
+der Fremde|ناتونۇش ئادەم
+der Körper|بەدەن
+der Kopf|باش
+das Gesicht|يۈز
+das Haar|چاچ
+das Auge|كۆز
+das Ohr|قۇلاق
+die Nase|بۇرۇن
+der Mund|ئېغىز
+der Zahn|چىش
+der Hals|بويۇن؛ كېكىردەك
+die Schulter|مۈرە
+der Arm|بىلەك؛ قول
+die Hand|قول
+der Finger|بارماق
+der Rücken|دۈمبە
+der Bauch|قورساق
+das Herz|يۈرەك
+das Bein|پۇت
+das Knie|تىز
+der Fuß|ئاياغ؛ پۇت
+die Haut|تېرە
+das Blut|قان
+das Essen|تاماق
+das Frühstück|ناشتا
+das Mittagessen|چۈشلۈك تاماق
+das Abendessen|كەچلىك تاماق
+das Brot|نان
+das Brötchen|كىچىك نان
+die Butter|سېرىق ماي
+der Käse|پىشلاق
+die Wurst|كولباسا
+das Fleisch|گۆش
+der Fisch|بېلىق
+das Huhn|توخۇ
+das Ei|تۇخۇم
+der Reis|گۈرۈچ؛ پولۇ
+die Nudel|لەڭمەن؛ ماكارون
+die Kartoffel|بەرەڭگە
+das Gemüse|كۆكتات
+das Obst|مېۋە
+der Apfel|ئالما
+die Banane|بانان
+die Orange|ئاپېلسىن
+die Zitrone|لىمون
+die Tomate|پەمىدۇر
+die Gurke|تەرخەمەك
+die Zwiebel|پىياز
+der Knoblauch|سامساق
+die Karotte|سەۋزە
+der Salat|سالات
+die Suppe|شورپا
+die Pizza|پىتسا
+der Kuchen|تورت؛ پىرەنىك
+die Torte|تورت
+die Schokolade|شاكىلات
+das Eis|مۇزقايماق؛ مۇز
+der Zucker|شېكەر
+das Salz|تۇز
+der Pfeffer|قارا مۇچ
+das Öl|ماي (سۇيۇق)
+der Honig|ھەسەل
+die Marmelade|مۇراببا
+die Milch|سۈت
+das Wasser|سۇ
+der Saft|شەربەت
+der Tee|چاي
+der Kaffee|قەھۋە
+das Bier|پىۋا
+der Wein|ھاراق (ئۈزۈم)
+das Getränk|ئىچىملىك
+die Flasche|بوتۇلكا
+das Glas|ئىستاكان؛ ئەينەك
+die Tasse|پىيالە
+der Teller|تەخسە
+das Messer|پىچاق
+die Gabel|ۋىلكا
+der Löffel|قوشۇق
+die Speisekarte|تاماق تىزىملىكى
+die Rechnung|ھېسابات؛ تالون
+das Restaurant|ئاشخانا
+das Café|قەھۋەخانا
+der Hunger|ئاچلىق
+der Durst|ئۇسسۇزلۇق
+das Haus|ئۆي
+die Wohnung|ئۆي (بىنادىكى)
+das Zimmer|ئۆي؛ ياتاق
+die Küche|ئاشخانا (ئۆيدىكى)
+das Bad|مۇنچا؛ يۇيۇنۇش ئۆيى
+das Badezimmer|يۇيۇنۇش ئۆيى
+die Toilette|ھاجەتخانا
+das Wohnzimmer|مېھمانخانا (ئۆيدىكى)
+das Schlafzimmer|ياتاق ئۆي
+das Kinderzimmer|بالىلار ئۆيى
+der Flur|كارىدور
+der Balkon|بالكون
+der Garten|باغ
+der Keller|ئاستىنقى قەۋەت
+die Garage|ماشىنا ئىسكىلاتى
+die Treppe|پەلەمپەي
+der Aufzug|لىفت
+das Dach|ئۆگزە
+die Wand|تام
+der Boden|يەر؛ پول
+die Decke|تورۇس؛ يوتقان
+die Tür|ئىشىك
+das Fenster|دېرىزە
+der Schlüssel|ئاچقۇچ
+die Miete|ئىجارە ھەققى
+der Tisch|ئۈستەل
+der Stuhl|ئورۇندۇق
+das Sofa|سافا
+der Sessel|يۇمشاق ئورۇندۇق
+das Bett|كارىۋات
+der Schrank|ئىشكاپ
+das Regal|تەكچە
+die Lampe|لامپا
+das Licht|نۇر؛ چىراغ
+der Teppich|گىلەم
+der Spiegel|ئەينەك (كۆرۈنۈش)
+das Bild|رەسىم
+die Uhr|سائەت
+der Kühlschrank|توڭلاتقۇ
+der Herd|ئوچاق
+der Ofen|تونۇر؛ پېچ
+die Waschmaschine|كىر ئالغۇ
+die Heizung|ئىسسىتقۇ
+die Dusche|دۇش
+das Handtuch|لۆڭگە
+die Seife|سوپۇن
+die Zahnbürste|چىش چوتكىسى
+der Müll|ئەخلەت
+die Kleidung|كىيىم
+das Hemd|كۆڭلەك
+das T-Shirt|مايكا
+der Pullover|يۇڭ كۆڭلەك
+die Jacke|كۇرتكا
+der Mantel|پەلتو
+die Hose|ئىشتان
+die Jeans|جىنسى ئىشتان
+der Rock|يوپكا
+das Kleid|كۆينەك
+der Anzug|كاستيۇم
+der Schuh|ئاياغ
+die Socke|پايپاق
+die Mütze|بۆك
+der Hut|شىلەپە
+der Schal|شارپا
+der Handschuh|پەلەي
+die Tasche|سومكا؛ يانچۇق
+der Rucksack|دۈمبە سومكىسى
+die Brille|كۆزئەينەك
+der Gürtel|بەلباغ
+der Regenschirm|كۈنلۈك
+der Ring|ئۈزۈك
+die Zeit|ۋاقىت
+die Sekunde|سېكۇنت
+die Minute|مىنۇت
+die Stunde|سائەت (ۋاقىت ئۇزۇنلۇقى)
+der Tag|كۈن
+die Woche|ھەپتە
+der Monat|ئاي
+das Jahr|يىل؛ ياش
+das Wochenende|ھەپتە ئاخىرى
+der Morgen|ئەتىگەن
+der Vormittag|چۈشتىن بۇرۇن
+der Mittag|چۈش
+der Nachmittag|چۈشتىن كېيىن
+der Abend|كەچ
+die Nacht|كېچە
+der Montag|دۈشەنبە
+der Dienstag|سەيشەنبە
+der Mittwoch|چارشەنبە
+der Donnerstag|پەيشەنبە
+der Freitag|جۈمە
+der Samstag|شەنبە
+der Sonntag|يەكشەنبە
+der Januar|يانۋار
+der Februar|فېۋرال
+der März|مارت
+der April|ئاپرېل
+der Mai|ماي
+der Juni|ئىيۇن
+der Juli|ئىيۇل
+der August|ئاۋغۇست
+der September|سېنتەبىر
+der Oktober|ئۆكتەبىر
+der November|نويابىر
+der Dezember|دېكابىر
+der Frühling|ئەتىياز
+der Sommer|ياز
+der Herbst|كۈز
+der Winter|قىش
+das Datum|چېسلا
+der Termin|ۋاقىت بېكىتىلگەن ئۇچرىشىش
+der Kalender|كالېندار
+die Pause|ئارام
+der Urlaub|دەم ئېلىش؛ رۇخسەت
+die Ferien|تەتىل
+der Feiertag|بايرام كۈنى
+das Fest|بايرام؛ تەنتەنە
+das Wetter|ھاۋا رايى
+die Sonne|قۇياش
+der Regen|يامغۇر
+der Schnee|قار
+der Wind|شامال
+die Wolke|بۇلۇت
+der Himmel|ئاسمان؛ جەننەت
+der Mond|ئاي (ئاسماندىكى)
+der Stern|يۇلتۇز
+die Temperatur|تېمپېراتۇرا
+das Grad|گرادۇس
